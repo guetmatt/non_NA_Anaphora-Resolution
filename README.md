@@ -169,7 +169,7 @@ Es sind insgesamt drei Dateien vorhanden.
 
 ## Allgemeine Hinweise
 
-Das Programm ist für Datensätze der `CODI-CRAC 2021 Shared-Task: Anaphora Resolution in Dialogues` ausgelegt. FÜr eine komfortable Anwendung sind weitere lokale Vorverarbeitungsschritte mit Funktionen aus `functions_basic.py`, die nicht auf Nutzerfreundlichkeit ausgelegt sind, notwendig. (Die bei der Abgabe der Bachelorarbeit mitgelieferten Dateien wurden schon vorverarbeitet, sodass die Anwendung der Nutzerfunktionen damit möglich ist)
+Das Programm ist für Datensätze der `CODI-CRAC 2021 Shared-Task: Anaphora Resolution in Dialogues` ausgelegt. Aus Gründen des Datenschutzes können die Dateien bei GitHub nicht hochgeladen werden. Für eine komfortable Anwendung sind weitere lokale Vorverarbeitungsschritte mit Funktionen aus `functions_basic.py`, die nicht auf Nutzerfreundlichkeit ausgelegt sind, notwendig. (Die bei der Abgabe der Bachelorarbeit mitgelieferten Dateien wurden schon vorverarbeitet, sodass die Anwendung der Nutzerfunktionen damit möglich ist)
 Die Datensätze wurden außerdem mit freundlicher Genehmigung des Linguistic Data Consortium für die vorliegende Arbeit zur Verfügung gestellt.
 - https://competitions.codalab.org/competitions/30312
 - https://www.ldc.upenn.edu/
