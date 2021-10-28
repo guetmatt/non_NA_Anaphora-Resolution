@@ -184,6 +184,6 @@ Für die Anwendung ist außerdem eine Installation von Scikit-learn notwendig. D
 Für export und import der trainierten Klassifizierer in/aus externen Dateien wird in den Funktionen `export_model()` und `load_model()` das Python-Modul `pickle` verwendet. Es sollten nur Pickle-Dateien importiert werden, die vertrauenswürdig sind.
 - https://docs.python.org/3/library/pickle.html
 
-Für lokale Aufbereitungsschritte der Datensätze wurde das Paket Stanza der Stanford NLP Group genutzt. Die Funktionen dazu finden sich in der Datei `stanza_preprocessing.py`. Eine Installation des Pakets ist für eine Anwendung der Nutzerfunktionen in `classifier_use.py` nicht notwendig.
+Für lokale Aufbereitungsschritte der Datensätze wurde das Paket `Stanza` der Stanford NLP Group genutzt. Die Funktionen dazu finden sich in der Datei `stanza_preprocessing.py`. Eine Installation des Pakets ist für eine Anwendung der Nutzerfunktionen in `classifier_use.py` nicht notwendig.
 - https://stanfordnlp.github.io/stanza/
 - https://nlp.stanford.edu/
