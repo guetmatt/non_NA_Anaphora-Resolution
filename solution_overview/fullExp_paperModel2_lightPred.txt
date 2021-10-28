@@ -1,0 +1,5181 @@
+# COLUMNS: FORM	LEMMA	UPOS	XPOS	FEATS	HEAD
+
+# KOREFERENZPAAR 1:
+	# ANTEZEDENS:
+	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2
+	sounds	sound	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0
+	to	to	ADP	IN	None	4
+	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2
+	like	like	SCONJ	IN	None	9
+	the	the	DET	DT	Definite=Def|PronType=Art	7
+	fish	fish	NOUN	NN	Number=Plur	9
+	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9
+	engaged	engage	VERB	VBN	Tense=Past|VerbForm=Part	2
+	the	the	DET	DT	Definite=Def|PronType=Art	11
+	services	service	NOUN	NNS	Number=Plur	9
+	of	of	ADP	IN	None	14
+	a	a	DET	DT	Definite=Ind|PronType=Art	14
+	witch	witch	NOUN	NN	Number=Sing	11
+	to	to	PART	TO	None	16
+	stop	stop	VERB	VB	VerbForm=Inf	9
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	16
+	from	from	SCONJ	IN	None	19
+	harvesting	harvest	VERB	VBG	VerbForm=Ger	16
+	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	19
+	.	.	PUNCT	.	None	2
+
+	# ANAPHER:
+	The	the	DET	DT	Definite=Def|PronType=Art	2
+	fish	fish	NOUN	NNS	Number=Plur	4
+	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4
+	aware	aware	ADJ	JJ	Degree=Pos	0
+	of	of	ADP	IN	None	6
+	this	this	PRON	DT	Number=Sing|PronType=Dem	4
+	and	and	CCONJ	CC	None	8
+	respect	respect	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4
+	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	10
+	lot	lot	NOUN	NN	Number=Sing	8
+	in	in	ADP	IN	None	12
+	life	life	NOUN	NN	Number=Sing	8
+	.	.	PUNCT	.	None	4
+
+
+# KOREFERENZPAAR 2:
+	# ANTEZEDENS:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2
+	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	there	there	PRON	EX	None	4
+	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2
+	someone	someone	PRON	NN	Number=Sing	4
+	who	who	PRON	WP	PronType=Rel	8
+	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8
+	hired	hire	VERB	VBN	Tense=Past|VerbForm=Part	5
+	this	this	DET	DT	Number=Sing|PronType=Dem	10
+	witch	witch	NOUN	NN	Number=Sing	8
+	to	to	PART	TO	None	12
+	wipe	wipe	VERB	VB	VerbForm=Inf	8
+	out	out	ADP	RP	None	12
+	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	15
+	island	island	NOUN	NN	Number=Sing	12
+	so	so	SCONJ	IN	None	20
+	that	that	SCONJ	IN	None	16
+	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	20
+	may	may	AUX	MD	VerbForm=Fin	20
+	take	take	VERB	VB	VerbForm=Inf	12
+	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	20
+	over	over	ADP	RP	None	20
+	.	.	PUNCT	.	None	2
+
+	# ANAPHER:
+	If	if	SCONJ	IN	None	3
+	that	that	PRON	DT	Number=Sing|PronType=Dem	3
+	happens	happen	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7
+	,	,	PUNCT	,	None	7
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7
+	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7
+	sure	sure	ADJ	JJ	Degree=Pos	0
+	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	10
+	will	will	AUX	MD	VerbForm=Fin	10
+	destroy	destroy	VERB	VB	VerbForm=Inf	7
+	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	12
+	temple	temple	NOUN	NN	Number=Sing	10
+	!	!	PUNCT	.	None	7
+
+
+# KOREFERENZPAAR 3:
+	# ANTEZEDENS:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3
+	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3
+	wanting	want	VERB	VBG	Tense=Pres|VerbForm=Part	0
+	to	to	PART	TO	None	5
+	see	see	VERB	VB	VerbForm=Inf	3
+	what	what	PRON	WP	PronType=Int	12
+	the	the	DET	DT	Definite=Def|PronType=Art	8
+	people	people	NOUN	NNS	Number=Plur	12
+	of	of	ADP	IN	None	11
+	the	the	DET	DT	Definite=Def|PronType=Art	11
+	kingdom	kingdom	NOUN	NN	Number=Sing	8
+	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5
+	of	of	ADP	IN	None	15
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	15
+	fathers	father	NOUN	NNS	Number=Plur	16
+	rule	rule	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12
+	?	?	PUNCT	.	None	3
+
+	# ANAPHER:
+	Oh	oh	INTJ	UH	None	4
+	,	,	PUNCT	,	None	4
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4
+	apologies	apology	NOUN	NNS	Number=Plur	0
+	for	for	ADP	IN	None	6
+	that	that	PRON	DT	Number=Sing|PronType=Dem	4
+	,	,	PUNCT	,	None	12
+	but	but	CCONJ	CC	None	12
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12
+	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12
+	rather	rather	ADV	RB	None	12
+	recognizable	recognizable	ADJ	JJ	Degree=Pos	4
+	.	.	PUNCT	.	None	4
+
+
+# KOREFERENZPAAR 4:
+	# ANTEZEDENS:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3
+	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3
+	hoping	hope	VERB	VBG	Tense=Pres|VerbForm=Part	0
+	this	this	DET	DT	Number=Sing|PronType=Dem	5
+	cloak	cloak	NOUN	NN	Number=Sing	7
+	would	would	AUX	MD	VerbForm=Fin	7
+	conceal	conceal	VERB	VB	VerbForm=Inf	3
+	more	more	ADJ	JJR	Degree=Cmp	7
+	.	.	PUNCT	.	None	3
+
+	# ANAPHER:
+	Oh	oh	INTJ	UH	None	4
+	,	,	PUNCT	,	None	4
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4
+	apologies	apology	NOUN	NNS	Number=Plur	0
+	for	for	ADP	IN	None	6
+	that	that	PRON	DT	Number=Sing|PronType=Dem	4
+	,	,	PUNCT	,	None	12
+	but	but	CCONJ	CC	None	12
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12
+	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12
+	rather	rather	ADV	RB	None	12
+	recognizable	recognizable	ADJ	JJ	Degree=Pos	4
+	.	.	PUNCT	.	None	4
+
+
+# KOREFERENZPAAR 5:
+	# ANTEZEDENS:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2
+	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0
+	to	to	PART	TO	None	5
+	be	be	AUX	VB	VerbForm=Inf	5
+	taking	take	VERB	VBG	Tense=Pres|VerbForm=Part	2
+	over	over	ADP	RP	None	5
+	the	the	DET	DT	Definite=Def|PronType=Art	8
+	throne	throne	NOUN	NN	Number=Sing	5
+	for	for	ADP	IN	None	10
+	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8
+	soon	soon	ADV	RB	Degree=Pos	5
+	and	and	CCONJ	CC	None	14
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	14
+	feel	feel	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2
+	as	as	SCONJ	IN	None	21
+	though	though	SCONJ	IN	None	15
+	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	18
+	kingdom	kingdom	NOUN	NN	Number=Sing	21
+	would	would	AUX	MD	VerbForm=Fin	21
+	be	be	AUX	VB	VerbForm=Inf	21
+	better	better	ADJ	JJR	Degree=Cmp	14
+	if	if	SCONJ	IN	None	24
+	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	24
+	got	get	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	21
+	rid	rid	NOUN	NN	Number=Sing	24
+	of	of	ADP	IN	None	27
+	execution	execution	NOUN	NN	Number=Sing	25
+	stands	stand	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21
+	and	and	CCONJ	CC	None	30
+	began	begin	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	28
+	to	to	PART	TO	None	32
+	take	take	VERB	VB	VerbForm=Inf	30
+	care	care	NOUN	NN	Number=Sing	32
+	of	of	ADP	IN	None	36
+	the	the	DET	DT	Definite=Def|PronType=Art	36
+	people	people	NOUN	NNS	Number=Plur	32
+	....	....	PUNCT	,	None	2
+	what	what	PRON	WP	PronType=Int	39
+	say	say	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	39
+	?	?	PUNCT	.	None	2
+
+	# ANAPHER:
+	Yes	yes	INTJ	UH	None	7
+	,	,	PUNCT	,	None	7
+	yes	yes	INTJ	UH	None	7
+	,	,	PUNCT	,	None	7
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7
+	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7
+	feel	feel	VERB	VB	VerbForm=Inf	0
+	that	that	PRON	DT	Number=Sing|PronType=Dem	10
+	would	would	AUX	MD	VerbForm=Fin	10
+	go	go	VERB	VB	VerbForm=Inf	7
+	a	a	DET	DT	Definite=Ind|PronType=Art	13
+	long	long	ADJ	JJ	Degree=Pos	13
+	way	way	NOUN	NN	Number=Sing	10
+	to	to	PART	TO	None	15
+	please	please	VERB	VB	VerbForm=Inf	10
+	the	the	DET	DT	Definite=Def|PronType=Art	17
+	villagers	villager	NOUN	NNS	Number=Plur	15
+	.	.	PUNCT	.	None	7
+
+
+# KOREFERENZPAAR 6:
+	# ANTEZEDENS:
+	Someone	someone	PRON	NN	Number=Sing	0
+	to	to	PART	TO	None	3
+	provide	provide	VERB	VB	VerbForm=Inf	1
+	a	a	DET	DT	Definite=Ind|PronType=Art	5
+	talisman	talisman	NOUN	NN	Number=Sing	3
+	to	to	PART	TO	None	7
+	ward	ward	VERB	VB	VerbForm=Inf	3
+	off	off	ADP	RP	None	7
+	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11
+	evil	evil	ADJ	JJ	Degree=Pos	11
+	intentions	intention	NOUN	NNS	Number=Plur	7
+	?	?	PUNCT	.	None	1
+
+	# ANAPHER:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2
+	believe	believe	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	that	that	PRON	DT	Number=Sing|PronType=Dem	4
+	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2
+	where	where	SCONJ	WRB	PronType=Int	8
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	7
+	father	father	NOUN	NN	Number=Sing	8
+	went	go	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4
+	wrong	wrong	ADJ	JJ	Degree=Pos	8
+	for	for	ADP	IN	None	12
+	the	the	DET	DT	Definite=Def|PronType=Art	12
+	Advisor	advisor	NOUN	NN	Number=Sing	13
+	uses	use	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2
+	all	all	DET	DT	None	15
+	kinds	kind	NOUN	NNS	Number=Plur	13
+	of	of	ADP	IN	None	17
+	witchcraft	witchcraft	NOUN	NN	Number=Sing	15
+	and	and	CCONJ	CC	None	20
+	powerful	powerful	ADJ	JJ	Degree=Pos	20
+	gems	gem	NOUN	NNS	Number=Plur	17
+	.	.	PUNCT	.	None	2
+
+
+# KOREFERENZPAAR 7:
+	# ANTEZEDENS:
+	Wait	wait	VERB	VB	Mood=Imp|VerbForm=Fin	0
+	.	.	PUNCT	.	None	1
+	.	.	PUNCT	.	None	1
+
+	# ANAPHER:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2
+	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	to	to	PART	TO	None	4
+	say	say	VERB	VB	VerbForm=Inf	2
+	this	this	PRON	DT	Number=Sing|PronType=Dem	8
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8
+	rather	rather	ADV	RB	None	8
+	unexpected	unexpected	ADJ	JJ	Degree=Pos	4
+	.	.	PUNCT	.	None	2
+
+
+# KOREFERENZPAAR 8:
+	# ANTEZEDENS:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2
+	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6
+	will	will	AUX	MD	VerbForm=Fin	6
+	not	not	PART	RB	None	6
+	steak	steak	VERB	VB	VerbForm=Inf	2
+	or	or	CCONJ	CC	None	8
+	kill	kill	VERB	VB	VerbForm=Inf	6
+	like	like	ADP	IN	None	12
+	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	12
+	fellow	fellow	ADJ	JJ	Degree=Pos	12
+	mates	mate	NOUN	NNS	Number=Plur	6
+	.	.	PUNCT	.	None	2
+
+	# ANAPHER:
+	Well	well	INTJ	UH	None	5
+	,	,	PUNCT	,	None	5
+	that	that	PRON	DT	Number=Sing|PronType=Dem	5
+	s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5
+	true	true	ADJ	JJ	Degree=Pos	0
+	.	.	PUNCT	.	None	5
+
+
+# KOREFERENZPAAR 9:
+	# ANTEZEDENS:
+	But	but	CCONJ	CC	None	6
+	,	,	PUNCT	,	None	6
+	since	since	SCONJ	IN	None	6
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6
+	can	can	AUX	MD	VerbForm=Fin	6
+	see	see	VERB	VB	VerbForm=Inf	0
+	the	the	DET	DT	Definite=Def|PronType=Art	8
+	future	future	NOUN	NN	Number=Sing	6
+	.	.	PUNCT	.	None	6
+
+	# ANAPHER:
+	Well	well	INTJ	UH	None	5
+	,	,	PUNCT	,	None	5
+	that	that	PRON	DT	Number=Sing|PronType=Dem	5
+	s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5
+	true	true	ADJ	JJ	Degree=Pos	0
+	.	.	PUNCT	.	None	5
+
+
+# KOREFERENZPAAR 10:
+	# ANTEZEDENS:
+	But	but	CCONJ	CC	None	5
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5
+	can	can	AUX	MD	VerbForm=Fin	5
+	not	not	PART	RB	None	5
+	change	change	VERB	VB	VerbForm=Inf	0
+	someones	someones	DET	DT	None	7
+	free	free	ADJ	JJ	Degree=Pos	8
+	will	will	AUX	MD	VerbForm=Fin	5
+	.	.	PUNCT	.	None	5
+
+	# ANAPHER:
+	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2
+	see	see	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	that	that	PRON	DT	Number=Sing|PronType=Dem	5
+	s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2
+	why	why	SCONJ	WRB	PronType=Int	7
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7
+	reward	reward	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2
+	those	that	PRON	DT	Number=Plur|PronType=Dem	7
+	that	that	PRON	WDT	PronType=Rel	10
+	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8
+	a	a	DET	DT	Definite=Ind|PronType=Art	12
+	heart	heart	NOUN	NN	Number=Sing	10
+	of	of	ADP	IN	None	15
+	pure	pure	ADJ	JJ	Degree=Pos	15
+	innocents	innocent	NOUN	NNS	Number=Plur	12
+	.	.	PUNCT	.	None	2
+
+
+# KOREFERENZPAAR 11:
+	# ANTEZEDENS:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4
+	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4
+	not	not	PART	RB	None	4
+	allow	allow	VERB	VB	VerbForm=Inf	0
+	.	.	PUNCT	.	None	4
+
+	# ANAPHER:
+	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2
+	see	see	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	that	that	PRON	DT	Number=Sing|PronType=Dem	5
+	s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2
+	why	why	SCONJ	WRB	PronType=Int	7
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7
+	reward	reward	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2
+	those	that	PRON	DT	Number=Plur|PronType=Dem	7
+	that	that	PRON	WDT	PronType=Rel	10
+	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8
+	a	a	DET	DT	Definite=Ind|PronType=Art	12
+	heart	heart	NOUN	NN	Number=Sing	10
+	of	of	ADP	IN	None	15
+	pure	pure	ADJ	JJ	Degree=Pos	15
+	innocents	innocent	NOUN	NNS	Number=Plur	12
+	.	.	PUNCT	.	None	2
+
+
+# KOREFERENZPAAR 12:
+	# ANTEZEDENS:
+	But	but	CCONJ	CC	None	5
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5
+	can	can	AUX	MD	VerbForm=Fin	5
+	not	not	PART	RB	None	5
+	change	change	VERB	VB	VerbForm=Inf	0
+	someones	someones	DET	DT	None	7
+	free	free	ADJ	JJ	Degree=Pos	8
+	will	will	AUX	MD	VerbForm=Fin	5
+	.	.	PUNCT	.	None	5
+
+	# ANAPHER:
+	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2
+	see	see	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	that	that	PRON	DT	Number=Sing|PronType=Dem	5
+	s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2
+	why	why	SCONJ	WRB	PronType=Int	7
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7
+	reward	reward	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2
+	those	that	PRON	DT	Number=Plur|PronType=Dem	7
+	that	that	PRON	WDT	PronType=Rel	10
+	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8
+	a	a	DET	DT	Definite=Ind|PronType=Art	12
+	heart	heart	NOUN	NN	Number=Sing	10
+	of	of	ADP	IN	None	15
+	pure	pure	ADJ	JJ	Degree=Pos	15
+	innocents	innocent	NOUN	NNS	Number=Plur	12
+	.	.	PUNCT	.	None	2
+
+
+# KOREFERENZPAAR 13:
+	# ANTEZEDENS:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4
+	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4
+	not	not	PART	RB	None	4
+	allow	allow	VERB	VB	VerbForm=Inf	0
+	.	.	PUNCT	.	None	4
+
+	# ANAPHER:
+	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2
+	see	see	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	that	that	PRON	DT	Number=Sing|PronType=Dem	5
+	s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2
+	why	why	SCONJ	WRB	PronType=Int	7
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7
+	reward	reward	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2
+	those	that	PRON	DT	Number=Plur|PronType=Dem	7
+	that	that	PRON	WDT	PronType=Rel	10
+	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8
+	a	a	DET	DT	Definite=Ind|PronType=Art	12
+	heart	heart	NOUN	NN	Number=Sing	10
+	of	of	ADP	IN	None	15
+	pure	pure	ADJ	JJ	Degree=Pos	15
+	innocents	innocent	NOUN	NNS	Number=Plur	12
+	.	.	PUNCT	.	None	2
+
+
+# KOREFERENZPAAR 14:
+	# ANTEZEDENS:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2
+	mean	mean	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13
+	,	,	PUNCT	,	None	13
+	if	if	SCONJ	IN	None	6
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6
+	were	be	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	13
+	to	to	PART	TO	None	8
+	kill	kill	VERB	VB	VerbForm=Inf	6
+	someone	someone	PRON	NN	Number=Sing	8
+	would	would	AUX	MD	VerbForm=Fin	13
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	13
+	just	just	ADV	RB	None	13
+	look	look	VERB	VB	VerbForm=Inf	0
+	at	at	ADP	IN	None	15
+	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	13
+	disapprovingly	disapprovingly	ADV	RB	None	13
+	,	,	PUNCT	,	None	19
+	then	then	ADV	RB	PronType=Dem	19
+	shrug	shrug	VERB	VB	VerbForm=Inf	13
+	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	21
+	shoulders	shoulder	NOUN	NNS	Number=Plur	19
+	and	and	CCONJ	CC	None	23
+	chalk	chalk	VERB	VB	VerbForm=Inf	19
+	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	23
+	up	up	ADP	RP	None	23
+	to	to	ADP	IN	None	27
+	free	free	ADJ	JJ	Degree=Pos	28
+	will	will	AUX	MD	VerbForm=Fin	23
+	?	?	PUNCT	.	None	13
+
+	# ANAPHER:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4
+	will	will	AUX	MD	VerbForm=Fin	4
+	not	not	PART	RB	None	4
+	help	help	VERB	VB	VerbForm=Inf	0
+	those	that	PRON	DT	Number=Plur|PronType=Dem	4
+	that	that	PRON	WDT	PronType=Rel	8
+	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8
+	done	do	VERB	VBN	Tense=Past|VerbForm=Part	5
+	wrong	wrong	ADJ	JJ	Degree=Pos	8
+	.	.	PUNCT	.	None	4
+
+
+# KOREFERENZPAAR 15:
+	# ANTEZEDENS:
+	Oh	oh	INTJ	UH	None	8
+	,	,	PUNCT	,	None	8
+	uh	uh	INTJ	UH	None	8
+	-	-	PUNCT	,	None	8
+	usually	usually	ADV	RB	None	8
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8
+	just	just	ADV	RB	None	8
+	leave	leave	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	this	this	PRON	DT	Number=Sing|PronType=Dem	8
+	on	on	ADP	IN	None	12
+	the	the	DET	DT	Definite=Def|PronType=Art	12
+	altar	altar	NOUN	NN	Number=Sing	8
+	,	,	PUNCT	,	None	23
+	but	but	CCONJ	CC	None	23
+	since	since	SCONJ	IN	None	18
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	18
+	re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	18
+	here	here	ADV	RB	PronType=Dem	23
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	23
+	might	might	AUX	MD	VerbForm=Fin	23
+	as	as	ADV	RB	None	23
+	well	well	ADV	RB	Degree=Pos	21
+	give	give	VERB	VB	VerbForm=Inf	8
+	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	23
+	to	to	ADP	IN	None	26
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	23
+	.	.	PUNCT	.	None	8
+
+	# ANAPHER:
+	Oh	oh	INTJ	UH	None	8
+	,	,	PUNCT	,	None	8
+	uh	uh	INTJ	UH	None	8
+	-	-	PUNCT	,	None	8
+	usually	usually	ADV	RB	None	8
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8
+	just	just	ADV	RB	None	8
+	leave	leave	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	this	this	PRON	DT	Number=Sing|PronType=Dem	8
+	on	on	ADP	IN	None	12
+	the	the	DET	DT	Definite=Def|PronType=Art	12
+	altar	altar	NOUN	NN	Number=Sing	8
+	,	,	PUNCT	,	None	23
+	but	but	CCONJ	CC	None	23
+	since	since	SCONJ	IN	None	18
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	18
+	re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	18
+	here	here	ADV	RB	PronType=Dem	23
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	23
+	might	might	AUX	MD	VerbForm=Fin	23
+	as	as	ADV	RB	None	23
+	well	well	ADV	RB	Degree=Pos	21
+	give	give	VERB	VB	VerbForm=Inf	8
+	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	23
+	to	to	ADP	IN	None	26
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	23
+	.	.	PUNCT	.	None	8
+
+
+# KOREFERENZPAAR 16:
+	# ANTEZEDENS:
+	In	in	ADP	IN	None	3
+	the	the	DET	DT	Definite=Def|PronType=Art	3
+	morning	morning	NOUN	NN	Number=Sing	7
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7
+	will	will	AUX	MD	VerbForm=Fin	7
+	be	be	AUX	VB	VerbForm=Inf	7
+	blessed	bless	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0
+	with	with	ADP	IN	None	10
+	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	10
+	what	what	PRON	WP	PronType=Int	7
+	matters	matter	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10
+	closest	close	ADJ	JJS	Degree=Sup	11
+	to	to	ADP	IN	None	15
+	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	15
+	heart	heart	NOUN	NN	Number=Sing	12
+	.	.	PUNCT	.	None	7
+
+	# ANAPHER:
+	Oh	oh	INTJ	UH	None	8
+	,	,	PUNCT	,	None	8
+	uh	uh	INTJ	UH	None	8
+	-	-	PUNCT	,	None	8
+	usually	usually	ADV	RB	None	8
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8
+	just	just	ADV	RB	None	8
+	leave	leave	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	this	this	PRON	DT	Number=Sing|PronType=Dem	8
+	on	on	ADP	IN	None	12
+	the	the	DET	DT	Definite=Def|PronType=Art	12
+	altar	altar	NOUN	NN	Number=Sing	8
+	,	,	PUNCT	,	None	23
+	but	but	CCONJ	CC	None	23
+	since	since	SCONJ	IN	None	18
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	18
+	re	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	18
+	here	here	ADV	RB	PronType=Dem	23
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	23
+	might	might	AUX	MD	VerbForm=Fin	23
+	as	as	ADV	RB	None	23
+	well	well	ADV	RB	Degree=Pos	21
+	give	give	VERB	VB	VerbForm=Inf	8
+	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	23
+	to	to	ADP	IN	None	26
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	23
+	.	.	PUNCT	.	None	8
+
+
+# KOREFERENZPAAR 17:
+	# ANTEZEDENS:
+	Here	here	ADV	RB	PronType=Dem	7
+	in	in	ADP	IN	None	4
+	this	this	DET	DT	Number=Sing|PronType=Dem	4
+	bag	bag	NOUN	NN	Number=Sing	1
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7
+	will	will	AUX	MD	VerbForm=Fin	7
+	find	find	VERB	VB	VerbForm=Inf	0
+	a	a	DET	DT	Definite=Ind|PronType=Art	9
+	gold	gold	NOUN	NN	Number=Sing	7
+	.	.	PUNCT	.	None	7
+
+	# ANAPHER:
+	This	this	PRON	DT	Number=Sing|PronType=Dem	4
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4
+	for	for	ADP	IN	None	4
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	0
+	to	to	PART	TO	None	7
+	never	never	ADV	RB	None	7
+	have	have	VERB	VB	VerbForm=Inf	4
+	any	any	DET	DT	None	9
+	worries	worry	NOUN	NNS	Number=Plur	7
+	.	.	PUNCT	.	None	4
+
+
+# KOREFERENZPAAR 18:
+	# ANTEZEDENS:
+	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2
+	let	let	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0
+	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2
+	go	go	VERB	VB	VerbForm=Inf	2
+	because	because	SCONJ	IN	None	9
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9
+	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	9
+	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9
+	asked	ask	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4
+	.	.	PUNCT	.	None	2
+
+	# ANAPHER:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3
+	must	must	AUX	MD	VerbForm=Fin	3
+	warn	warn	VERB	VB	VerbForm=Inf	0
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	3
+	of	of	ADP	IN	None	6
+	something	something	PRON	NN	Number=Sing	3
+	that	that	PRON	WDT	PronType=Rel	9
+	will	will	AUX	MD	VerbForm=Fin	9
+	endanger	endanger	VERB	VB	VerbForm=Inf	6
+	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	11
+	life	life	NOUN	NN	Number=Sing	9
+	and	and	CCONJ	CC	None	14
+	the	the	DET	DT	Definite=Def|PronType=Art	14
+	life	life	NOUN	NN	Number=Sing	11
+	of	of	ADP	IN	None	18
+	the	the	DET	DT	Definite=Def|PronType=Art	18
+	whole	whole	ADJ	JJ	Degree=Pos	18
+	family	family	NOUN	NN	Number=Sing	14
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	20
+	serve	serve	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	18
+	!	!	PUNCT	.	None	3
+
+
+# KOREFERENZPAAR 19:
+	# ANTEZEDENS:
+	From	from	ADP	IN	None	3
+	the	the	DET	DT	Definite=Def|PronType=Art	3
+	bones	bone	NOUN	NNS	Number=Plur	14
+	that	that	PRON	WDT	PronType=Rel	5
+	sit	sit	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3
+	nearby	nearby	ADV	RB	None	5
+	the	the	DET	DT	Definite=Def|PronType=Art	8
+	Beast	Beast	PROPN	NNP	Number=Sing	5
+	in	in	ADP	IN	None	11
+	the	the	DET	DT	Definite=Def|PronType=Art	11
+	cave	cave	NOUN	NN	Number=Sing	5
+	,	,	PUNCT	,	None	14
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	14
+	fear	fear	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	that	that	SCONJ	IN	None	18
+	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18
+	will	will	AUX	MD	VerbForm=Fin	18
+	be	be	AUX	VB	VerbForm=Inf	14
+	out	out	ADV	RB	None	18
+	to	to	PART	TO	None	21
+	hunt	hunt	VERB	VB	VerbForm=Inf	18
+	humans	human	NOUN	NNS	Number=Plur	21
+	soon	soon	ADV	RB	Degree=Pos	21
+	!	!	PUNCT	.	None	14
+
+	# ANAPHER:
+	From	from	ADP	IN	None	3
+	the	the	DET	DT	Definite=Def|PronType=Art	3
+	bones	bone	NOUN	NNS	Number=Plur	14
+	that	that	PRON	WDT	PronType=Rel	5
+	sit	sit	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3
+	nearby	nearby	ADV	RB	None	5
+	the	the	DET	DT	Definite=Def|PronType=Art	8
+	Beast	Beast	PROPN	NNP	Number=Sing	5
+	in	in	ADP	IN	None	11
+	the	the	DET	DT	Definite=Def|PronType=Art	11
+	cave	cave	NOUN	NN	Number=Sing	5
+	,	,	PUNCT	,	None	14
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	14
+	fear	fear	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	that	that	SCONJ	IN	None	18
+	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18
+	will	will	AUX	MD	VerbForm=Fin	18
+	be	be	AUX	VB	VerbForm=Inf	14
+	out	out	ADV	RB	None	18
+	to	to	PART	TO	None	21
+	hunt	hunt	VERB	VB	VerbForm=Inf	18
+	humans	human	NOUN	NNS	Number=Plur	21
+	soon	soon	ADV	RB	Degree=Pos	21
+	!	!	PUNCT	.	None	14
+
+
+# KOREFERENZPAAR 20:
+	# ANTEZEDENS:
+	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3
+	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3
+	grown	grow	VERB	VBN	Tense=Past|VerbForm=Part	0
+	three	three	NUM	CD	NumType=Card	5
+	times	time	NOUN	NNS	Number=Plur	3
+	as	as	ADV	RB	None	7
+	large	large	ADJ	JJ	Degree=Pos	3
+	during	during	ADP	IN	None	11
+	the	the	DET	DT	Definite=Def|PronType=Art	11
+	winter	winter	NOUN	NN	Number=Sing	11
+	months	month	NOUN	NNS	Number=Plur	3
+	and	and	CCONJ	CC	None	15
+	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15
+	been	be	AUX	VBN	Tense=Past|VerbForm=Part	15
+	starting	start	VERB	VBG	Tense=Pres|VerbForm=Part	3
+	to	to	PART	TO	None	17
+	awaken	awake	VERB	VB	VerbForm=Inf	15
+	!	!	PUNCT	.	None	3
+
+	# ANAPHER:
+	From	from	ADP	IN	None	3
+	the	the	DET	DT	Definite=Def|PronType=Art	3
+	bones	bone	NOUN	NNS	Number=Plur	14
+	that	that	PRON	WDT	PronType=Rel	5
+	sit	sit	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3
+	nearby	nearby	ADV	RB	None	5
+	the	the	DET	DT	Definite=Def|PronType=Art	8
+	Beast	Beast	PROPN	NNP	Number=Sing	5
+	in	in	ADP	IN	None	11
+	the	the	DET	DT	Definite=Def|PronType=Art	11
+	cave	cave	NOUN	NN	Number=Sing	5
+	,	,	PUNCT	,	None	14
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	14
+	fear	fear	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	that	that	SCONJ	IN	None	18
+	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18
+	will	will	AUX	MD	VerbForm=Fin	18
+	be	be	AUX	VB	VerbForm=Inf	14
+	out	out	ADV	RB	None	18
+	to	to	PART	TO	None	21
+	hunt	hunt	VERB	VB	VerbForm=Inf	18
+	humans	human	NOUN	NNS	Number=Plur	21
+	soon	soon	ADV	RB	Degree=Pos	21
+	!	!	PUNCT	.	None	14
+
+
+# KOREFERENZPAAR 21:
+	# ANTEZEDENS:
+	Hello	hello	INTJ	UH	None	6
+	blacksmith	blacksmith	NOUN	NN	Number=Sing	6
+	,	,	PUNCT	,	None	6
+	may	may	AUX	MD	VerbForm=Fin	6
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6
+	ask	ask	VERB	VB	VerbForm=Inf	0
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	6
+	if	if	SCONJ	IN	None	10
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10
+	possess	possess	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6
+	any	any	DET	DT	None	14
+	high	high	ADJ	JJ	Degree=Pos	13
+	quality	quality	NOUN	NN	Number=Sing	14
+	swords	sword	NOUN	NNS	Number=Plur	10
+	at	at	ADP	IN	None	17
+	the	the	DET	DT	Definite=Def|PronType=Art	17
+	moment	moment	NOUN	NN	Number=Sing	10
+	?	?	PUNCT	.	None	6
+
+	# ANAPHER:
+	Ay	ay	INTJ	UH	None	9
+	,	,	PUNCT	,	None	9
+	but	but	CCONJ	CC	None	9
+	this	this	PRON	DT	Number=Sing|PronType=Dem	9
+	be	be	AUX	VB	VerbForm=Inf	9
+	the	the	DET	DT	Definite=Def|PronType=Art	9
+	only	only	ADJ	JJ	Degree=Pos	9
+	at	at	ADP	IN	None	9
+	present	present	NOUN	NN	Number=Sing	0
+	.	.	PUNCT	.	None	9
+
+
+# KOREFERENZPAAR 22:
+	# ANTEZEDENS:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3
+	could	could	AUX	MD	VerbForm=Fin	3
+	make	make	VERB	VB	VerbForm=Inf	0
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	3
+	one	one	NUM	CD	NumType=Card	6
+	nicer	nicer	ADJ	JJR	Degree=Cmp	3
+	,	,	PUNCT	,	None	9
+	more	more	ADV	RBR	None	9
+	befitting	befit	VERB	VBG	VerbForm=Ger	3
+	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	11
+	station	station	NOUN	NN	Number=Sing	9
+
+	# ANAPHER:
+	Ah	ah	INTJ	UH	None	2
+	words	word	NOUN	NNS	Number=Plur	0
+	that	that	PRON	WDT	PronType=Rel	5
+	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5
+	pleasant	pleasant	ADJ	JJ	Degree=Pos	2
+	to	to	ADP	IN	None	8
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	8
+	ears	ear	NOUN	NNS	Number=Plur	5
+	!	!	PUNCT	.	None	2
+
+
+# KOREFERENZPAAR 23:
+	# ANTEZEDENS:
+	Ay	ay	INTJ	UH	None	9
+	,	,	PUNCT	,	None	9
+	but	but	CCONJ	CC	None	9
+	this	this	PRON	DT	Number=Sing|PronType=Dem	9
+	be	be	AUX	VB	VerbForm=Inf	9
+	the	the	DET	DT	Definite=Def|PronType=Art	9
+	only	only	ADJ	JJ	Degree=Pos	9
+	at	at	ADP	IN	None	9
+	present	present	NOUN	NN	Number=Sing	0
+	.	.	PUNCT	.	None	9
+
+	# ANAPHER:
+	Ah	ah	INTJ	UH	None	2
+	words	word	NOUN	NNS	Number=Plur	0
+	that	that	PRON	WDT	PronType=Rel	5
+	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5
+	pleasant	pleasant	ADJ	JJ	Degree=Pos	2
+	to	to	ADP	IN	None	8
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	8
+	ears	ear	NOUN	NNS	Number=Plur	5
+	!	!	PUNCT	.	None	2
+
+
+# KOREFERENZPAAR 24:
+	# ANTEZEDENS:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3
+	must	must	AUX	MD	VerbForm=Fin	3
+	say	say	VERB	VB	VerbForm=Inf	0
+	,	,	PUNCT	,	None	12
+	this	this	DET	DT	Number=Sing|PronType=Dem	6
+	sword	sword	NOUN	NN	Number=Sing	12
+	,	,	PUNCT	,	None	12
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12
+	actually	actually	ADV	RB	None	12
+	still	still	ADV	RB	None	12
+	quite	quite	ADV	RB	None	12
+	nice	nice	ADJ	JJ	Degree=Pos	3
+	compared	compare	VERB	VBN	Tense=Past|VerbForm=Part	16
+	to	to	ADP	IN	None	16
+	the	the	DET	DT	Definite=Def|PronType=Art	16
+	blade	blade	NOUN	NN	Number=Sing	12
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	18
+	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16
+	at	at	ADP	IN	None	21
+	the	the	DET	DT	Definite=Def|PronType=Art	21
+	moment	moment	NOUN	NN	Number=Sing	18
+	.	.	PUNCT	.	None	3
+
+	# ANAPHER:
+	Very	very	ADV	RB	None	2
+	impressive	impressive	ADJ	JJ	Degree=Pos	0
+	,	,	PUNCT	,	None	2
+	how	how	ADV	WRB	PronType=Int	7
+	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7
+	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	2
+	to	to	PART	TO	None	9
+	forge	forge	VERB	VB	VerbForm=Inf	7
+	another	another	DET	DT	None	11
+	one	one	NOUN	NN	Number=Sing	9
+	that	that	PRON	WDT	PronType=Rel	14
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14
+	better	better	ADJ	JJR	Degree=Cmp	11
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	17
+	might	might	AUX	MD	VerbForm=Fin	17
+	ask	ask	VERB	VB	VerbForm=Inf	14
+	...	...	PUNCT	,	None	2
+	?	?	PUNCT	.	None	2
+
+
+# KOREFERENZPAAR 25:
+	# ANTEZEDENS:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3
+	shall	shall	AUX	MD	VerbForm=Fin	3
+	inlay	inlay	VERB	VB	VerbForm=Inf	0
+	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	5
+	sword	sword	NOUN	NN	Number=Sing	3
+	with	with	ADP	IN	None	9
+	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	9
+	Countrys	country	NOUN	NNS	Number=Plur	9
+	motto	motto	NOUN	NN	Number=Sing	3
+	and	and	CCONJ	CC	None	14
+	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	14
+	personal	personal	ADJ	JJ	Degree=Pos	14
+	family	family	NOUN	NN	Number=Sing	14
+	crest	crest	NOUN	NN	Number=Sing	9
+	.	.	PUNCT	.	None	3
+
+	# ANAPHER:
+	Finally	finally	ADV	RB	None	3
+	a	a	DET	DT	Definite=Ind|PronType=Art	3
+	blacksmith	blacksmith	NOUN	NN	Number=Sing	0
+	that	that	PRON	WDT	PronType=Rel	5
+	uses	use	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3
+	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7
+	skill	skill	NOUN	NN	Number=Sing	5
+	and	and	CCONJ	CC	None	9
+	precision	precision	NOUN	NN	Number=Sing	7
+	on	on	ADP	IN	None	12
+	each	each	DET	DT	None	12
+	blade	blade	NOUN	NN	Number=Sing	5
+	thoroughly	thoroughly	ADV	RB	None	5
+	,	,	PUNCT	,	None	17
+	instead	instead	ADV	RB	None	17
+	of	of	ADP	IN	None	15
+	mass	mass	NOUN	NN	Number=Sing	5
+	producing	produce	VERB	VBG	VerbForm=Ger	17
+	blunt	blunt	ADJ	JJ	Degree=Pos	20
+	blades	blade	NOUN	NNS	Number=Plur	18
+	for	for	ADP	IN	None	24
+	a	a	DET	DT	Definite=Ind|PronType=Art	24
+	mass	mass	ADJ	JJ	Degree=Pos	24
+	majority	majority	NOUN	NN	Number=Sing	18
+	.	.	PUNCT	.	None	3
+
+
+# KOREFERENZPAAR 26:
+	# ANTEZEDENS:
+	Ay	ay	INTJ	UH	None	5
+	,	,	PUNCT	,	None	5
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5
+	m	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5
+	known	know	VERB	VBN	Tense=Past|VerbForm=Part	0
+	for	for	ADP	IN	None	8
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	8
+	craftsmanship	craftsmanship	NOUN	NN	Number=Sing	5
+	but	but	CCONJ	CC	None	15
+	what	what	PRON	WP	PronType=Int	15
+	many	many	ADJ	JJ	Degree=Pos	14
+	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14
+	nt	not	PART	RB	None	14
+	know	know	VERB	VB	VerbForm=Inf	10
+	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5
+	that	that	SCONJ	IN	None	21
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	18
+	engraving	engraving	NOUN	NN	Number=Sing	21
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21
+	equally	equally	ADV	RB	None	21
+	impressive	impressive	ADJ	JJ	Degree=Pos	15
+	.	.	PUNCT	.	None	5
+
+	# ANAPHER:
+	Finally	finally	ADV	RB	None	3
+	a	a	DET	DT	Definite=Ind|PronType=Art	3
+	blacksmith	blacksmith	NOUN	NN	Number=Sing	0
+	that	that	PRON	WDT	PronType=Rel	5
+	uses	use	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3
+	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7
+	skill	skill	NOUN	NN	Number=Sing	5
+	and	and	CCONJ	CC	None	9
+	precision	precision	NOUN	NN	Number=Sing	7
+	on	on	ADP	IN	None	12
+	each	each	DET	DT	None	12
+	blade	blade	NOUN	NN	Number=Sing	5
+	thoroughly	thoroughly	ADV	RB	None	5
+	,	,	PUNCT	,	None	17
+	instead	instead	ADV	RB	None	17
+	of	of	ADP	IN	None	15
+	mass	mass	NOUN	NN	Number=Sing	5
+	producing	produce	VERB	VBG	VerbForm=Ger	17
+	blunt	blunt	ADJ	JJ	Degree=Pos	20
+	blades	blade	NOUN	NNS	Number=Plur	18
+	for	for	ADP	IN	None	24
+	a	a	DET	DT	Definite=Ind|PronType=Art	24
+	mass	mass	ADJ	JJ	Degree=Pos	24
+	majority	majority	NOUN	NN	Number=Sing	18
+	.	.	PUNCT	.	None	3
+
+
+# KOREFERENZPAAR 27:
+	# ANTEZEDENS:
+	Where	where	ADV	WRB	PronType=Int	4
+	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4
+	learn	learn	VERB	VB	VerbForm=Inf	0
+	these	this	DET	DT	Number=Plur|PronType=Dem	6
+	techniques	technique	NOUN	NNS	Number=Plur	4
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9
+	may	may	AUX	MD	VerbForm=Fin	9
+	ask	ask	VERB	VB	VerbForm=Inf	6
+	ye	ye	PRON	PRP	None	9
+	?	?	PUNCT	.	None	4
+
+	# ANAPHER:
+	A	a	DET	DT	Definite=Ind|PronType=Art	2
+	bit	bit	NOUN	NN	Number=Sing	0
+	of	of	ADP	IN	None	5
+	a	a	DET	DT	Definite=Ind|PronType=Art	5
+	secret	secret	NOUN	NN	Number=Sing	2
+	,	,	PUNCT	,	None	2
+	that	that	PRON	DT	Number=Sing|PronType=Dem	2
+	.	.	PUNCT	.	None	2
+
+
+# KOREFERENZPAAR 28:
+	# ANTEZEDENS:
+	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2
+	learn	learn	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	the	the	DET	DT	Definite=Def|PronType=Art	4
+	most	most	ADV	RBS	None	2
+	from	from	ADP	IN	None	8
+	of	of	ADP	IN	None	8
+	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	8
+	fathers	father	NOUN	NNS	Number=Plur	4
+	and	and	CCONJ	CC	None	10
+	strive	strive	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2
+	to	to	PART	TO	None	12
+	become	become	VERB	VB	VerbForm=Inf	10
+	like	like	ADP	IN	None	14
+	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	12
+	,	,	PUNCT	,	None	22
+	but	but	CCONJ	CC	None	22
+	in	in	ADP	IN	None	19
+	the	the	DET	DT	Definite=Def|PronType=Art	19
+	end	end	NOUN	NN	Number=Sing	22
+	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	22
+	always	always	ADV	RB	None	22
+	see	see	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2
+	the	the	DET	DT	Definite=Def|PronType=Art	25
+	opposite	opposite	ADJ	JJ	Degree=Pos	25
+	matter	matter	NOUN	NN	Number=Sing	22
+	....	....	PUNCT	,	None	2
+	Is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28
+	this	this	PRON	DT	Number=Sing|PronType=Dem	22
+	..	..	PUNCT	,	None	2
+	a	a	DET	DT	Definite=Ind|PronType=Art	35
+	-	-	PUNCT	,	None	35
+	a	a	DET	DT	Definite=Ind|PronType=Art	35
+	black	black	ADJ	JJ	Degree=Pos	35
+	powder	powder	NOUN	NN	Number=Sing	35
+	gun	gun	NOUN	NN	Number=Sing	2
+	?	?	PUNCT	.	None	2
+
+	# ANAPHER:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3
+	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3
+	heard	hear	VERB	VBN	Tense=Past|VerbForm=Part	0
+	lots	lot	NOUN	NNS	Number=Plur	3
+	of	of	ADP	IN	None	6
+	tales	tale	NOUN	NNS	Number=Plur	4
+	about	about	ADP	IN	None	8
+	these	this	PRON	DT	Number=Plur|PronType=Dem	6
+	....	....	PUNCT	,	None	3
+	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	12
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12
+	create	create	VERB	VB	VerbForm=Inf	3
+	this	this	PRON	DT	Number=Sing|PronType=Dem	12
+	as	as	ADV	RB	None	12
+	well	well	ADV	RB	Degree=Pos	14
+	?	?	PUNCT	.	None	3
+
+
+# KOREFERENZPAAR 29:
+	# ANTEZEDENS:
+	At	at	ADV	RB	None	2
+	first	first	ADV	RB	None	4
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4
+	treated	treat	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0
+	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	4
+	as	as	ADP	IN	None	8
+	novelty	novelty	NOUN	NN	Number=Sing	8
+	items	item	NOUN	NNS	Number=Plur	4
+	,	,	PUNCT	,	None	30
+	but	but	CCONJ	CC	None	30
+	now	now	ADV	RB	None	30
+	with	with	ADP	IN	None	15
+	the	the	DET	DT	Definite=Def|PronType=Art	15
+	flint	flint	NOUN	NN	Number=Sing	15
+	striker	striker	NOUN	NN	Number=Sing	30
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	18
+	ve	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	18
+	added	add	VERB	VBN	Tense=Past|VerbForm=Part	15
+	,	,	PUNCT	,	None	30
+	and	and	CCONJ	CC	None	23
+	the	the	DET	DT	Definite=Def|PronType=Art	23
+	new	new	ADJ	JJ	Degree=Pos	23
+	sealant	sealant	NOUN	NN	Number=Sing	30
+	around	around	ADP	IN	None	26
+	the	the	DET	DT	Definite=Def|PronType=Art	26
+	barrel	barrel	NOUN	NN	Number=Sing	23
+	,	,	PUNCT	,	None	30
+	this	this	PRON	DT	Number=Sing|PronType=Dem	30
+	can	can	AUX	MD	VerbForm=Fin	30
+	kill	kill	VERB	VB	VerbForm=Inf	4
+	a	a	DET	DT	Definite=Ind|PronType=Art	32
+	man	man	NOUN	NN	Number=Sing	30
+	at	at	ADP	IN	None	35
+	100	100	NUM	CD	NumType=Card	35
+	meters	meter	NOUN	NNS	Number=Plur	30
+	,	,	PUNCT	,	None	38
+	and	and	CCONJ	CC	None	38
+	scare	scare	VERB	VB	VerbForm=Inf	30
+	the	the	DET	DT	Definite=Def|PronType=Art	40
+	dickens	dicken	NOUN	NNS	Number=Plur	38
+	out	out	ADP	IN	None	44
+	of	of	ADP	IN	None	44
+	the	the	DET	DT	Definite=Def|PronType=Art	44
+	remainder	remainder	NOUN	NN	Number=Sing	38
+	of	of	ADP	IN	None	47
+	the	the	DET	DT	Definite=Def|PronType=Art	47
+	troops	troops	NOUN	NNS	Number=Plur	44
+	with	with	ADP	IN	None	49
+	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	44
+	.	.	PUNCT	.	None	4
+
+	# ANAPHER:
+	At	at	ADV	RB	None	2
+	first	first	ADV	RB	None	4
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4
+	treated	treat	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0
+	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	4
+	as	as	ADP	IN	None	8
+	novelty	novelty	NOUN	NN	Number=Sing	8
+	items	item	NOUN	NNS	Number=Plur	4
+	,	,	PUNCT	,	None	30
+	but	but	CCONJ	CC	None	30
+	now	now	ADV	RB	None	30
+	with	with	ADP	IN	None	15
+	the	the	DET	DT	Definite=Def|PronType=Art	15
+	flint	flint	NOUN	NN	Number=Sing	15
+	striker	striker	NOUN	NN	Number=Sing	30
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	18
+	ve	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	18
+	added	add	VERB	VBN	Tense=Past|VerbForm=Part	15
+	,	,	PUNCT	,	None	30
+	and	and	CCONJ	CC	None	23
+	the	the	DET	DT	Definite=Def|PronType=Art	23
+	new	new	ADJ	JJ	Degree=Pos	23
+	sealant	sealant	NOUN	NN	Number=Sing	30
+	around	around	ADP	IN	None	26
+	the	the	DET	DT	Definite=Def|PronType=Art	26
+	barrel	barrel	NOUN	NN	Number=Sing	23
+	,	,	PUNCT	,	None	30
+	this	this	PRON	DT	Number=Sing|PronType=Dem	30
+	can	can	AUX	MD	VerbForm=Fin	30
+	kill	kill	VERB	VB	VerbForm=Inf	4
+	a	a	DET	DT	Definite=Ind|PronType=Art	32
+	man	man	NOUN	NN	Number=Sing	30
+	at	at	ADP	IN	None	35
+	100	100	NUM	CD	NumType=Card	35
+	meters	meter	NOUN	NNS	Number=Plur	30
+	,	,	PUNCT	,	None	38
+	and	and	CCONJ	CC	None	38
+	scare	scare	VERB	VB	VerbForm=Inf	30
+	the	the	DET	DT	Definite=Def|PronType=Art	40
+	dickens	dicken	NOUN	NNS	Number=Plur	38
+	out	out	ADP	IN	None	44
+	of	of	ADP	IN	None	44
+	the	the	DET	DT	Definite=Def|PronType=Art	44
+	remainder	remainder	NOUN	NN	Number=Sing	38
+	of	of	ADP	IN	None	47
+	the	the	DET	DT	Definite=Def|PronType=Art	47
+	troops	troops	NOUN	NNS	Number=Plur	44
+	with	with	ADP	IN	None	49
+	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	44
+	.	.	PUNCT	.	None	4
+
+
+# KOREFERENZPAAR 30:
+	# ANTEZEDENS:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4
+	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4
+	not	not	PART	RB	None	4
+	sure	sure	ADJ	JJ	Degree=Pos	0
+	if	if	SCONJ	IN	None	9
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9
+	can	can	AUX	MD	VerbForm=Fin	9
+	even	even	ADV	RB	None	9
+	use	use	VERB	VB	VerbForm=Inf	4
+	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9
+	as	as	ADV	RB	None	9
+	well	well	ADV	RB	Degree=Pos	11
+	,	,	PUNCT	,	None	4
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	16
+	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16
+	heard	hear	VERB	VBN	Tense=Past|VerbForm=Part	4
+	these	this	PRON	DT	Number=Plur|PronType=Dem	18
+	require	require	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16
+	precision	precision	NOUN	NN	Number=Sing	20
+	accuracy	accuracy	NOUN	NN	Number=Sing	18
+	from	from	ADP	IN	None	22
+	marksmans	marksman	NOUN	NNS	Number=Plur	20
+	....	....	PUNCT	,	None	4
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26
+	this	this	PRON	DT	Number=Sing|PronType=Dem	26
+	true	true	ADJ	JJ	Degree=Pos	4
+
+	# ANAPHER:
+	Ay	ay	INTJ	UH	None	5
+	,	,	PUNCT	,	None	5
+	this	this	PRON	DT	Number=Sing|PronType=Dem	5
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5
+	true	true	ADJ	JJ	Degree=Pos	0
+	.	.	PUNCT	.	None	5
+
+
+# KOREFERENZPAAR 31:
+	# ANTEZEDENS:
+	Also	also	ADV	RB	None	8
+	,	,	PUNCT	,	None	8
+	this	this	PRON	DT	Number=Sing|PronType=Dem	8
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8
+	a	a	DET	DT	Definite=Ind|PronType=Art	8
+	very	very	ADV	RB	None	7
+	nice	nice	ADJ	JJ	Degree=Pos	8
+	stallion	stallion	NOUN	NN	Number=Sing	0
+	-	-	PUNCT	,	None	8
+	would	would	AUX	MD	VerbForm=Fin	12
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12
+	take	take	VERB	VB	VerbForm=Inf	8
+	...	...	PUNCT	,	None	12
+	perhaps	perhaps	ADV	RB	None	17
+	100	100	NUM	CD	NumType=Card	17
+	gold	gold	NOUN	NN	Number=Sing	17
+	coins	coin	NOUN	NNS	Number=Plur	12
+	for	for	ADP	IN	None	19
+	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	17
+	?	?	PUNCT	.	None	8
+
+	# ANAPHER:
+	Also	also	ADV	RB	None	8
+	,	,	PUNCT	,	None	8
+	this	this	PRON	DT	Number=Sing|PronType=Dem	8
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8
+	a	a	DET	DT	Definite=Ind|PronType=Art	8
+	very	very	ADV	RB	None	7
+	nice	nice	ADJ	JJ	Degree=Pos	8
+	stallion	stallion	NOUN	NN	Number=Sing	0
+	-	-	PUNCT	,	None	8
+	would	would	AUX	MD	VerbForm=Fin	12
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12
+	take	take	VERB	VB	VerbForm=Inf	8
+	...	...	PUNCT	,	None	12
+	perhaps	perhaps	ADV	RB	None	17
+	100	100	NUM	CD	NumType=Card	17
+	gold	gold	NOUN	NN	Number=Sing	17
+	coins	coin	NOUN	NNS	Number=Plur	12
+	for	for	ADP	IN	None	19
+	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	17
+	?	?	PUNCT	.	None	8
+
+
+# KOREFERENZPAAR 32:
+	# ANTEZEDENS:
+	Hopefully	hopefully	ADV	RB	None	4
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4
+	can	can	AUX	MD	VerbForm=Fin	4
+	learn	learn	VERB	VB	VerbForm=Inf	0
+	the	the	DET	DT	Definite=Def|PronType=Art	6
+	ways	way	NOUN	NNS	Number=Plur	4
+	over	over	ADP	IN	None	8
+	time	time	NOUN	NN	Number=Sing	4
+	.	.	PUNCT	.	None	4
+
+	# ANAPHER:
+	Also	also	ADV	RB	None	8
+	,	,	PUNCT	,	None	8
+	this	this	PRON	DT	Number=Sing|PronType=Dem	8
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8
+	a	a	DET	DT	Definite=Ind|PronType=Art	8
+	very	very	ADV	RB	None	7
+	nice	nice	ADJ	JJ	Degree=Pos	8
+	stallion	stallion	NOUN	NN	Number=Sing	0
+	-	-	PUNCT	,	None	8
+	would	would	AUX	MD	VerbForm=Fin	12
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12
+	take	take	VERB	VB	VerbForm=Inf	8
+	...	...	PUNCT	,	None	12
+	perhaps	perhaps	ADV	RB	None	17
+	100	100	NUM	CD	NumType=Card	17
+	gold	gold	NOUN	NN	Number=Sing	17
+	coins	coin	NOUN	NNS	Number=Plur	12
+	for	for	ADP	IN	None	19
+	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	17
+	?	?	PUNCT	.	None	8
+
+
+# KOREFERENZPAAR 33:
+	# ANTEZEDENS:
+	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2
+	hands	hand	NOUN	NNS	Number=Plur	4
+	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4
+	brittle	brittle	ADJ	JJ	Degree=Pos	0
+	and	and	CCONJ	CC	None	6
+	worn	wear	VERB	VBN	Tense=Past|VerbForm=Part	4
+	out	out	ADP	RP	None	6
+	from	from	ADP	IN	None	12
+	all	all	DET	PDT	None	12
+	the	the	DET	DT	Definite=Def|PronType=Art	12
+	sword	sword	NOUN	NN	Number=Sing	12
+	fights	fight	NOUN	NNS	Number=Plur	6
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	15
+	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15
+	done	do	VERB	VBN	Tense=Past|VerbForm=Part	12
+	.	.	PUNCT	.	None	4
+
+	# ANAPHER:
+	Also	also	ADV	RB	None	8
+	,	,	PUNCT	,	None	8
+	this	this	PRON	DT	Number=Sing|PronType=Dem	8
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8
+	a	a	DET	DT	Definite=Ind|PronType=Art	8
+	very	very	ADV	RB	None	7
+	nice	nice	ADJ	JJ	Degree=Pos	8
+	stallion	stallion	NOUN	NN	Number=Sing	0
+	-	-	PUNCT	,	None	8
+	would	would	AUX	MD	VerbForm=Fin	12
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12
+	take	take	VERB	VB	VerbForm=Inf	8
+	...	...	PUNCT	,	None	12
+	perhaps	perhaps	ADV	RB	None	17
+	100	100	NUM	CD	NumType=Card	17
+	gold	gold	NOUN	NN	Number=Sing	17
+	coins	coin	NOUN	NNS	Number=Plur	12
+	for	for	ADP	IN	None	19
+	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	17
+	?	?	PUNCT	.	None	8
+
+
+# KOREFERENZPAAR 34:
+	# ANTEZEDENS:
+	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2
+	uncle	uncle	NOUN	NN	Number=Sing	3
+	knows	know	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0
+	no	no	DET	DT	None	6
+	other	other	ADJ	JJ	Degree=Pos	6
+	man	man	NOUN	NN	Number=Sing	8
+	will	will	AUX	MD	VerbForm=Fin	8
+	have	have	VERB	VB	VerbForm=Inf	3
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	8
+	.	.	PUNCT	.	None	3
+
+	# ANAPHER:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4
+	m	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4
+	not	not	PART	RB	None	4
+	sure	sure	ADJ	JJ	Degree=Pos	0
+	why	why	SCONJ	WRB	PronType=Int	8
+	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8
+	s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8
+	trying	try	VERB	VBG	Tense=Pres|VerbForm=Part	4
+	to	to	PART	TO	None	10
+	say	say	VERB	VB	VerbForm=Inf	8
+	no	no	INTJ	UH	None	10
+	to	to	ADP	IN	None	13
+	this	this	PRON	DT	Number=Sing|PronType=Dem	10
+	.	.	PUNCT	.	None	4
+
+
+# KOREFERENZPAAR 35:
+	# ANTEZEDENS:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3
+	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3
+	tried	try	VERB	VBN	Tense=Past|VerbForm=Part	0
+	to	to	PART	TO	None	5
+	convince	convince	VERB	VB	VerbForm=Inf	3
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	7
+	uncle	uncle	NOUN	NN	Number=Sing	5
+	that	that	SCONJ	IN	None	13
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	13
+	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13
+	a	a	DET	DT	Definite=Ind|PronType=Art	13
+	hard	hard	ADJ	JJ	Degree=Pos	13
+	worker	worker	NOUN	NN	Number=Sing	5
+	and	and	CCONJ	CC	None	18
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	18
+	would	would	AUX	MD	VerbForm=Fin	18
+	be	be	AUX	VB	VerbForm=Inf	18
+	content	content	NOUN	NN	Number=Sing	3
+	but	but	CCONJ	CC	None	21
+	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21
+	assures	assure	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3
+	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	21
+	that	that	SCONJ	IN	None	27
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	27
+	will	will	AUX	MD	VerbForm=Fin	27
+	not	not	PART	RB	None	27
+	stoop	stoop	VERB	VB	VerbForm=Inf	21
+	to	to	ADP	IN	None	30
+	a	a	DET	DT	Definite=Ind|PronType=Art	30
+	level	level	NOUN	NN	Number=Sing	27
+	such	such	ADJ	JJ	Degree=Pos	33
+	as	as	ADP	IN	None	31
+	yours	yours	PRON	PRP	None	30
+	.	.	PUNCT	.	None	3
+
+	# ANAPHER:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4
+	m	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4
+	not	not	PART	RB	None	4
+	sure	sure	ADJ	JJ	Degree=Pos	0
+	why	why	SCONJ	WRB	PronType=Int	8
+	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8
+	s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8
+	trying	try	VERB	VBG	Tense=Pres|VerbForm=Part	4
+	to	to	PART	TO	None	10
+	say	say	VERB	VB	VerbForm=Inf	8
+	no	no	INTJ	UH	None	10
+	to	to	ADP	IN	None	13
+	this	this	PRON	DT	Number=Sing|PronType=Dem	10
+	.	.	PUNCT	.	None	4
+
+
+# KOREFERENZPAAR 36:
+	# ANTEZEDENS:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2
+	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	if	if	SCONJ	IN	None	5
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5
+	marry	marry	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15
+	and	and	CCONJ	CC	None	7
+	show	show	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5
+	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11
+	can	can	AUX	MD	VerbForm=Fin	11
+	settle	settle	VERB	VB	VerbForm=Inf	7
+	down	down	ADP	RP	None	11
+	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15
+	will	will	AUX	MD	VerbForm=Fin	15
+	give	give	VERB	VB	VerbForm=Inf	2
+	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	15
+	a	a	DET	DT	Definite=Ind|PronType=Art	19
+	bigger	bigger	ADJ	JJR	Degree=Cmp	19
+	job	job	NOUN	NN	Number=Sing	15
+	.	.	PUNCT	.	None	2
+
+	# ANAPHER:
+	That	that	PRON	DT	Number=Sing|PronType=Dem	4
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4
+	truly	truly	ADV	RB	None	4
+	wonderful	wonderful	ADJ	JJ	Degree=Pos	0
+	!	!	PUNCT	.	None	4
+
+
+# KOREFERENZPAAR 37:
+	# ANTEZEDENS:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3
+	will	will	AUX	MD	VerbForm=Fin	3
+	convince	convince	VERB	VB	VerbForm=Inf	0
+	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	5
+	uncle	uncle	NOUN	NN	Number=Sing	3
+	.	.	PUNCT	.	None	3
+
+	# ANAPHER:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4
+	can	can	AUX	MD	VerbForm=Fin	4
+	not	not	PART	RB	None	4
+	believe	believe	VERB	VB	VerbForm=Inf	0
+	this	this	PRON	DT	Number=Sing|PronType=Dem	7
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7
+	happening	happen	VERB	VBG	Tense=Pres|VerbForm=Part	4
+	!	!	PUNCT	.	None	4
+
+
+# KOREFERENZPAAR 38:
+	# ANTEZEDENS:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3
+	will	will	AUX	MD	VerbForm=Fin	3
+	try	try	VERB	VB	VerbForm=Inf	0
+	to	to	PART	TO	None	5
+	dust	dust	VERB	VB	VerbForm=Inf	3
+	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5
+	off	off	ADP	RP	None	5
+	so	so	ADV	RB	None	11
+	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	11
+	can	can	AUX	MD	VerbForm=Fin	11
+	dine	dine	VERB	VB	VerbForm=Inf	5
+	together	together	ADV	RB	None	11
+	.	.	PUNCT	.	None	3
+
+	# ANAPHER:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4
+	can	can	AUX	MD	VerbForm=Fin	4
+	not	not	PART	RB	None	4
+	believe	believe	VERB	VB	VerbForm=Inf	0
+	this	this	PRON	DT	Number=Sing|PronType=Dem	7
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7
+	happening	happen	VERB	VBG	Tense=Pres|VerbForm=Part	4
+	!	!	PUNCT	.	None	4
+
+
+# KOREFERENZPAAR 39:
+	# ANTEZEDENS:
+	Because	because	SCONJ	IN	None	5
+	this	this	PRON	DT	Number=Sing|PronType=Dem	5
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5
+	home	home	NOUN	NN	Number=Sing	9
+	,	,	PUNCT	,	None	9
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9
+	would	would	AUX	MD	VerbForm=Fin	9
+	want	want	VERB	VB	VerbForm=Inf	0
+	something	something	PRON	NN	Number=Sing	9
+	if	if	SCONJ	IN	None	13
+	people	people	NOUN	NNS	Number=Plur	13
+	walk	walk	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9
+	over	over	ADP	IN	None	16
+	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	16
+	home	home	NOUN	NN	Number=Sing	13
+	all	all	DET	PDT	None	19
+	the	the	DET	DT	Definite=Def|PronType=Art	19
+	time	time	NOUN	NN	Number=Sing	13
+	.	.	PUNCT	.	None	9
+
+	# ANAPHER:
+	Because	because	SCONJ	IN	None	5
+	this	this	PRON	DT	Number=Sing|PronType=Dem	5
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5
+	home	home	NOUN	NN	Number=Sing	9
+	,	,	PUNCT	,	None	9
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9
+	would	would	AUX	MD	VerbForm=Fin	9
+	want	want	VERB	VB	VerbForm=Inf	0
+	something	something	PRON	NN	Number=Sing	9
+	if	if	SCONJ	IN	None	13
+	people	people	NOUN	NNS	Number=Plur	13
+	walk	walk	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9
+	over	over	ADP	IN	None	16
+	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	16
+	home	home	NOUN	NN	Number=Sing	13
+	all	all	DET	PDT	None	19
+	the	the	DET	DT	Definite=Def|PronType=Art	19
+	time	time	NOUN	NN	Number=Sing	13
+	.	.	PUNCT	.	None	9
+
+
+# KOREFERENZPAAR 40:
+	# ANTEZEDENS:
+	What	what	PRON	WP	PronType=Int	5
+	could	could	AUX	MD	VerbForm=Fin	5
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5
+	possibly	possibly	ADV	RB	None	5
+	want	want	VERB	VB	VerbForm=Inf	0
+	from	from	ADP	IN	None	8
+	a	a	DET	DT	Definite=Ind|PronType=Art	8
+	lizard	lizard	NOUN	NN	Number=Sing	5
+	so	so	ADV	RB	None	10
+	small	small	ADJ	JJ	Degree=Pos	5
+
+	# ANAPHER:
+	Because	because	SCONJ	IN	None	5
+	this	this	PRON	DT	Number=Sing|PronType=Dem	5
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5
+	home	home	NOUN	NN	Number=Sing	9
+	,	,	PUNCT	,	None	9
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9
+	would	would	AUX	MD	VerbForm=Fin	9
+	want	want	VERB	VB	VerbForm=Inf	0
+	something	something	PRON	NN	Number=Sing	9
+	if	if	SCONJ	IN	None	13
+	people	people	NOUN	NNS	Number=Plur	13
+	walk	walk	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9
+	over	over	ADP	IN	None	16
+	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	16
+	home	home	NOUN	NN	Number=Sing	13
+	all	all	DET	PDT	None	19
+	the	the	DET	DT	Definite=Def|PronType=Art	19
+	time	time	NOUN	NN	Number=Sing	13
+	.	.	PUNCT	.	None	9
+
+
+# KOREFERENZPAAR 41:
+	# ANTEZEDENS:
+	But	but	CCONJ	CC	None	5
+	why	why	ADV	WRB	PronType=Int	5
+	should	should	AUX	MD	VerbForm=Fin	5
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5
+	pay	pay	VERB	VB	VerbForm=Inf	0
+	a	a	DET	DT	Definite=Ind|PronType=Art	7
+	toll	toll	NOUN	NN	Number=Sing	5
+	.	.	PUNCT	.	None	5
+
+	# ANAPHER:
+	Because	because	SCONJ	IN	None	5
+	this	this	PRON	DT	Number=Sing|PronType=Dem	5
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5
+	home	home	NOUN	NN	Number=Sing	9
+	,	,	PUNCT	,	None	9
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9
+	would	would	AUX	MD	VerbForm=Fin	9
+	want	want	VERB	VB	VerbForm=Inf	0
+	something	something	PRON	NN	Number=Sing	9
+	if	if	SCONJ	IN	None	13
+	people	people	NOUN	NNS	Number=Plur	13
+	walk	walk	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9
+	over	over	ADP	IN	None	16
+	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	16
+	home	home	NOUN	NN	Number=Sing	13
+	all	all	DET	PDT	None	19
+	the	the	DET	DT	Definite=Def|PronType=Art	19
+	time	time	NOUN	NN	Number=Sing	13
+	.	.	PUNCT	.	None	9
+
+
+# KOREFERENZPAAR 42:
+	# ANTEZEDENS:
+	Why	why	ADV	WRB	PronType=Int	7
+	should	should	AUX	MD	VerbForm=Fin	7
+	i	i	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7
+	be	be	AUX	VB	VerbForm=Inf	7
+	kind	kind	ADJ	JJ	Degree=Pos	7
+	to	to	ADP	IN	None	7
+	people	people	NOUN	NNS	Number=Plur	0
+	,	,	PUNCT	,	None	7
+	who	who	PRON	WP	PronType=Rel	12
+	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12
+	nt	not	PART	RB	None	12
+	nice	nice	ADJ	JJ	Degree=Pos	7
+	to	to	ADP	IN	None	14
+	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	12
+	?	?	PUNCT	.	None	7
+
+	# ANAPHER:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3
+	only	only	ADV	RB	None	3
+	ask	ask	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	a	a	DET	DT	Definite=Ind|PronType=Art	5
+	toll	toll	NOUN	NN	Number=Sing	3
+	as	as	ADP	IN	None	8
+	the	the	DET	DT	Definite=Def|PronType=Art	8
+	amount	amount	NOUN	NN	Number=Sing	3
+	of	of	ADP	IN	None	10
+	people	people	NOUN	NNS	Number=Plur	8
+	that	that	PRON	WDT	PronType=Rel	12
+	cross	cross	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10
+	damage	damage	VERB	VB	VerbForm=Inf	12
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	15
+	home	home	NOUN	NN	Number=Sing	13
+	.	.	PUNCT	.	None	3
+
+
+# KOREFERENZPAAR 43:
+	# ANTEZEDENS:
+	If	if	SCONJ	IN	None	6
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6
+	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6
+	kind	kind	ADJ	JJ	Degree=Pos	6
+	to	to	ADP	IN	None	6
+	people	people	NOUN	NNS	Number=Plur	11
+	,	,	PUNCT	,	None	11
+	maybe	maybe	ADV	RB	None	11
+	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	11
+	will	will	AUX	MD	VerbForm=Fin	11
+	learn	learn	VERB	VB	VerbForm=Inf	0
+	to	to	PART	TO	None	13
+	love	love	VERB	VB	VerbForm=Inf	11
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	13
+
+	# ANAPHER:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3
+	only	only	ADV	RB	None	3
+	ask	ask	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	a	a	DET	DT	Definite=Ind|PronType=Art	5
+	toll	toll	NOUN	NN	Number=Sing	3
+	as	as	ADP	IN	None	8
+	the	the	DET	DT	Definite=Def|PronType=Art	8
+	amount	amount	NOUN	NN	Number=Sing	3
+	of	of	ADP	IN	None	10
+	people	people	NOUN	NNS	Number=Plur	8
+	that	that	PRON	WDT	PronType=Rel	12
+	cross	cross	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10
+	damage	damage	VERB	VB	VerbForm=Inf	12
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	15
+	home	home	NOUN	NN	Number=Sing	13
+	.	.	PUNCT	.	None	3
+
+
+# KOREFERENZPAAR 44:
+	# ANTEZEDENS:
+	Aww	aww	INTJ	UH	None	3
+	,	,	PUNCT	,	None	3
+	thank	thank	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	3
+	mr	mr	PROPN	NNP	Number=Sing	3
+	Lizard	Lizard	PROPN	NNP	Number=Sing	5
+	,	,	PUNCT	,	None	8
+	come	come	VERB	VB	Mood=Imp|VerbForm=Fin	3
+	and	and	CCONJ	CC	None	10
+	get	get	VERB	VB	Mood=Imp|VerbForm=Fin	8
+	warm	warm	ADJ	JJ	Degree=Pos	10
+	with	with	ADP	IN	None	13
+	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	11
+	then	then	ADV	RB	PronType=Dem	17
+	i	i	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	17
+	will	will	AUX	MD	VerbForm=Fin	17
+	take	take	VERB	VB	VerbForm=Inf	3
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	17
+	to	to	ADP	IN	None	21
+	the	the	DET	DT	Definite=Def|PronType=Art	21
+	top	top	NOUN	NN	Number=Sing	17
+	so	so	ADV	RB	None	25
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	25
+	can	can	AUX	MD	VerbForm=Fin	25
+	get	get	VERB	VB	VerbForm=Inf	17
+	warm	warm	ADJ	JJ	Degree=Pos	25
+	in	in	ADP	IN	None	29
+	the	the	DET	DT	Definite=Def|PronType=Art	29
+	sun	sun	NOUN	NN	Number=Sing	26
+	.	.	PUNCT	.	None	3
+
+	# ANAPHER:
+	Thank	thank	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	1
+	troll	troll	NOUN	NN	Number=Sing	1
+	,	,	PUNCT	,	None	1
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8
+	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8
+	nt	not	PART	RB	None	8
+	think	think	VERB	VB	VerbForm=Inf	1
+	ill	ill	ADV	RB	None	10
+	have	have	VERB	VB	Mood=Ind|Tense=Pres|VerbForm=Fin	8
+	the	the	DET	DT	Definite=Def|PronType=Art	12
+	energy	energy	NOUN	NN	Number=Sing	10
+	to	to	PART	TO	None	14
+	move	move	VERB	VB	VerbForm=Inf	10
+	so	so	ADV	RB	None	20
+	that	that	PRON	DT	Number=Sing|PronType=Dem	20
+	will	will	AUX	MD	VerbForm=Fin	20
+	be	be	AUX	VB	VerbForm=Inf	20
+	very	very	ADV	RB	None	20
+	kind	kind	ADJ	JJ	Degree=Pos	1
+	of	of	ADP	IN	None	22
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	20
+	.	.	PUNCT	.	None	1
+
+
+# KOREFERENZPAAR 45:
+	# ANTEZEDENS:
+	Thank	thank	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	1
+	troll	troll	NOUN	NN	Number=Sing	1
+	,	,	PUNCT	,	None	1
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8
+	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8
+	nt	not	PART	RB	None	8
+	think	think	VERB	VB	VerbForm=Inf	1
+	ill	ill	ADV	RB	None	10
+	have	have	VERB	VB	Mood=Ind|Tense=Pres|VerbForm=Fin	8
+	the	the	DET	DT	Definite=Def|PronType=Art	12
+	energy	energy	NOUN	NN	Number=Sing	10
+	to	to	PART	TO	None	14
+	move	move	VERB	VB	VerbForm=Inf	10
+	so	so	ADV	RB	None	20
+	that	that	PRON	DT	Number=Sing|PronType=Dem	20
+	will	will	AUX	MD	VerbForm=Fin	20
+	be	be	AUX	VB	VerbForm=Inf	20
+	very	very	ADV	RB	None	20
+	kind	kind	ADJ	JJ	Degree=Pos	1
+	of	of	ADP	IN	None	22
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	20
+	.	.	PUNCT	.	None	1
+
+	# ANAPHER:
+	See	see	VERB	VB	Mood=Imp|VerbForm=Fin	0
+	troll	troll	NOUN	NN	Number=Sing	1
+	,	,	PUNCT	,	None	1
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7
+	can	can	AUX	MD	VerbForm=Fin	7
+	be	be	AUX	VB	VerbForm=Inf	7
+	kind	kind	ADJ	JJ	Degree=Pos	1
+	,	,	PUNCT	,	None	1
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11
+	should	should	AUX	MD	VerbForm=Fin	11
+	let	let	VERB	VB	VerbForm=Inf	1
+	people	people	NOUN	NNS	Number=Plur	11
+	see	see	VERB	VB	VerbForm=Inf	11
+	that	that	PRON	DT	Number=Sing|PronType=Dem	13
+	.	.	PUNCT	.	None	1
+
+
+# KOREFERENZPAAR 46:
+	# ANTEZEDENS:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5
+	ca	can	AUX	MD	VerbForm=Fin	5
+	nt	not	PART	RB	None	5
+	even	even	ADV	RB	None	5
+	steal	steal	VERB	VB	VerbForm=Inf	0
+	food	food	NOUN	NN	Number=Sing	5
+	from	from	ADP	IN	None	9
+	the	the	DET	DT	Definite=Def|PronType=Art	9
+	commoners	commoner	NOUN	NNS	Number=Plur	5
+	like	like	SCONJ	IN	None	12
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	12
+	used	use	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5
+	to	to	PART	TO	None	12
+	.	.	PUNCT	.	None	5
+
+	# ANAPHER:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4
+	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4
+	so	so	ADV	RB	None	4
+	enjoy	enjoy	VERB	VB	VerbForm=Inf	0
+	that	that	PRON	DT	Number=Sing|PronType=Dem	4
+	.	.	PUNCT	.	None	4
+
+
+# KOREFERENZPAAR 47:
+	# ANTEZEDENS:
+	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4
+	will	will	AUX	MD	VerbForm=Fin	4
+	not	not	PART	RB	None	4
+	need	need	VERB	VB	VerbForm=Inf	0
+	to	to	PART	TO	None	6
+	commit	commit	VERB	VB	VerbForm=Inf	4
+	anymore	anymore	ADV	RB	None	8
+	petty	petty	ADJ	JJ	Degree=Pos	9
+	thefts	thefts	NOUN	NNS	Number=Plur	6
+	,	,	PUNCT	,	None	4
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	13
+	will	will	AUX	MD	VerbForm=Fin	13
+	get	get	VERB	VB	VerbForm=Inf	4
+	all	all	DET	PDT	None	16
+	the	the	DET	DT	Definite=Def|PronType=Art	16
+	food	food	NOUN	NN	Number=Sing	13
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	20
+	can	can	AUX	MD	VerbForm=Fin	20
+	ever	ever	ADV	RB	None	20
+	imagine	imagine	VERB	VB	VerbForm=Inf	16
+	for	for	ADP	IN	None	23
+	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	23
+	service	service	NOUN	NN	Number=Sing	20
+	.	.	PUNCT	.	None	4
+
+	# ANAPHER:
+	Its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3
+	just	just	ADV	RB	None	5
+	that	that	PRON	WDT	PronType=Rel	5
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5
+	loved	love	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0
+	the	the	DET	DT	Definite=Def|PronType=Art	7
+	thrill	thrill	NOUN	NN	Number=Sing	5
+	of	of	ADP	IN	None	9
+	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7
+	.	.	PUNCT	.	None	1
+
+
+# KOREFERENZPAAR 48:
+	# ANTEZEDENS:
+	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5
+	shall	shall	AUX	MD	VerbForm=Fin	5
+	be	be	AUX	VB	VerbForm=Inf	5
+	up	up	ADV	RB	None	5
+	there	there	ADV	RB	PronType=Dem	0
+	in	in	ADP	IN	None	8
+	the	the	DET	DT	Definite=Def|PronType=Art	8
+	presence	presence	NOUN	NN	Number=Sing	5
+	of	of	ADP	IN	None	11
+	the	the	DET	DT	Definite=Def|PronType=Art	11
+	King	King	PROPN	NNP	Number=Sing	8
+	of	of	ADP	IN	None	13
+	Kings	Kings	PROPN	NNPS	Number=Plur	11
+	!	!	PUNCT	.	None	5
+
+	# ANAPHER:
+	That	that	PRON	DT	Number=Sing|PronType=Dem	3
+	just	just	ADV	RB	None	3
+	warm	warm	VERB	VBD	Mood=Ind|VerbForm=Fin	0
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5
+	heart	heart	NOUN	NN	Number=Sing	3
+	to	to	PART	TO	None	7
+	think	think	VERB	VB	VerbForm=Inf	3
+	of	of	ADP	IN	None	7
+	.	.	PUNCT	.	None	3
+
+
+# KOREFERENZPAAR 49:
+	# ANTEZEDENS:
+	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4
+	will	will	AUX	MD	VerbForm=Fin	4
+	be	be	AUX	VB	VerbForm=Inf	4
+	remembered	remember	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0
+	,	,	PUNCT	,	None	4
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7
+	promise	promise	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	7
+	.	.	PUNCT	.	None	4
+
+	# ANAPHER:
+	That	that	PRON	DT	Number=Sing|PronType=Dem	3
+	just	just	ADV	RB	None	3
+	warm	warm	VERB	VBD	Mood=Ind|VerbForm=Fin	0
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5
+	heart	heart	NOUN	NN	Number=Sing	3
+	to	to	PART	TO	None	7
+	think	think	VERB	VB	VerbForm=Inf	3
+	of	of	ADP	IN	None	7
+	.	.	PUNCT	.	None	3
+
+
+# KOREFERENZPAAR 50:
+	# ANTEZEDENS:
+	Do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3
+	remember	remember	VERB	VB	VerbForm=Inf	0
+	the	the	DET	DT	Definite=Def|PronType=Art	5
+	time	time	NOUN	NN	Number=Sing	3
+	the	the	DET	DT	Definite=Def|PronType=Art	7
+	king	king	NOUN	NN	Number=Sing	8
+	brought	bring	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5
+	the	the	DET	DT	Definite=Def|PronType=Art	10
+	cat	cat	NOUN	NN	Number=Sing	8
+	home	home	ADV	RB	None	8
+	.	.	PUNCT	.	None	3
+
+	# ANAPHER:
+	That	that	PRON	DT	Number=Sing|PronType=Dem	4
+	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4
+	not	not	PART	RB	None	4
+	one	one	NUM	CD	NumType=Card	0
+	of	of	ADP	IN	None	8
+	those	that	DET	DT	Number=Plur|PronType=Dem	8
+	good	good	ADJ	JJ	Degree=Pos	8
+	days	day	NOUN	NNS	Number=Plur	4
+	.	.	PUNCT	.	None	4
+
+
+# KOREFERENZPAAR 51:
+	# ANTEZEDENS:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3
+	will	will	AUX	MD	VerbForm=Fin	3
+	need	need	VERB	VB	VerbForm=Inf	0
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	3
+	sharp	sharp	ADJ	JJ	Degree=Pos	3
+	and	and	CCONJ	CC	None	7
+	rested	rest	VERB	VBN	Tense=Past|VerbForm=Part	5
+	for	for	ADP	IN	None	9
+	guidance	guidance	NOUN	NN	Number=Sing	7
+	as	as	SCONJ	IN	None	12
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	12
+	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3
+	not	not	PART	RB	None	14
+	where	where	SCONJ	WRB	PronType=Int	18
+	the	the	DET	DT	Definite=Def|PronType=Art	16
+	castle	castle	NOUN	NN	Number=Sing	18
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18
+	other	other	ADJ	JJ	Degree=Pos	12
+	than	than	ADP	IN	None	20
+	westward	westward	ADV	RB	None	18
+	.	.	PUNCT	.	None	3
+
+	# ANAPHER:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2
+	forgot	forget	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0
+	to	to	PART	TO	None	4
+	ask	ask	VERB	VB	VerbForm=Inf	2
+	,	,	PUNCT	,	None	6
+	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6
+	any	any	DET	DT	None	9
+	friends	friend	NOUN	NNS	Number=Plur	6
+	nearby	nearby	ADV	RB	None	9
+	that	that	PRON	WDT	PronType=Rel	13
+	could	could	AUX	MD	VerbForm=Fin	13
+	get	get	VERB	VB	VerbForm=Inf	9
+	warmth	warmth	NOUN	NN	Number=Sing	13
+	from	from	ADP	IN	None	17
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	17
+	pocket	pocket	NOUN	NN	Number=Sing	13
+	?	?	PUNCT	.	None	2
+
+
+# KOREFERENZPAAR 52:
+	# ANTEZEDENS:
+	What	what	PRON	WP	PronType=Int	3
+	s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3
+	say	say	VERB	VB	Tense=Pres|VerbForm=Inf	0
+	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5
+	make	make	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3
+	camp	camp	NOUN	NN	Number=Sing	5
+	here	here	ADV	RB	PronType=Dem	5
+	tonight	tonight	NOUN	NN	Number=Sing	5
+	and	and	CCONJ	CC	None	12
+	head	head	NOUN	NN	Number=Sing	12
+	onward	onward	ADV	RB	None	12
+	west	west	ADV	RB	None	5
+	tomorrow	tomorrow	NOUN	NN	Number=Sing	12
+	?	?	PUNCT	.	None	3
+
+	# ANAPHER:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2
+	forgot	forget	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0
+	to	to	PART	TO	None	4
+	ask	ask	VERB	VB	VerbForm=Inf	2
+	,	,	PUNCT	,	None	6
+	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6
+	any	any	DET	DT	None	9
+	friends	friend	NOUN	NNS	Number=Plur	6
+	nearby	nearby	ADV	RB	None	9
+	that	that	PRON	WDT	PronType=Rel	13
+	could	could	AUX	MD	VerbForm=Fin	13
+	get	get	VERB	VB	VerbForm=Inf	9
+	warmth	warmth	NOUN	NN	Number=Sing	13
+	from	from	ADP	IN	None	17
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	17
+	pocket	pocket	NOUN	NN	Number=Sing	13
+	?	?	PUNCT	.	None	2
+
+
+# KOREFERENZPAAR 53:
+	# ANTEZEDENS:
+	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3
+	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3
+	gained	gain	VERB	VBN	Tense=Past|VerbForm=Part	0
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5
+	trust	trust	NOUN	NN	Number=Sing	3
+	so	so	ADV	RB	None	9
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9
+	will	will	AUX	MD	VerbForm=Fin	9
+	give	give	VERB	VB	VerbForm=Inf	3
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	9
+	this	this	DET	DT	Number=Sing|PronType=Dem	12
+	mold	mold	NOUN	NN	Number=Sing	9
+	as	as	ADP	IN	None	15
+	a	a	DET	DT	Definite=Ind|PronType=Art	15
+	gift	gift	NOUN	NN	Number=Sing	9
+	.	.	PUNCT	.	None	3
+
+	# ANAPHER:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3
+	will	will	AUX	MD	VerbForm=Fin	3
+	treasure	treasure	VERB	VB	VerbForm=Inf	0
+	this	this	PRON	DT	Number=Sing|PronType=Dem	3
+	with	with	ADP	IN	None	8
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	7
+	life	life	NOUN	NN	Number=Sing	3
+	Roach	Roach	PROPN	NNP	Number=Sing	3
+	!	!	PUNCT	.	None	3
+
+
+# KOREFERENZPAAR 54:
+	# ANTEZEDENS:
+	How	how	ADV	WRB	PronType=Int	4
+	could	could	AUX	MD	VerbForm=Fin	4
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4
+	drop	drop	VERB	VB	VerbForm=Inf	0
+	a	a	DET	DT	Definite=Ind|PronType=Art	6
+	gift	gift	NOUN	NN	Number=Sing	4
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8
+	gave	give	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	8
+	!	!	PUNCT	.	None	4
+
+	# ANAPHER:
+	Please	please	INTJ	UH	None	6
+	,	,	PUNCT	,	None	6
+	please	please	INTJ	UH	None	6
+	do	do	AUX	VB	Mood=Imp|VerbForm=Fin	6
+	nt	not	PART	RB	None	6
+	do	do	VERB	VB	Mood=Imp|VerbForm=Fin	0
+	this	this	PRON	DT	Number=Sing|PronType=Dem	6
+	.	.	PUNCT	.	None	6
+
+
+# KOREFERENZPAAR 55:
+	# ANTEZEDENS:
+	Do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3
+	think	think	VERB	VB	VerbForm=Inf	0
+	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	6
+	will	will	AUX	MD	VerbForm=Fin	6
+	need	need	VERB	VB	VerbForm=Inf	3
+	to	to	PART	TO	None	8
+	rally	rally	VERB	VB	VerbForm=Inf	6
+	for	for	ADP	IN	None	10
+	war	war	NOUN	NN	Number=Sing	8
+	or	or	CCONJ	CC	None	14
+	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	14
+	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	3
+	to	to	PART	TO	None	16
+	try	try	VERB	VB	VerbForm=Inf	14
+	a	a	DET	DT	Definite=Ind|PronType=Art	18
+	treaty	treaty	NOUN	NN	Number=Sing	16
+	?	?	PUNCT	.	None	3
+
+	# ANAPHER:
+	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4
+	shall	shall	AUX	MD	VerbForm=Fin	4
+	be	be	AUX	VB	VerbForm=Inf	4
+	ready	ready	ADJ	JJ	Degree=Pos	0
+	,	,	PUNCT	,	None	4
+	if	if	SCONJ	IN	None	7
+	need	need	VERB	VB	VerbForm=Fin	8
+	be	be	VERB	VB	VerbForm=Fin	4
+	,	,	PUNCT	,	None	12
+	but	but	CCONJ	CC	None	12
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	12
+	hope	hope	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4
+	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	16
+	need	need	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16
+	not	not	PART	RB	None	16
+	come	come	VERB	VB	VerbForm=Inf	12
+	to	to	ADP	IN	None	18
+	that	that	PRON	DT	Number=Sing|PronType=Dem	16
+	.	.	PUNCT	.	None	4
+
+
+# KOREFERENZPAAR 56:
+	# ANTEZEDENS:
+	The	the	DET	DT	Definite=Def|PronType=Art	2
+	archers	archer	NOUN	NNS	Number=Plur	4
+	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4
+	performing	perform	VERB	VBG	Tense=Pres|VerbForm=Part	0
+	well	well	ADV	RB	Degree=Pos	4
+	and	and	CCONJ	CC	None	9
+	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	9
+	can	can	AUX	MD	VerbForm=Fin	9
+	keep	keep	VERB	VB	VerbForm=Inf	4
+	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	9
+	at	at	ADP	IN	None	12
+	bay	bay	NOUN	NN	Number=Sing	9
+	for	for	ADP	IN	None	16
+	a	a	DET	DT	Definite=Ind|PronType=Art	16
+	long	long	ADJ	JJ	Degree=Pos	16
+	while	while	NOUN	NN	Number=Sing	9
+	.	.	PUNCT	.	None	4
+
+	# ANAPHER:
+	Ah	ah	INTJ	UH	None	8
+	,	,	PUNCT	,	None	8
+	yes	yes	INTJ	UH	None	8
+	,	,	PUNCT	,	None	8
+	that	that	PRON	DT	Number=Sing|PronType=Dem	8
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8
+	quite	quite	ADV	RB	None	8
+	good	good	ADJ	JJ	Degree=Pos	0
+	.	.	PUNCT	.	None	8
+
+
+# KOREFERENZPAAR 57:
+	# ANTEZEDENS:
+	Does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3
+	evil	evil	NOUN	NN	Number=Sing	3
+	mean	mean	VERB	VB	VerbForm=Inf	0
+	because	because	SCONJ	IN	None	7
+	i	i	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7
+	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7
+	capable	capable	ADJ	JJ	Degree=Pos	3
+	of	of	SCONJ	IN	None	9
+	casting	casting	VERB	VBG	VerbForm=Ger	7
+	spells	spell	NOUN	NNS	Number=Plur	9
+	?	?	PUNCT	.	None	3
+
+	# ANAPHER:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2
+	ask	ask	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2
+	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6
+	that	that	PRON	DT	Number=Sing|PronType=Dem	6
+	mean	mean	VERB	VB	VerbForm=Inf	2
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9
+	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9
+	evil	evil	ADJ	JJ	Degree=Pos	6
+	?	?	PUNCT	.	None	2
+
+
+# KOREFERENZPAAR 58:
+	# ANTEZEDENS:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2
+	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2
+	to	to	PART	TO	None	5
+	interpret	interpret	VERB	VB	VerbForm=Inf	2
+	this	this	DET	DT	Number=Sing|PronType=Dem	7
+	scroll	scroll	NOUN	NN	Number=Sing	5
+	and	and	CCONJ	CC	None	19
+	in	in	ADP	IN	None	10
+	exchange	exchange	NOUN	NN	Number=Sing	19
+	,	,	PUNCT	,	None	19
+	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	13
+	crimes	crime	NOUN	NNS	Number=Plur	19
+	against	against	ADP	IN	None	16
+	the	the	DET	DT	Definite=Def|PronType=Art	16
+	Kingdom	Kingdom	PROPN	NNP	Number=Sing	13
+	will	will	AUX	MD	VerbForm=Fin	19
+	be	be	AUX	VB	VerbForm=Inf	19
+	overlooked	overlook	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2
+	.	.	PUNCT	.	None	2
+
+	# ANAPHER:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4
+	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4
+	not	not	PART	RB	None	4
+	murder	murder	VERB	VB	VerbForm=Inf	0
+	,	,	PUNCT	,	None	4
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7
+	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4
+	that	that	PRON	DT	Number=Sing|PronType=Dem	7
+	wrong	wrong	ADJ	JJ	Degree=Pos	7
+	.	.	PUNCT	.	None	4
+
+
+# KOREFERENZPAAR 59:
+	# ANTEZEDENS:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2
+	hear	hear	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5
+	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5
+	able	able	ADJ	JJ	Degree=Pos	2
+	to	to	PART	TO	None	7
+	read	read	VERB	VB	VerbForm=Inf	5
+	this	this	DET	DT	Number=Sing|PronType=Dem	10
+	ancient	ancient	ADJ	JJ	Degree=Pos	10
+	text	text	NOUN	NN	Number=Sing	7
+	.	.	PUNCT	.	None	2
+
+	# ANAPHER:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4
+	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4
+	not	not	PART	RB	None	4
+	murder	murder	VERB	VB	VerbForm=Inf	0
+	,	,	PUNCT	,	None	4
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7
+	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4
+	that	that	PRON	DT	Number=Sing|PronType=Dem	7
+	wrong	wrong	ADJ	JJ	Degree=Pos	7
+	.	.	PUNCT	.	None	4
+
+
+# KOREFERENZPAAR 60:
+	# ANTEZEDENS:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2
+	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2
+	to	to	PART	TO	None	5
+	interpret	interpret	VERB	VB	VerbForm=Inf	2
+	this	this	DET	DT	Number=Sing|PronType=Dem	7
+	scroll	scroll	NOUN	NN	Number=Sing	5
+	and	and	CCONJ	CC	None	19
+	in	in	ADP	IN	None	10
+	exchange	exchange	NOUN	NN	Number=Sing	19
+	,	,	PUNCT	,	None	19
+	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	13
+	crimes	crime	NOUN	NNS	Number=Plur	19
+	against	against	ADP	IN	None	16
+	the	the	DET	DT	Definite=Def|PronType=Art	16
+	Kingdom	Kingdom	PROPN	NNP	Number=Sing	13
+	will	will	AUX	MD	VerbForm=Fin	19
+	be	be	AUX	VB	VerbForm=Inf	19
+	overlooked	overlook	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2
+	.	.	PUNCT	.	None	2
+
+	# ANAPHER:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4
+	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4
+	not	not	PART	RB	None	4
+	need	need	VERB	VB	VerbForm=Inf	0
+	to	to	PART	TO	None	6
+	do	do	VERB	VB	VerbForm=Inf	4
+	that	that	PRON	DT	Number=Sing|PronType=Dem	6
+	.	.	PUNCT	.	None	4
+
+
+# KOREFERENZPAAR 61:
+	# ANTEZEDENS:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3
+	could	could	AUX	MD	VerbForm=Fin	3
+	transform	transform	VERB	VB	VerbForm=Inf	0
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	3
+	into	into	ADP	IN	None	7
+	a	a	DET	DT	Definite=Ind|PronType=Art	7
+	pig	pig	NOUN	NN	Number=Sing	3
+	,	,	PUNCT	,	None	3
+	if	if	SCONJ	IN	None	12
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12
+	would	would	AUX	MD	VerbForm=Fin	12
+	like	like	VERB	VB	VerbForm=Inf	3
+	.	.	PUNCT	.	None	3
+
+	# ANAPHER:
+	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4
+	must	must	AUX	MD	VerbForm=Fin	4
+	surely	surely	ADV	RB	None	4
+	realize	realize	VERB	VB	VerbForm=Inf	0
+	that	that	SCONJ	IN	None	8
+	when	when	SCONJ	WRB	PronType=Int	8
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8
+	transform	transform	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4
+	people	people	NOUN	NNS	Number=Plur	8
+	into	into	ADP	IN	None	11
+	animals	animal	NOUN	NNS	Number=Plur	8
+	or	or	CCONJ	CC	None	13
+	insects	insect	NOUN	NNS	Number=Plur	11
+	that	that	PRON	WDT	PronType=Rel	19
+	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	19
+	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	19
+	usually	usually	ADV	RB	None	19
+	surely	surely	ADV	RB	None	19
+	killed	kill	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	11
+	.	.	PUNCT	.	None	4
+
+
+# KOREFERENZPAAR 62:
+	# ANTEZEDENS:
+	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4
+	must	must	AUX	MD	VerbForm=Fin	4
+	surely	surely	ADV	RB	None	4
+	realize	realize	VERB	VB	VerbForm=Inf	0
+	that	that	SCONJ	IN	None	8
+	when	when	SCONJ	WRB	PronType=Int	8
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8
+	transform	transform	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4
+	people	people	NOUN	NNS	Number=Plur	8
+	into	into	ADP	IN	None	11
+	animals	animal	NOUN	NNS	Number=Plur	8
+	or	or	CCONJ	CC	None	13
+	insects	insect	NOUN	NNS	Number=Plur	11
+	that	that	PRON	WDT	PronType=Rel	19
+	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	19
+	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	19
+	usually	usually	ADV	RB	None	19
+	surely	surely	ADV	RB	None	19
+	killed	kill	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	11
+	.	.	PUNCT	.	None	4
+
+	# ANAPHER:
+	hahahahaha	hahahahaha	INTJ	UH	None	6
+	....	....	PUNCT	,	None	6
+	now	now	ADV	RB	None	6
+	that	that	PRON	DT	Number=Sing|PronType=Dem	6
+	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6
+	funny	funny	ADJ	JJ	Degree=Pos	0
+	!	!	PUNCT	.	None	6
+
+
+# KOREFERENZPAAR 63:
+	# ANTEZEDENS:
+	But	but	CCONJ	CC	None	14
+	,	,	PUNCT	,	None	14
+	as	as	SCONJ	IN	None	5
+	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5
+	pains	pain	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14
+	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	5
+	to	to	PART	TO	None	8
+	say	say	VERB	VB	VerbForm=Inf	5
+	this	this	PRON	DT	Number=Sing|PronType=Dem	8
+	,	,	PUNCT	,	None	14
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	14
+	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14
+	indeed	indeed	ADV	RB	None	14
+	brilliant	brilliant	ADJ	JJ	Degree=Pos	0
+	and	and	CCONJ	CC	None	18
+	the	the	DET	DT	Definite=Def|PronType=Art	18
+	best	best	ADJ	JJS	Degree=Sup	18
+	wizard	wizard	NOUN	NN	Number=Sing	14
+	in	in	ADP	IN	None	22
+	all	all	DET	PDT	None	22
+	the	the	DET	DT	Definite=Def|PronType=Art	22
+	land	land	NOUN	NN	Number=Sing	18
+	!	!	PUNCT	.	None	14
+
+	# ANAPHER:
+	But	but	CCONJ	CC	None	14
+	,	,	PUNCT	,	None	14
+	as	as	SCONJ	IN	None	5
+	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5
+	pains	pain	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14
+	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	5
+	to	to	PART	TO	None	8
+	say	say	VERB	VB	VerbForm=Inf	5
+	this	this	PRON	DT	Number=Sing|PronType=Dem	8
+	,	,	PUNCT	,	None	14
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	14
+	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14
+	indeed	indeed	ADV	RB	None	14
+	brilliant	brilliant	ADJ	JJ	Degree=Pos	0
+	and	and	CCONJ	CC	None	18
+	the	the	DET	DT	Definite=Def|PronType=Art	18
+	best	best	ADJ	JJS	Degree=Sup	18
+	wizard	wizard	NOUN	NN	Number=Sing	14
+	in	in	ADP	IN	None	22
+	all	all	DET	PDT	None	22
+	the	the	DET	DT	Definite=Def|PronType=Art	22
+	land	land	NOUN	NN	Number=Sing	18
+	!	!	PUNCT	.	None	14
+
+
+# KOREFERENZPAAR 64:
+	# ANTEZEDENS:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2
+	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	that	that	SCONJ	IN	None	7
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7
+	would	would	AUX	MD	VerbForm=Fin	7
+	rather	rather	ADV	RB	None	7
+	turn	turn	VERB	VB	VerbForm=Inf	2
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	7
+	into	into	ADP	IN	None	11
+	a	a	DET	DT	Definite=Ind|PronType=Art	11
+	pig	pig	NOUN	NN	Number=Sing	7
+	,	,	PUNCT	,	None	7
+	unless	unless	SCONJ	IN	None	16
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	16
+	quickly	quickly	ADV	RB	None	16
+	give	give	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7
+	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	16
+	that	that	DET	DT	Number=Sing|PronType=Dem	19
+	scroll	scroll	NOUN	NN	Number=Sing	16
+
+	# ANAPHER:
+	But	but	CCONJ	CC	None	14
+	,	,	PUNCT	,	None	14
+	as	as	SCONJ	IN	None	5
+	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5
+	pains	pain	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14
+	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	5
+	to	to	PART	TO	None	8
+	say	say	VERB	VB	VerbForm=Inf	5
+	this	this	PRON	DT	Number=Sing|PronType=Dem	8
+	,	,	PUNCT	,	None	14
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	14
+	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14
+	indeed	indeed	ADV	RB	None	14
+	brilliant	brilliant	ADJ	JJ	Degree=Pos	0
+	and	and	CCONJ	CC	None	18
+	the	the	DET	DT	Definite=Def|PronType=Art	18
+	best	best	ADJ	JJS	Degree=Sup	18
+	wizard	wizard	NOUN	NN	Number=Sing	14
+	in	in	ADP	IN	None	22
+	all	all	DET	PDT	None	22
+	the	the	DET	DT	Definite=Def|PronType=Art	22
+	land	land	NOUN	NN	Number=Sing	18
+	!	!	PUNCT	.	None	14
+
+
+# KOREFERENZPAAR 65:
+	# ANTEZEDENS:
+	But	but	CCONJ	CC	None	14
+	,	,	PUNCT	,	None	14
+	as	as	SCONJ	IN	None	5
+	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5
+	pains	pain	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14
+	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	5
+	to	to	PART	TO	None	8
+	say	say	VERB	VB	VerbForm=Inf	5
+	this	this	PRON	DT	Number=Sing|PronType=Dem	8
+	,	,	PUNCT	,	None	14
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	14
+	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14
+	indeed	indeed	ADV	RB	None	14
+	brilliant	brilliant	ADJ	JJ	Degree=Pos	0
+	and	and	CCONJ	CC	None	18
+	the	the	DET	DT	Definite=Def|PronType=Art	18
+	best	best	ADJ	JJS	Degree=Sup	18
+	wizard	wizard	NOUN	NN	Number=Sing	14
+	in	in	ADP	IN	None	22
+	all	all	DET	PDT	None	22
+	the	the	DET	DT	Definite=Def|PronType=Art	22
+	land	land	NOUN	NN	Number=Sing	18
+	!	!	PUNCT	.	None	14
+
+	# ANAPHER:
+	Here	here	ADV	RB	PronType=Dem	6
+	,	,	PUNCT	,	None	6
+	this	this	PRON	DT	Number=Sing|PronType=Dem	6
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6
+	the	the	DET	DT	Definite=Def|PronType=Art	6
+	scroll	scroll	NOUN	NN	Number=Sing	0
+	.	.	PUNCT	.	None	6
+
+
+# KOREFERENZPAAR 66:
+	# ANTEZEDENS:
+	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3
+	may	may	AUX	MD	VerbForm=Fin	3
+	need	need	VERB	VB	VerbForm=Inf	0
+	to	to	PART	TO	None	5
+	move	move	VERB	VB	VerbForm=Inf	3
+	closer	closer	ADV	RBR	Degree=Cmp	5
+	though	though	ADV	RB	None	5
+	,	,	PUNCT	,	None	12
+	the	the	DET	DT	Definite=Def|PronType=Art	10
+	text	text	NOUN	NN	Number=Sing	12
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12
+	written	write	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3
+	in	in	ADP	IN	None	16
+	such	such	DET	PDT	None	16
+	a	a	DET	DT	Definite=Ind|PronType=Art	16
+	way	way	NOUN	NN	Number=Sing	12
+	that	that	PRON	WDT	PronType=Rel	20
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	20
+	must	must	AUX	MD	VerbForm=Fin	20
+	hold	hold	VERB	VB	VerbForm=Inf	16
+	the	the	DET	DT	Definite=Def|PronType=Art	22
+	scroll	scroll	NOUN	NN	Number=Sing	20
+	up	up	ADP	RP	None	20
+	to	to	ADP	IN	None	26
+	a	a	DET	DT	Definite=Ind|PronType=Art	26
+	light	light	NOUN	NN	Number=Sing	20
+	to	to	PART	TO	None	28
+	read	read	VERB	VB	VerbForm=Inf	26
+	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	28
+	.	.	PUNCT	.	None	3
+
+	# ANAPHER:
+	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3
+	may	may	AUX	MD	VerbForm=Fin	3
+	need	need	VERB	VB	VerbForm=Inf	0
+	to	to	PART	TO	None	5
+	move	move	VERB	VB	VerbForm=Inf	3
+	closer	closer	ADV	RBR	Degree=Cmp	5
+	though	though	ADV	RB	None	5
+	,	,	PUNCT	,	None	12
+	the	the	DET	DT	Definite=Def|PronType=Art	10
+	text	text	NOUN	NN	Number=Sing	12
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12
+	written	write	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3
+	in	in	ADP	IN	None	16
+	such	such	DET	PDT	None	16
+	a	a	DET	DT	Definite=Ind|PronType=Art	16
+	way	way	NOUN	NN	Number=Sing	12
+	that	that	PRON	WDT	PronType=Rel	20
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	20
+	must	must	AUX	MD	VerbForm=Fin	20
+	hold	hold	VERB	VB	VerbForm=Inf	16
+	the	the	DET	DT	Definite=Def|PronType=Art	22
+	scroll	scroll	NOUN	NN	Number=Sing	20
+	up	up	ADP	RP	None	20
+	to	to	ADP	IN	None	26
+	a	a	DET	DT	Definite=Ind|PronType=Art	26
+	light	light	NOUN	NN	Number=Sing	20
+	to	to	PART	TO	None	28
+	read	read	VERB	VB	VerbForm=Inf	26
+	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	28
+	.	.	PUNCT	.	None	3
+
+
+# KOREFERENZPAAR 67:
+	# ANTEZEDENS:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4
+	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4
+	not	not	PART	RB	None	4
+	touch	touch	VERB	VB	VerbForm=Inf	0
+	anything	anything	PRON	NN	Number=Sing	4
+	.	.	PUNCT	.	None	4
+
+	# ANAPHER:
+	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3
+	may	may	AUX	MD	VerbForm=Fin	3
+	need	need	VERB	VB	VerbForm=Inf	0
+	to	to	PART	TO	None	5
+	move	move	VERB	VB	VerbForm=Inf	3
+	closer	closer	ADV	RBR	Degree=Cmp	5
+	though	though	ADV	RB	None	5
+	,	,	PUNCT	,	None	12
+	the	the	DET	DT	Definite=Def|PronType=Art	10
+	text	text	NOUN	NN	Number=Sing	12
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12
+	written	write	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3
+	in	in	ADP	IN	None	16
+	such	such	DET	PDT	None	16
+	a	a	DET	DT	Definite=Ind|PronType=Art	16
+	way	way	NOUN	NN	Number=Sing	12
+	that	that	PRON	WDT	PronType=Rel	20
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	20
+	must	must	AUX	MD	VerbForm=Fin	20
+	hold	hold	VERB	VB	VerbForm=Inf	16
+	the	the	DET	DT	Definite=Def|PronType=Art	22
+	scroll	scroll	NOUN	NN	Number=Sing	20
+	up	up	ADP	RP	None	20
+	to	to	ADP	IN	None	26
+	a	a	DET	DT	Definite=Ind|PronType=Art	26
+	light	light	NOUN	NN	Number=Sing	20
+	to	to	PART	TO	None	28
+	read	read	VERB	VB	VerbForm=Inf	26
+	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	28
+	.	.	PUNCT	.	None	3
+
+
+# KOREFERENZPAAR 68:
+	# ANTEZEDENS:
+	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3
+	may	may	AUX	MD	VerbForm=Fin	3
+	need	need	VERB	VB	VerbForm=Inf	0
+	to	to	PART	TO	None	5
+	move	move	VERB	VB	VerbForm=Inf	3
+	closer	closer	ADV	RBR	Degree=Cmp	5
+	though	though	ADV	RB	None	5
+	,	,	PUNCT	,	None	12
+	the	the	DET	DT	Definite=Def|PronType=Art	10
+	text	text	NOUN	NN	Number=Sing	12
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12
+	written	write	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3
+	in	in	ADP	IN	None	16
+	such	such	DET	PDT	None	16
+	a	a	DET	DT	Definite=Ind|PronType=Art	16
+	way	way	NOUN	NN	Number=Sing	12
+	that	that	PRON	WDT	PronType=Rel	20
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	20
+	must	must	AUX	MD	VerbForm=Fin	20
+	hold	hold	VERB	VB	VerbForm=Inf	16
+	the	the	DET	DT	Definite=Def|PronType=Art	22
+	scroll	scroll	NOUN	NN	Number=Sing	20
+	up	up	ADP	RP	None	20
+	to	to	ADP	IN	None	26
+	a	a	DET	DT	Definite=Ind|PronType=Art	26
+	light	light	NOUN	NN	Number=Sing	20
+	to	to	PART	TO	None	28
+	read	read	VERB	VB	VerbForm=Inf	26
+	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	28
+	.	.	PUNCT	.	None	3
+
+	# ANAPHER:
+	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4
+	a	a	DET	DT	Definite=Ind|PronType=Art	4
+	language	language	NOUN	NN	Number=Sing	0
+	that	that	PRON	WDT	PronType=Rel	10
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10
+	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10
+	never	never	ADV	RB	None	10
+	even	even	ADV	RB	None	10
+	seen	see	VERB	VBN	Tense=Past|VerbForm=Part	4
+	before	before	ADV	RB	None	10
+	.	.	PUNCT	.	None	4
+
+
+# KOREFERENZPAAR 69:
+	# ANTEZEDENS:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4
+	can	can	AUX	MD	VerbForm=Fin	4
+	not	not	PART	RB	None	4
+	argue	argue	VERB	VB	VerbForm=Inf	0
+	with	with	ADP	IN	None	6
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	4
+	.	.	PUNCT	.	None	4
+
+	# ANAPHER:
+	As	as	ADV	RB	None	2
+	much	much	ADV	RB	None	12
+	as	as	SCONJ	IN	None	5
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5
+	hate	hate	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2
+	this	this	PRON	DT	Number=Sing|PronType=Dem	5
+	,	,	PUNCT	,	None	12
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12
+	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12
+	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	12
+	only	only	ADJ	JJ	Degree=Pos	12
+	hope	hope	NOUN	NN	Number=Sing	0
+	.	.	PUNCT	.	None	12
+
+
+# KOREFERENZPAAR 70:
+	# ANTEZEDENS:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4
+	should	should	AUX	MD	VerbForm=Fin	4
+	have	have	AUX	VB	VerbForm=Inf	4
+	known	know	VERB	VBN	Tense=Past|VerbForm=Part	0
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8
+	would	would	AUX	MD	VerbForm=Fin	8
+	have	have	AUX	VB	VerbForm=Inf	8
+	cast	cast	VERB	VBN	Tense=Past|VerbForm=Part	4
+	the	the	DET	DT	Definite=Def|PronType=Art	10
+	spell	spell	NOUN	NN	Number=Sing	8
+	of	of	ADP	IN	None	13
+	true	true	ADJ	JJ	Degree=Pos	13
+	sight	sight	NOUN	NN	Number=Sing	10
+	upon	upon	ADP	IN	None	15
+	yourself	yourself	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	8
+	.	.	PUNCT	.	None	4
+
+	# ANAPHER:
+	As	as	ADV	RB	None	2
+	much	much	ADV	RB	None	12
+	as	as	SCONJ	IN	None	5
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5
+	hate	hate	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2
+	this	this	PRON	DT	Number=Sing|PronType=Dem	5
+	,	,	PUNCT	,	None	12
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12
+	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12
+	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	12
+	only	only	ADJ	JJ	Degree=Pos	12
+	hope	hope	NOUN	NN	Number=Sing	0
+	.	.	PUNCT	.	None	12
+
+
+# KOREFERENZPAAR 71:
+	# ANTEZEDENS:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4
+	can	can	AUX	MD	VerbForm=Fin	4
+	kind	kind	ADV	RB	None	4
+	sir	sir	VERB	VB	VerbForm=Inf	0
+	.	.	PUNCT	.	None	4
+
+	# ANAPHER:
+	In	in	ADP	IN	None	3
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3
+	possession	possession	NOUN	NN	Number=Sing	5
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5
+	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	a	a	DET	DT	Definite=Ind|PronType=Art	7
+	sword	sword	NOUN	NN	Number=Sing	5
+	that	that	PRON	WDT	PronType=Rel	11
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11
+	so	so	ADV	RB	None	11
+	sharp	sharp	ADJ	JJ	Degree=Pos	7
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	14
+	could	could	AUX	MD	VerbForm=Fin	14
+	shave	shave	VERB	VB	VerbForm=Inf	5
+	a	a	DET	DT	Definite=Ind|PronType=Art	17
+	spiders	spider	NOUN	NNS	Number=Plur	17
+	arse	arse	NOUN	NN	Number=Sing	14
+	with	with	ADP	IN	None	19
+	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14
+	.	.	PUNCT	.	None	5
+
+
+# KOREFERENZPAAR 72:
+	# ANTEZEDENS:
+	Can	can	AUX	MD	VerbForm=Fin	4
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4
+	not	not	PART	RB	None	4
+	speak	speak	VERB	VB	VerbForm=Inf	0
+	to	to	ADP	IN	None	6
+	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	4
+	at	at	ADP	IN	None	10
+	this	this	DET	DT	Number=Sing|PronType=Dem	10
+	very	very	ADJ	JJ	Degree=Pos	10
+	moment	moment	NOUN	NN	Number=Sing	4
+	?	?	PUNCT	.	None	4
+
+	# ANAPHER:
+	In	in	ADP	IN	None	3
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3
+	possession	possession	NOUN	NN	Number=Sing	5
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5
+	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	a	a	DET	DT	Definite=Ind|PronType=Art	7
+	sword	sword	NOUN	NN	Number=Sing	5
+	that	that	PRON	WDT	PronType=Rel	11
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11
+	so	so	ADV	RB	None	11
+	sharp	sharp	ADJ	JJ	Degree=Pos	7
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	14
+	could	could	AUX	MD	VerbForm=Fin	14
+	shave	shave	VERB	VB	VerbForm=Inf	5
+	a	a	DET	DT	Definite=Ind|PronType=Art	17
+	spiders	spider	NOUN	NNS	Number=Plur	17
+	arse	arse	NOUN	NN	Number=Sing	14
+	with	with	ADP	IN	None	19
+	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14
+	.	.	PUNCT	.	None	5
+
+
+# KOREFERENZPAAR 73:
+	# ANTEZEDENS:
+	In	in	ADP	IN	None	3
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3
+	possession	possession	NOUN	NN	Number=Sing	5
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5
+	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	a	a	DET	DT	Definite=Ind|PronType=Art	7
+	sword	sword	NOUN	NN	Number=Sing	5
+	that	that	PRON	WDT	PronType=Rel	11
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11
+	so	so	ADV	RB	None	11
+	sharp	sharp	ADJ	JJ	Degree=Pos	7
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	14
+	could	could	AUX	MD	VerbForm=Fin	14
+	shave	shave	VERB	VB	VerbForm=Inf	5
+	a	a	DET	DT	Definite=Ind|PronType=Art	17
+	spiders	spider	NOUN	NNS	Number=Plur	17
+	arse	arse	NOUN	NN	Number=Sing	14
+	with	with	ADP	IN	None	19
+	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14
+	.	.	PUNCT	.	None	5
+
+	# ANAPHER:
+	But	but	CCONJ	CC	None	7
+	that	that	PRON	DT	Number=Sing|PronType=Dem	7
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7
+	not	not	PART	RB	None	7
+	the	the	DET	DT	Definite=Def|PronType=Art	7
+	best	best	ADJ	JJS	Degree=Sup	7
+	thing	thing	NOUN	NN	Number=Sing	0
+	this	this	DET	DT	Number=Sing|PronType=Dem	9
+	sword	sword	NOUN	NN	Number=Sing	11
+	can	can	AUX	MD	VerbForm=Fin	11
+	do	do	VERB	VB	VerbForm=Inf	7
+	.	.	PUNCT	.	None	7
+
+
+# KOREFERENZPAAR 74:
+	# ANTEZEDENS:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4
+	can	can	AUX	MD	VerbForm=Fin	4
+	kind	kind	ADV	RB	None	4
+	sir	sir	VERB	VB	VerbForm=Inf	0
+	.	.	PUNCT	.	None	4
+
+	# ANAPHER:
+	But	but	CCONJ	CC	None	7
+	that	that	PRON	DT	Number=Sing|PronType=Dem	7
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7
+	not	not	PART	RB	None	7
+	the	the	DET	DT	Definite=Def|PronType=Art	7
+	best	best	ADJ	JJS	Degree=Sup	7
+	thing	thing	NOUN	NN	Number=Sing	0
+	this	this	DET	DT	Number=Sing|PronType=Dem	9
+	sword	sword	NOUN	NN	Number=Sing	11
+	can	can	AUX	MD	VerbForm=Fin	11
+	do	do	VERB	VB	VerbForm=Inf	7
+	.	.	PUNCT	.	None	7
+
+
+# KOREFERENZPAAR 75:
+	# ANTEZEDENS:
+	If	if	SCONJ	IN	None	3
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3
+	get	get	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17
+	a	a	DET	DT	Definite=Ind|PronType=Art	5
+	hold	hold	NOUN	NN	Number=Sing	3
+	of	of	ADP	IN	None	8
+	this	this	DET	DT	Number=Sing|PronType=Dem	8
+	sword	sword	NOUN	NN	Number=Sing	5
+	and	and	CCONJ	CC	None	10
+	sell	sell	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3
+	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10
+	,	,	PUNCT	,	None	17
+	maybe	maybe	ADV	RB	None	17
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	17
+	can	can	AUX	MD	VerbForm=Fin	17
+	finally	finally	ADV	RB	None	17
+	support	support	VERB	VB	VerbForm=Inf	0
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	19
+	family	family	NOUN	NN	Number=Sing	17
+	this	this	DET	DT	Number=Sing|PronType=Dem	21
+	fall	fall	NOUN	NN	Number=Sing	17
+	.	.	PUNCT	.	None	17
+
+	# ANAPHER:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3
+	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3
+	thought	think	VERB	VBN	Tense=Past|VerbForm=Part	0
+	long	long	ADV	RB	Degree=Pos	3
+	and	and	CCONJ	CC	None	6
+	hard	hard	ADJ	JJ	Degree=Pos	4
+	about	about	ADP	IN	None	8
+	this	this	PRON	DT	Number=Sing|PronType=Dem	4
+	.	.	PUNCT	.	None	3
+
+
+# KOREFERENZPAAR 76:
+	# ANTEZEDENS:
+	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3
+	must	must	AUX	MD	VerbForm=Fin	3
+	find	find	VERB	VB	VerbForm=Inf	0
+	a	a	DET	DT	Definite=Ind|PronType=Art	5
+	place	place	NOUN	NN	Number=Sing	3
+	to	to	PART	TO	None	7
+	hide	hide	VERB	VB	VerbForm=Inf	5
+	the	the	DET	DT	Definite=Def|PronType=Art	9
+	sword	sword	NOUN	NN	Number=Sing	7
+	.	.	PUNCT	.	None	3
+
+	# ANAPHER:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2
+	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	a	a	DET	DT	Definite=Ind|PronType=Art	4
+	case	case	NOUN	NN	Number=Sing	2
+	that	that	PRON	WDT	PronType=Rel	7
+	only	only	ADV	RB	None	7
+	opens	open	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4
+	with	with	ADP	IN	None	9
+	both	both	DET	DT	None	7
+	of	of	ADP	IN	None	11
+	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	9
+	needing	need	VERB	VBG	VerbForm=Ger	7
+	to	to	PART	TO	None	15
+	be	be	AUX	VB	VerbForm=Inf	15
+	present	present	ADJ	JJ	Degree=Pos	12
+	.	.	PUNCT	.	None	2
+
+
+# KOREFERENZPAAR 77:
+	# ANTEZEDENS:
+	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2
+	apologies	apology	NOUN	NNS	Number=Plur	0
+	.	.	PUNCT	.	None	2
+
+	# ANAPHER:
+	This	this	PRON	DT	Number=Sing|PronType=Dem	6
+	will	will	AUX	MD	VerbForm=Fin	6
+	be	be	AUX	VB	VerbForm=Inf	6
+	a	a	DET	DT	Definite=Ind|PronType=Art	6
+	prospering	prosper	VERB	VBG	VerbForm=Ger	6
+	relationship	relationship	NOUN	NN	Number=Sing	0
+	.	.	PUNCT	.	None	6
+
+
+# KOREFERENZPAAR 78:
+	# ANTEZEDENS:
+	Can	can	AUX	MD	VerbForm=Fin	4
+	ye	ye	PRON	PRP	None	4
+	not	not	PART	RB	None	4
+	see	see	VERB	VB	VerbForm=Inf	0
+	that	that	SCONJ	IN	None	10
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10
+	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10
+	of	of	ADP	IN	None	10
+	royal	royal	ADJ	JJ	Degree=Pos	10
+	servant	servant	NOUN	NN	Number=Sing	4
+	!	!	PUNCT	.	None	4
+
+	# ANAPHER:
+	Can	can	AUX	MD	VerbForm=Fin	4
+	ye	ye	PRON	PRP	Person=2	4
+	please	please	INTJ	UH	None	4
+	do	do	VERB	VB	VerbForm=Inf	0
+	this	this	PRON	DT	Number=Sing|PronType=Dem	4
+	free	free	ADJ	JJ	Degree=Pos	4
+	of	of	ADP	IN	None	8
+	charge	charge	NOUN	NN	Number=Sing	6
+	?	?	PUNCT	.	None	4
+
+
+# KOREFERENZPAAR 79:
+	# ANTEZEDENS:
+	For	for	SCONJ	IN	None	4
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	4
+	to	to	PART	TO	None	4
+	charge	charge	VERB	VB	VerbForm=Inf	13
+	a	a	DET	DT	Definite=Ind|PronType=Art	6
+	knight	knight	NOUN	NN	Number=Sing	4
+	in	in	ADP	IN	None	10
+	the	the	DET	DT	Definite=Def|PronType=Art	10
+	royal	royal	ADJ	JJ	Degree=Pos	10
+	army	army	NOUN	NN	Number=Sing	6
+	should	should	AUX	MD	VerbForm=Fin	13
+	be	be	AUX	VB	VerbForm=Inf	13
+	considered	consider	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0
+	a	a	DET	DT	Definite=Ind|PronType=Art	15
+	crime	crime	NOUN	NN	Number=Sing	13
+	!	!	PUNCT	.	None	13
+
+	# ANAPHER:
+	Can	can	AUX	MD	VerbForm=Fin	4
+	ye	ye	PRON	PRP	Person=2	4
+	please	please	INTJ	UH	None	4
+	do	do	VERB	VB	VerbForm=Inf	0
+	this	this	PRON	DT	Number=Sing|PronType=Dem	4
+	free	free	ADJ	JJ	Degree=Pos	4
+	of	of	ADP	IN	None	8
+	charge	charge	NOUN	NN	Number=Sing	6
+	?	?	PUNCT	.	None	4
+
+
+# KOREFERENZPAAR 80:
+	# ANTEZEDENS:
+	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2
+	skills	skill	NOUN	NNS	Number=Plur	6
+	just	just	ADV	RB	None	6
+	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6
+	nt	not	PART	RB	None	6
+	happen	happen	VERB	VB	VerbForm=Inf	0
+	over	over	ADP	IN	None	8
+	night	night	NOUN	NN	Number=Sing	6
+	,	,	PUNCT	,	None	6
+	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11
+	took	take	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6
+	years	year	NOUN	NNS	Number=Plur	11
+	.	.	PUNCT	.	None	6
+
+	# ANAPHER:
+	Ah	ah	INTJ	UH	None	5
+	yes	yes	INTJ	UH	None	5
+	that	that	PRON	DT	Number=Sing|PronType=Dem	5
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5
+	true	true	ADJ	JJ	Degree=Pos	0
+	.	.	PUNCT	.	None	5
+
+
+# KOREFERENZPAAR 81:
+	# ANTEZEDENS:
+	Why	why	ADV	WRB	PronType=Int	4
+	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4
+	think	think	VERB	VB	VerbForm=Inf	0
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7
+	should	should	AUX	MD	VerbForm=Fin	7
+	work	work	VERB	VB	VerbForm=Inf	4
+	for	for	ADP	IN	None	9
+	free	free	ADJ	JJ	Degree=Pos	7
+	?	?	PUNCT	.	None	4
+
+	# ANAPHER:
+	Ah	ah	INTJ	UH	None	5
+	yes	yes	INTJ	UH	None	5
+	that	that	PRON	DT	Number=Sing|PronType=Dem	5
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5
+	true	true	ADJ	JJ	Degree=Pos	0
+	.	.	PUNCT	.	None	5
+
+
+# KOREFERENZPAAR 82:
+	# ANTEZEDENS:
+	A	a	DET	DT	Definite=Ind|PronType=Art	2
+	craftsman	craftsman	NOUN	NN	Number=Sing	0
+	that	that	PRON	WDT	PronType=Rel	4
+	speaks	speak	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2
+	wise	wise	ADJ	JJ	Degree=Pos	6
+	words	word	NOUN	NNS	Number=Plur	4
+	and	and	CCONJ	CC	None	8
+	profits	profit	NOUN	NNS	Number=Plur	6
+	from	from	ADP	IN	None	10
+	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4
+	....	....	PUNCT	,	None	2
+	but	but	CCONJ	CC	None	25
+	how	how	SCONJ	WRB	PronType=Int	25
+	about	about	SCONJ	IN	None	17
+	if	if	SCONJ	IN	None	17
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	17
+	take	take	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	25
+	ye	ye	PRON	PRP	None	19
+	charcoal	charcoal	NOUN	NN	Number=Sing	17
+	and	and	CCONJ	CC	None	21
+	shove	shove	VERB	VB	VerbForm=Inf	17
+	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	21
+	up	up	ADP	RP	None	21
+	ye	ye	PRON	PRP$	None	25
+	arse	arse	VERB	VB	Mood=Ind|VerbForm=Fin	2
+	!	!	PUNCT	.	None	2
+
+	# ANAPHER:
+	A	a	DET	DT	Definite=Ind|PronType=Art	2
+	craftsman	craftsman	NOUN	NN	Number=Sing	0
+	that	that	PRON	WDT	PronType=Rel	4
+	speaks	speak	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2
+	wise	wise	ADJ	JJ	Degree=Pos	6
+	words	word	NOUN	NNS	Number=Plur	4
+	and	and	CCONJ	CC	None	8
+	profits	profit	NOUN	NNS	Number=Plur	6
+	from	from	ADP	IN	None	10
+	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4
+	....	....	PUNCT	,	None	2
+	but	but	CCONJ	CC	None	25
+	how	how	SCONJ	WRB	PronType=Int	25
+	about	about	SCONJ	IN	None	17
+	if	if	SCONJ	IN	None	17
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	17
+	take	take	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	25
+	ye	ye	PRON	PRP	None	19
+	charcoal	charcoal	NOUN	NN	Number=Sing	17
+	and	and	CCONJ	CC	None	21
+	shove	shove	VERB	VB	VerbForm=Inf	17
+	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	21
+	up	up	ADP	RP	None	21
+	ye	ye	PRON	PRP$	None	25
+	arse	arse	VERB	VB	Mood=Ind|VerbForm=Fin	2
+	!	!	PUNCT	.	None	2
+
+
+# KOREFERENZPAAR 83:
+	# ANTEZEDENS:
+	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2
+	skills	skill	NOUN	NNS	Number=Plur	6
+	just	just	ADV	RB	None	6
+	did	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6
+	nt	not	PART	RB	None	6
+	happen	happen	VERB	VB	VerbForm=Inf	0
+	over	over	ADP	IN	None	8
+	night	night	NOUN	NN	Number=Sing	6
+	,	,	PUNCT	,	None	6
+	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11
+	took	take	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6
+	years	year	NOUN	NNS	Number=Plur	11
+	.	.	PUNCT	.	None	6
+
+	# ANAPHER:
+	A	a	DET	DT	Definite=Ind|PronType=Art	2
+	craftsman	craftsman	NOUN	NN	Number=Sing	0
+	that	that	PRON	WDT	PronType=Rel	4
+	speaks	speak	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2
+	wise	wise	ADJ	JJ	Degree=Pos	6
+	words	word	NOUN	NNS	Number=Plur	4
+	and	and	CCONJ	CC	None	8
+	profits	profit	NOUN	NNS	Number=Plur	6
+	from	from	ADP	IN	None	10
+	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4
+	....	....	PUNCT	,	None	2
+	but	but	CCONJ	CC	None	25
+	how	how	SCONJ	WRB	PronType=Int	25
+	about	about	SCONJ	IN	None	17
+	if	if	SCONJ	IN	None	17
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	17
+	take	take	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	25
+	ye	ye	PRON	PRP	None	19
+	charcoal	charcoal	NOUN	NN	Number=Sing	17
+	and	and	CCONJ	CC	None	21
+	shove	shove	VERB	VB	VerbForm=Inf	17
+	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	21
+	up	up	ADP	RP	None	21
+	ye	ye	PRON	PRP$	None	25
+	arse	arse	VERB	VB	Mood=Ind|VerbForm=Fin	2
+	!	!	PUNCT	.	None	2
+
+
+# KOREFERENZPAAR 84:
+	# ANTEZEDENS:
+	Now	now	ADV	RB	None	4
+	that	that	PRON	DT	Number=Sing|PronType=Dem	4
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4
+	done	do	VERB	VBN	Tense=Past|VerbForm=Part	8
+	,	,	PUNCT	,	None	8
+	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8
+	changed	change	VERB	VBN	Tense=Past|VerbForm=Part	0
+	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	10
+	mind	mind	NOUN	NN	Number=Sing	8
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	13
+	fellow	fellow	ADJ	JJ	Degree=Pos	13
+	craftsman	craftsman	NOUN	NN	Number=Sing	8
+	?	?	PUNCT	.	None	8
+
+	# ANAPHER:
+	That	that	PRON	DT	Number=Sing|PronType=Dem	2
+	hurt	hurt	VERB	VBD	Tense=Past|VerbForm=Fin	0
+	so	so	ADV	RB	None	4
+	bad	bad	ADJ	JJ	Degree=Pos	2
+	!	!	PUNCT	.	None	2
+
+
+# KOREFERENZPAAR 85:
+	# ANTEZEDENS:
+	Someone	someone	PRON	NN	Number=Sing	4
+	must	must	AUX	MD	VerbForm=Fin	4
+	have	have	AUX	VB	VerbForm=Inf	4
+	got	get	VERB	VBN	Tense=Past|VerbForm=Part	0
+	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4
+	to	to	PART	TO	None	7
+	do	do	VERB	VB	VerbForm=Inf	4
+	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7
+	.	.	PUNCT	.	None	4
+
+	# ANAPHER:
+	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4
+	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4
+	very	very	ADV	RB	None	4
+	sad	sad	ADJ	JJ	Degree=Pos	0
+	that	that	SCONJ	IN	None	8
+	this	this	PRON	DT	Number=Sing|PronType=Dem	8
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8
+	what	what	PRON	WP	PronType=Int	4
+	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10
+	life	life	NOUN	NN	Number=Sing	12
+	had	have	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	12
+	come	come	VERB	VBN	Tense=Past|VerbForm=Part	8
+	to	to	ADP	IN	None	12
+	.	.	PUNCT	.	None	4
+
+
+# KOREFERENZPAAR 86:
+	# ANTEZEDENS:
+	This	this	PRON	DT	Number=Sing|PronType=Dem	4
+	must	must	AUX	MD	VerbForm=Fin	4
+	have	have	AUX	VB	VerbForm=Inf	4
+	started	start	VERB	VBN	Tense=Past|VerbForm=Part	0
+	then	then	ADV	RB	PronType=Dem	4
+	and	and	CCONJ	CC	None	9
+	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	9
+	never	never	ADV	RB	None	9
+	thought	think	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4
+	to	to	PART	TO	None	11
+	ask	ask	VERB	VB	VerbForm=Inf	9
+	if	if	SCONJ	IN	None	14
+	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14
+	stole	steal	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11
+	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14
+	.	.	PUNCT	.	None	4
+
+	# ANAPHER:
+	This	this	PRON	DT	Number=Sing|PronType=Dem	4
+	must	must	AUX	MD	VerbForm=Fin	4
+	have	have	AUX	VB	VerbForm=Inf	4
+	started	start	VERB	VBN	Tense=Past|VerbForm=Part	0
+	then	then	ADV	RB	PronType=Dem	4
+	and	and	CCONJ	CC	None	9
+	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	9
+	never	never	ADV	RB	None	9
+	thought	think	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4
+	to	to	PART	TO	None	11
+	ask	ask	VERB	VB	VerbForm=Inf	9
+	if	if	SCONJ	IN	None	14
+	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14
+	stole	steal	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11
+	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14
+	.	.	PUNCT	.	None	4
+
+
+# KOREFERENZPAAR 87:
+	# ANTEZEDENS:
+	This	this	PRON	DT	Number=Sing|PronType=Dem	4
+	must	must	AUX	MD	VerbForm=Fin	4
+	have	have	AUX	VB	VerbForm=Inf	4
+	started	start	VERB	VBN	Tense=Past|VerbForm=Part	0
+	then	then	ADV	RB	PronType=Dem	4
+	and	and	CCONJ	CC	None	9
+	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	9
+	never	never	ADV	RB	None	9
+	thought	think	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4
+	to	to	PART	TO	None	11
+	ask	ask	VERB	VB	VerbForm=Inf	9
+	if	if	SCONJ	IN	None	14
+	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14
+	stole	steal	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11
+	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14
+	.	.	PUNCT	.	None	4
+
+	# ANAPHER:
+	This	this	PRON	DT	Number=Sing|PronType=Dem	5
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5
+	all	all	DET	PDT	None	5
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5
+	fault	fault	NOUN	NN	Number=Sing	0
+	!	!	PUNCT	.	None	5
+
+
+# KOREFERENZPAAR 88:
+	# ANTEZEDENS:
+	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3
+	important	important	ADJ	JJ	Degree=Pos	0
+	that	that	SCONJ	IN	None	8
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8
+	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8
+	not	not	PART	RB	None	8
+	resent	resent	VERB	VB	VerbForm=Inf	3
+	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8
+	even	even	ADV	RB	None	13
+	in	in	ADP	IN	None	13
+	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13
+	death	death	NOUN	NN	Number=Sing	8
+	.	.	PUNCT	.	None	3
+
+	# ANAPHER:
+	That	that	PRON	DT	Number=Sing|PronType=Dem	4
+	may	may	AUX	MD	VerbForm=Fin	4
+	be	be	AUX	VB	VerbForm=Inf	4
+	difficult	difficult	ADJ	JJ	Degree=Pos	0
+	at	at	ADP	IN	None	6
+	times	time	NOUN	NNS	Number=Plur	4
+	.	.	PUNCT	.	None	4
+
+
+# KOREFERENZPAAR 89:
+	# ANTEZEDENS:
+	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5
+	will	will	AUX	MD	VerbForm=Fin	5
+	be	be	AUX	VB	VerbForm=Inf	5
+	well	well	ADV	RB	Degree=Pos	5
+	provided	provide	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0
+	for	for	ADP	IN	None	5
+	,	,	PUNCT	,	None	14
+	and	and	CCONJ	CC	None	14
+	the	the	DET	DT	Definite=Def|PronType=Art	10
+	money	money	NOUN	NN	Number=Sing	14
+	this	this	PRON	DT	Number=Sing|PronType=Dem	12
+	brings	bring	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10
+	should	should	AUX	MD	VerbForm=Fin	14
+	keep	keep	VERB	VB	VerbForm=Inf	5
+	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	14
+	fed	feed	VERB	VBN	Tense=Past|VerbForm=Part	14
+	until	until	SCONJ	IN	None	20
+	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	20
+	can	can	AUX	MD	VerbForm=Fin	20
+	get	get	VERB	VB	VerbForm=Inf	14
+	this	this	DET	DT	Number=Sing|PronType=Dem	23
+	little	little	ADJ	JJ	Degree=Pos	23
+	problem	problem	NOUN	NN	Number=Sing	20
+	resolved	resolve	VERB	VBN	Tense=Past|VerbForm=Part	20
+	.	.	PUNCT	.	None	5
+
+	# ANAPHER:
+	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5
+	will	will	AUX	MD	VerbForm=Fin	5
+	be	be	AUX	VB	VerbForm=Inf	5
+	well	well	ADV	RB	Degree=Pos	5
+	provided	provide	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0
+	for	for	ADP	IN	None	5
+	,	,	PUNCT	,	None	14
+	and	and	CCONJ	CC	None	14
+	the	the	DET	DT	Definite=Def|PronType=Art	10
+	money	money	NOUN	NN	Number=Sing	14
+	this	this	PRON	DT	Number=Sing|PronType=Dem	12
+	brings	bring	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10
+	should	should	AUX	MD	VerbForm=Fin	14
+	keep	keep	VERB	VB	VerbForm=Inf	5
+	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	14
+	fed	feed	VERB	VBN	Tense=Past|VerbForm=Part	14
+	until	until	SCONJ	IN	None	20
+	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	20
+	can	can	AUX	MD	VerbForm=Fin	20
+	get	get	VERB	VB	VerbForm=Inf	14
+	this	this	DET	DT	Number=Sing|PronType=Dem	23
+	little	little	ADJ	JJ	Degree=Pos	23
+	problem	problem	NOUN	NN	Number=Sing	20
+	resolved	resolve	VERB	VBN	Tense=Past|VerbForm=Part	20
+	.	.	PUNCT	.	None	5
+
+
+# KOREFERENZPAAR 90:
+	# ANTEZEDENS:
+	Sell	sell	VERB	VB	Mood=Imp|VerbForm=Fin	0
+	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1
+	,	,	PUNCT	,	None	8
+	and	and	CCONJ	CC	None	8
+	when	when	SCONJ	WRB	PronType=Int	7
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7
+	leave	leave	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8
+	give	give	VERB	VB	VerbForm=Inf	1
+	the	the	DET	DT	Definite=Def|PronType=Art	10
+	money	money	NOUN	NN	Number=Sing	8
+	to	to	ADP	IN	None	13
+	the	the	DET	DT	Definite=Def|PronType=Art	13
+	villagers	villager	NOUN	NNS	Number=Plur	8
+	.	.	PUNCT	.	None	1
+
+	# ANAPHER:
+	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5
+	will	will	AUX	MD	VerbForm=Fin	5
+	be	be	AUX	VB	VerbForm=Inf	5
+	well	well	ADV	RB	Degree=Pos	5
+	provided	provide	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0
+	for	for	ADP	IN	None	5
+	,	,	PUNCT	,	None	14
+	and	and	CCONJ	CC	None	14
+	the	the	DET	DT	Definite=Def|PronType=Art	10
+	money	money	NOUN	NN	Number=Sing	14
+	this	this	PRON	DT	Number=Sing|PronType=Dem	12
+	brings	bring	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10
+	should	should	AUX	MD	VerbForm=Fin	14
+	keep	keep	VERB	VB	VerbForm=Inf	5
+	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	14
+	fed	feed	VERB	VBN	Tense=Past|VerbForm=Part	14
+	until	until	SCONJ	IN	None	20
+	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	20
+	can	can	AUX	MD	VerbForm=Fin	20
+	get	get	VERB	VB	VerbForm=Inf	14
+	this	this	DET	DT	Number=Sing|PronType=Dem	23
+	little	little	ADJ	JJ	Degree=Pos	23
+	problem	problem	NOUN	NN	Number=Sing	20
+	resolved	resolve	VERB	VBN	Tense=Past|VerbForm=Part	20
+	.	.	PUNCT	.	None	5
+
+
+# KOREFERENZPAAR 91:
+	# ANTEZEDENS:
+	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5
+	will	will	AUX	MD	VerbForm=Fin	5
+	be	be	AUX	VB	VerbForm=Inf	5
+	well	well	ADV	RB	Degree=Pos	5
+	provided	provide	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0
+	for	for	ADP	IN	None	5
+	,	,	PUNCT	,	None	14
+	and	and	CCONJ	CC	None	14
+	the	the	DET	DT	Definite=Def|PronType=Art	10
+	money	money	NOUN	NN	Number=Sing	14
+	this	this	PRON	DT	Number=Sing|PronType=Dem	12
+	brings	bring	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10
+	should	should	AUX	MD	VerbForm=Fin	14
+	keep	keep	VERB	VB	VerbForm=Inf	5
+	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	14
+	fed	feed	VERB	VBN	Tense=Past|VerbForm=Part	14
+	until	until	SCONJ	IN	None	20
+	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	20
+	can	can	AUX	MD	VerbForm=Fin	20
+	get	get	VERB	VB	VerbForm=Inf	14
+	this	this	DET	DT	Number=Sing|PronType=Dem	23
+	little	little	ADJ	JJ	Degree=Pos	23
+	problem	problem	NOUN	NN	Number=Sing	20
+	resolved	resolve	VERB	VBN	Tense=Past|VerbForm=Part	20
+	.	.	PUNCT	.	None	5
+
+	# ANAPHER:
+	Oh	oh	INTJ	UH	None	7
+	,	,	PUNCT	,	None	7
+	the	the	DET	DT	Definite=Def|PronType=Art	4
+	villagers	villager	NOUN	NNS	Number=Plur	7
+	will	will	AUX	MD	VerbForm=Fin	7
+	certainly	certainly	ADV	RB	None	7
+	appreciate	appreciate	VERB	VB	VerbForm=Inf	0
+	this	this	PRON	DT	Number=Sing|PronType=Dem	7
+	.	.	PUNCT	.	None	7
+
+
+# KOREFERENZPAAR 92:
+	# ANTEZEDENS:
+	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4
+	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4
+	not	not	PART	RB	None	4
+	want	want	VERB	VB	VerbForm=Inf	0
+	to	to	PART	TO	None	6
+	take	take	VERB	VB	VerbForm=Inf	4
+	from	from	ADP	IN	None	9
+	the	the	DET	DT	Definite=Def|PronType=Art	9
+	church	church	NOUN	NN	Number=Sing	6
+	for	for	ADP	IN	None	13
+	mere	mere	ADJ	JJ	Degree=Pos	13
+	monetary	monetary	ADJ	JJ	Degree=Pos	13
+	gain	gain	NOUN	NN	Number=Sing	6
+	.	.	PUNCT	.	None	4
+
+	# ANAPHER:
+	This	this	PRON	DT	Number=Sing|PronType=Dem	5
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5
+	only	only	ADV	RB	None	5
+	an	a	DET	DT	Definite=Ind|PronType=Art	5
+	object	object	NOUN	NN	Number=Sing	0
+	.	.	PUNCT	.	None	5
+
+
+# KOREFERENZPAAR 93:
+	# ANTEZEDENS:
+	Are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3
+	sure	sure	ADJ	JJ	Degree=Pos	0
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7
+	will	will	AUX	MD	VerbForm=Fin	7
+	not	not	PART	RB	None	7
+	miss	miss	VERB	VB	VerbForm=Inf	3
+	this	this	DET	DT	Number=Sing|PronType=Dem	9
+	relic	relic	NOUN	NN	Number=Sing	7
+	?	?	PUNCT	.	None	3
+
+	# ANAPHER:
+	This	this	PRON	DT	Number=Sing|PronType=Dem	5
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5
+	only	only	ADV	RB	None	5
+	an	a	DET	DT	Definite=Ind|PronType=Art	5
+	object	object	NOUN	NN	Number=Sing	0
+	.	.	PUNCT	.	None	5
+
+
+# KOREFERENZPAAR 94:
+	# ANTEZEDENS:
+	i	i	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2
+	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2
+	to	to	PART	TO	None	5
+	deliver	deliver	VERB	VB	VerbForm=Inf	2
+	a	a	DET	DT	Definite=Ind|PronType=Art	7
+	message	message	NOUN	NN	Number=Sing	5
+	to	to	ADP	IN	None	10
+	googlehop	googlehop	PROPN	NNP	Number=Sing	10
+	court	court	NOUN	NN	Number=Sing	5
+	.	.	PUNCT	.	None	2
+
+	# ANAPHER:
+	As	as	SCONJ	IN	None	3
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3
+	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	20
+	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	7
+	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7
+	at	at	ADP	IN	None	7
+	war	war	NOUN	NN	Number=Sing	0
+	with	with	ADP	IN	None	9
+	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	7
+	at	at	ADP	IN	None	12
+	this	this	DET	DT	Number=Sing|PronType=Dem	12
+	moment	moment	NOUN	NN	Number=Sing	7
+	,	,	PUNCT	,	None	20
+	so	so	ADV	RB	None	20
+	this	this	PRON	DT	Number=Sing|PronType=Dem	20
+	could	could	AUX	MD	VerbForm=Fin	20
+	be	be	AUX	VB	VerbForm=Inf	20
+	a	a	DET	DT	Definite=Ind|PronType=Art	20
+	dangerous	dangerous	ADJ	JJ	Degree=Pos	20
+	mission	mission	NOUN	NN	Number=Sing	7
+	.	.	PUNCT	.	None	20
+
+
+# KOREFERENZPAAR 95:
+	# ANTEZEDENS:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2
+	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	great	great	ADJ	JJ	Degree=Pos	4
+	faith	faith	NOUN	NN	Number=Sing	2
+	that	that	SCONJ	IN	None	20
+	when	when	SCONJ	WRB	PronType=Int	8
+	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8
+	sees	see	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20
+	the	the	DET	DT	Definite=Def|PronType=Art	10
+	power	power	NOUN	NN	Number=Sing	8
+	that	that	PRON	WDT	PronType=Rel	14
+	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14
+	been	be	AUX	VBN	Tense=Past|VerbForm=Part	14
+	bestowed	bestow	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	10
+	upon	upon	ADP	IN	None	17
+	this	this	DET	DT	Number=Sing|PronType=Dem	17
+	coin	coin	NOUN	NN	Number=Sing	14
+	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20
+	will	will	AUX	MD	VerbForm=Fin	20
+	give	give	VERB	VB	VerbForm=Inf	2
+	up	up	ADP	RP	None	20
+	the	the	DET	DT	Definite=Def|PronType=Art	23
+	fight	fight	NOUN	NN	Number=Sing	20
+	right	right	ADV	RB	None	25
+	away	away	ADV	RB	None	20
+	.	.	PUNCT	.	None	2
+
+	# ANAPHER:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2
+	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	great	great	ADJ	JJ	Degree=Pos	4
+	faith	faith	NOUN	NN	Number=Sing	2
+	that	that	SCONJ	IN	None	20
+	when	when	SCONJ	WRB	PronType=Int	8
+	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8
+	sees	see	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20
+	the	the	DET	DT	Definite=Def|PronType=Art	10
+	power	power	NOUN	NN	Number=Sing	8
+	that	that	PRON	WDT	PronType=Rel	14
+	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14
+	been	be	AUX	VBN	Tense=Past|VerbForm=Part	14
+	bestowed	bestow	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	10
+	upon	upon	ADP	IN	None	17
+	this	this	DET	DT	Number=Sing|PronType=Dem	17
+	coin	coin	NOUN	NN	Number=Sing	14
+	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20
+	will	will	AUX	MD	VerbForm=Fin	20
+	give	give	VERB	VB	VerbForm=Inf	2
+	up	up	ADP	RP	None	20
+	the	the	DET	DT	Definite=Def|PronType=Art	23
+	fight	fight	NOUN	NN	Number=Sing	20
+	right	right	ADV	RB	None	25
+	away	away	ADV	RB	None	20
+	.	.	PUNCT	.	None	2
+
+
+# KOREFERENZPAAR 96:
+	# ANTEZEDENS:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2
+	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2
+	to	to	PART	TO	None	5
+	take	take	VERB	VB	VerbForm=Inf	2
+	this	this	DET	DT	Number=Sing|PronType=Dem	8
+	special	special	ADJ	JJ	Degree=Pos	8
+	coin	coin	NOUN	NN	Number=Sing	5
+	to	to	ADP	IN	None	11
+	the	the	DET	DT	Definite=Def|PronType=Art	11
+	king	king	NOUN	NN	Number=Sing	5
+	of	of	ADP	IN	None	14
+	the	the	DET	DT	Definite=Def|PronType=Art	14
+	goolehops	goolehop	NOUN	NNS	Number=Plur	11
+	.	.	PUNCT	.	None	2
+
+	# ANAPHER:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2
+	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	great	great	ADJ	JJ	Degree=Pos	4
+	faith	faith	NOUN	NN	Number=Sing	2
+	that	that	SCONJ	IN	None	20
+	when	when	SCONJ	WRB	PronType=Int	8
+	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8
+	sees	see	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20
+	the	the	DET	DT	Definite=Def|PronType=Art	10
+	power	power	NOUN	NN	Number=Sing	8
+	that	that	PRON	WDT	PronType=Rel	14
+	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14
+	been	be	AUX	VBN	Tense=Past|VerbForm=Part	14
+	bestowed	bestow	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	10
+	upon	upon	ADP	IN	None	17
+	this	this	DET	DT	Number=Sing|PronType=Dem	17
+	coin	coin	NOUN	NN	Number=Sing	14
+	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20
+	will	will	AUX	MD	VerbForm=Fin	20
+	give	give	VERB	VB	VerbForm=Inf	2
+	up	up	ADP	RP	None	20
+	the	the	DET	DT	Definite=Def|PronType=Art	23
+	fight	fight	NOUN	NN	Number=Sing	20
+	right	right	ADV	RB	None	25
+	away	away	ADV	RB	None	20
+	.	.	PUNCT	.	None	2
+
+
+# KOREFERENZPAAR 97:
+	# ANTEZEDENS:
+	As	as	SCONJ	IN	None	3
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3
+	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	20
+	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	7
+	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7
+	at	at	ADP	IN	None	7
+	war	war	NOUN	NN	Number=Sing	0
+	with	with	ADP	IN	None	9
+	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	7
+	at	at	ADP	IN	None	12
+	this	this	DET	DT	Number=Sing|PronType=Dem	12
+	moment	moment	NOUN	NN	Number=Sing	7
+	,	,	PUNCT	,	None	20
+	so	so	ADV	RB	None	20
+	this	this	PRON	DT	Number=Sing|PronType=Dem	20
+	could	could	AUX	MD	VerbForm=Fin	20
+	be	be	AUX	VB	VerbForm=Inf	20
+	a	a	DET	DT	Definite=Ind|PronType=Art	20
+	dangerous	dangerous	ADJ	JJ	Degree=Pos	20
+	mission	mission	NOUN	NN	Number=Sing	7
+	.	.	PUNCT	.	None	20
+
+	# ANAPHER:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2
+	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	great	great	ADJ	JJ	Degree=Pos	4
+	faith	faith	NOUN	NN	Number=Sing	2
+	that	that	SCONJ	IN	None	20
+	when	when	SCONJ	WRB	PronType=Int	8
+	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8
+	sees	see	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20
+	the	the	DET	DT	Definite=Def|PronType=Art	10
+	power	power	NOUN	NN	Number=Sing	8
+	that	that	PRON	WDT	PronType=Rel	14
+	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14
+	been	be	AUX	VBN	Tense=Past|VerbForm=Part	14
+	bestowed	bestow	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	10
+	upon	upon	ADP	IN	None	17
+	this	this	DET	DT	Number=Sing|PronType=Dem	17
+	coin	coin	NOUN	NN	Number=Sing	14
+	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20
+	will	will	AUX	MD	VerbForm=Fin	20
+	give	give	VERB	VB	VerbForm=Inf	2
+	up	up	ADP	RP	None	20
+	the	the	DET	DT	Definite=Def|PronType=Art	23
+	fight	fight	NOUN	NN	Number=Sing	20
+	right	right	ADV	RB	None	25
+	away	away	ADV	RB	None	20
+	.	.	PUNCT	.	None	2
+
+
+# KOREFERENZPAAR 98:
+	# ANTEZEDENS:
+	Her	her	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2
+	Majesty	majesty	NOUN	NN	Number=Sing	3
+	wanted	want	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0
+	to	to	PART	TO	None	5
+	see	see	VERB	VB	VerbForm=Inf	3
+	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	7
+	gardens	garden	NOUN	NNS	Number=Plur	5
+	as	as	SCONJ	IN	None	14
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	14
+	and	and	CCONJ	CC	None	13
+	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	13
+	fellow	fellow	ADJ	JJ	Degree=Pos	13
+	gardeners	gardener	NOUN	NNS	Number=Plur	9
+	do	do	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5
+	such	such	DET	PDT	None	18
+	an	a	DET	DT	Definite=Ind|PronType=Art	18
+	excellent	excellent	ADJ	JJ	Degree=Pos	18
+	job	job	NOUN	NN	Number=Sing	14
+	that	that	PRON	WDT	PronType=Rel	22
+	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	22
+	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	22
+	admired	admire	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	18
+	near	near	ADV	RB	None	22
+	and	and	CCONJ	CC	None	25
+	far	far	ADV	RB	Degree=Pos	23
+	.	.	PUNCT	.	None	3
+
+	# ANAPHER:
+	That	that	PRON	DT	Number=Sing|PronType=Dem	2
+	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0
+	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2
+	feel	feel	VERB	VB	VerbForm=Inf	2
+	very	very	ADV	RB	None	6
+	good	good	ADJ	JJ	Degree=Pos	4
+	about	about	ADP	IN	None	10
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	10
+	hard	hard	ADJ	JJ	Degree=Pos	10
+	work	work	NOUN	NN	Number=Sing	4
+	.	.	PUNCT	.	None	2
+
+
+# KOREFERENZPAAR 99:
+	# ANTEZEDENS:
+	Sadly	sadly	ADV	RB	None	13
+	,	,	PUNCT	,	None	13
+	with	with	ADP	IN	None	5
+	the	the	DET	DT	Definite=Def|PronType=Art	5
+	unrest	unrest	NOUN	NN	Number=Sing	13
+	between	between	ADP	IN	None	7
+	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	5
+	and	and	CCONJ	CC	None	10
+	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	10
+	neighbors	neighbor	NOUN	NNS	Number=Plur	7
+	,	,	PUNCT	,	None	13
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13
+	seem	seem	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	to	to	PART	TO	None	15
+	spend	spend	VERB	VB	VerbForm=Inf	13
+	more	more	ADJ	JJR	Degree=Cmp	17
+	time	time	NOUN	NN	Number=Sing	15
+	at	at	ADP	IN	None	19
+	war	war	NOUN	NN	Number=Sing	15
+	than	than	SCONJ	IN	None	21
+	enjoying	enjoy	VERB	VBG	VerbForm=Ger	15
+	the	the	DET	DT	Definite=Def|PronType=Art	23
+	beauty	beauty	NOUN	NN	Number=Sing	21
+	that	that	PRON	WDT	PronType=Rel	25
+	surrounds	surround	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23
+	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	25
+	now	now	ADV	RB	None	25
+	.	.	PUNCT	.	None	13
+
+	# ANAPHER:
+	That	that	PRON	DT	Number=Sing|PronType=Dem	4
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4
+	very	very	ADV	RB	None	4
+	sad	sad	ADJ	JJ	Degree=Pos	0
+	to	to	PART	TO	None	6
+	hear	hear	VERB	VB	VerbForm=Inf	4
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	8
+	lord	lord	NOUN	NN	Number=Sing	6
+	.	.	PUNCT	.	None	4
+
+
+# KOREFERENZPAAR 100:
+	# ANTEZEDENS:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2
+	wish	wish	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	that	that	SCONJ	IN	None	6
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6
+	could	could	AUX	MD	VerbForm=Fin	6
+	spend	spend	VERB	VB	VerbForm=Inf	2
+	more	more	ADJ	JJR	Degree=Cmp	8
+	time	time	NOUN	NN	Number=Sing	6
+	here	here	ADV	RB	PronType=Dem	6
+	.	.	PUNCT	.	None	2
+
+	# ANAPHER:
+	That	that	PRON	DT	Number=Sing|PronType=Dem	4
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4
+	very	very	ADV	RB	None	4
+	sad	sad	ADJ	JJ	Degree=Pos	0
+	to	to	PART	TO	None	6
+	hear	hear	VERB	VB	VerbForm=Inf	4
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	8
+	lord	lord	NOUN	NN	Number=Sing	6
+	.	.	PUNCT	.	None	4
+
+
+# KOREFERENZPAAR 101:
+	# ANTEZEDENS:
+	That	that	PRON	DT	Number=Sing|PronType=Dem	4
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4
+	very	very	ADV	RB	None	4
+	sad	sad	ADJ	JJ	Degree=Pos	0
+	to	to	PART	TO	None	6
+	hear	hear	VERB	VB	VerbForm=Inf	4
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	8
+	lord	lord	NOUN	NN	Number=Sing	6
+	.	.	PUNCT	.	None	4
+
+	# ANAPHER:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2
+	wish	wish	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	6
+	could	could	AUX	MD	VerbForm=Fin	6
+	all	all	ADV	RB	None	6
+	live	live	VERB	VB	VerbForm=Inf	2
+	in	in	ADP	IN	None	8
+	peace	peace	NOUN	NN	Number=Sing	6
+	among	among	ADP	IN	None	11
+	the	the	DET	DT	Definite=Def|PronType=Art	11
+	flowers	flower	NOUN	NNS	Number=Plur	6
+	here	here	ADV	RB	PronType=Dem	11
+	,	,	PUNCT	,	None	20
+	but	but	CCONJ	CC	None	20
+	that	that	PRON	DT	Number=Sing|PronType=Dem	20
+	will	will	AUX	MD	VerbForm=Fin	20
+	never	never	ADV	RB	None	20
+	be	be	AUX	VB	VerbForm=Inf	20
+	the	the	DET	DT	Definite=Def|PronType=Art	20
+	case	case	NOUN	NN	Number=Sing	2
+	,	,	PUNCT	,	None	2
+	will	will	AUX	MD	VerbForm=Fin	20
+	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	22
+	?	?	PUNCT	.	None	2
+
+
+# KOREFERENZPAAR 102:
+	# ANTEZEDENS:
+	Sadly	sadly	ADV	RB	None	13
+	,	,	PUNCT	,	None	13
+	with	with	ADP	IN	None	5
+	the	the	DET	DT	Definite=Def|PronType=Art	5
+	unrest	unrest	NOUN	NN	Number=Sing	13
+	between	between	ADP	IN	None	7
+	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	5
+	and	and	CCONJ	CC	None	10
+	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	10
+	neighbors	neighbor	NOUN	NNS	Number=Plur	7
+	,	,	PUNCT	,	None	13
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13
+	seem	seem	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	to	to	PART	TO	None	15
+	spend	spend	VERB	VB	VerbForm=Inf	13
+	more	more	ADJ	JJR	Degree=Cmp	17
+	time	time	NOUN	NN	Number=Sing	15
+	at	at	ADP	IN	None	19
+	war	war	NOUN	NN	Number=Sing	15
+	than	than	SCONJ	IN	None	21
+	enjoying	enjoy	VERB	VBG	VerbForm=Ger	15
+	the	the	DET	DT	Definite=Def|PronType=Art	23
+	beauty	beauty	NOUN	NN	Number=Sing	21
+	that	that	PRON	WDT	PronType=Rel	25
+	surrounds	surround	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23
+	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	25
+	now	now	ADV	RB	None	25
+	.	.	PUNCT	.	None	13
+
+	# ANAPHER:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2
+	wish	wish	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	6
+	could	could	AUX	MD	VerbForm=Fin	6
+	all	all	ADV	RB	None	6
+	live	live	VERB	VB	VerbForm=Inf	2
+	in	in	ADP	IN	None	8
+	peace	peace	NOUN	NN	Number=Sing	6
+	among	among	ADP	IN	None	11
+	the	the	DET	DT	Definite=Def|PronType=Art	11
+	flowers	flower	NOUN	NNS	Number=Plur	6
+	here	here	ADV	RB	PronType=Dem	11
+	,	,	PUNCT	,	None	20
+	but	but	CCONJ	CC	None	20
+	that	that	PRON	DT	Number=Sing|PronType=Dem	20
+	will	will	AUX	MD	VerbForm=Fin	20
+	never	never	ADV	RB	None	20
+	be	be	AUX	VB	VerbForm=Inf	20
+	the	the	DET	DT	Definite=Def|PronType=Art	20
+	case	case	NOUN	NN	Number=Sing	2
+	,	,	PUNCT	,	None	2
+	will	will	AUX	MD	VerbForm=Fin	20
+	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	22
+	?	?	PUNCT	.	None	2
+
+
+# KOREFERENZPAAR 103:
+	# ANTEZEDENS:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3
+	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3
+	believe	believe	VERB	VB	VerbForm=Inf	0
+	that	that	SCONJ	IN	None	10
+	the	the	DET	DT	Definite=Def|PronType=Art	6
+	King	King	PROPN	NNP	Number=Sing	10
+	,	,	PUNCT	,	None	10
+	too	too	ADV	RB	None	10
+	,	,	PUNCT	,	None	10
+	tires	tire	NOUN	NNS	Number=Plur	3
+	of	of	ADP	IN	None	13
+	the	the	DET	DT	Definite=Def|PronType=Art	13
+	bloodshed	bloodsh	VERB	VBN	Tense=Past|VerbForm=Part	10
+	.	.	PUNCT	.	None	3
+
+	# ANAPHER:
+	That	that	PRON	DT	Number=Sing|PronType=Dem	7
+	really	really	ADV	RB	None	7
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7
+	a	a	DET	DT	Definite=Ind|PronType=Art	7
+	most	most	ADV	RBS	None	6
+	exquisite	exquisite	ADJ	JJ	Degree=Pos	7
+	flower	flower	NOUN	NN	Number=Sing	0
+	.	.	PUNCT	.	None	7
+
+
+# KOREFERENZPAAR 104:
+	# ANTEZEDENS:
+	In	in	ADP	IN	None	3
+	the	the	DET	DT	Definite=Def|PronType=Art	3
+	meantime	meantime	NOUN	NN	Number=Sing	5
+	,	,	PUNCT	,	None	5
+	let	let	VERB	VB	Mood=Imp|VerbForm=Fin	0
+	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	5
+	find	find	VERB	VB	VerbForm=Inf	5
+	a	a	DET	DT	Definite=Ind|PronType=Art	10
+	special	special	ADJ	JJ	Degree=Pos	10
+	flower	flower	NOUN	NN	Number=Sing	7
+	to	to	PART	TO	None	12
+	show	show	VERB	VB	VerbForm=Inf	7
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	12
+	.	.	PUNCT	.	None	5
+
+	# ANAPHER:
+	That	that	PRON	DT	Number=Sing|PronType=Dem	7
+	really	really	ADV	RB	None	7
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7
+	a	a	DET	DT	Definite=Ind|PronType=Art	7
+	most	most	ADV	RBS	None	6
+	exquisite	exquisite	ADJ	JJ	Degree=Pos	7
+	flower	flower	NOUN	NN	Number=Sing	0
+	.	.	PUNCT	.	None	7
+
+
+# KOREFERENZPAAR 105:
+	# ANTEZEDENS:
+	Can	can	AUX	MD	VerbForm=Fin	3
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3
+	lend	lend	VERB	VB	VerbForm=Inf	0
+	a	a	DET	DT	Definite=Ind|PronType=Art	5
+	hand	hand	NOUN	NN	Number=Sing	3
+	?	?	PUNCT	.	None	3
+
+	# ANAPHER:
+	This	this	PRON	DT	Number=Sing|PronType=Dem	3
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3
+	sad	sad	ADJ	JJ	Degree=Pos	0
+	for	for	ADP	IN	None	6
+	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	6
+	people	people	NOUN	NNS	Number=Plur	3
+	.	.	PUNCT	.	None	3
+
+
+# KOREFERENZPAAR 106:
+	# ANTEZEDENS:
+	The	the	DET	DT	Definite=Def|PronType=Art	2
+	people	people	NOUN	NNS	Number=Plur	3
+	starve	starve	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	and	and	CCONJ	CC	None	7
+	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	6
+	enemies	enemy	NOUN	NNS	Number=Plur	7
+	gather	gather	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3
+	all	all	ADV	RB	None	7
+	around	around	ADP	IN	None	10
+	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	7
+	.	.	PUNCT	.	None	3
+
+	# ANAPHER:
+	This	this	PRON	DT	Number=Sing|PronType=Dem	3
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3
+	sad	sad	ADJ	JJ	Degree=Pos	0
+	for	for	ADP	IN	None	6
+	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	6
+	people	people	NOUN	NNS	Number=Plur	3
+	.	.	PUNCT	.	None	3
+
+
+# KOREFERENZPAAR 107:
+	# ANTEZEDENS:
+	Can	can	AUX	MD	VerbForm=Fin	3
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3
+	lend	lend	VERB	VB	VerbForm=Inf	0
+	a	a	DET	DT	Definite=Ind|PronType=Art	5
+	hand	hand	NOUN	NN	Number=Sing	3
+	?	?	PUNCT	.	None	3
+
+	# ANAPHER:
+	All	all	DET	PDT	None	3
+	this	this	DET	DT	Number=Sing|PronType=Dem	3
+	sadness	sadness	NOUN	NN	Number=Sing	0
+	and	and	CCONJ	CC	None	5
+	death	death	NOUN	NN	Number=Sing	3
+	in	in	ADP	IN	None	8
+	the	the	DET	DT	Definite=Def|PronType=Art	8
+	future	future	NOUN	NN	Number=Sing	3
+	that	that	PRON	WDT	PronType=Rel	10
+	falls	fall	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8
+	upon	upon	ADP	IN	None	12
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	10
+	.	.	PUNCT	.	None	3
+
+
+# KOREFERENZPAAR 108:
+	# ANTEZEDENS:
+	Please	please	INTJ	UH	None	2
+	pray	pray	VERB	VB	Mood=Imp|VerbForm=Fin	0
+	with	with	ADP	IN	None	4
+	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2
+	to	to	PART	TO	None	6
+	bless	bless	VERB	VB	VerbForm=Inf	2
+	this	this	DET	DT	Number=Sing|PronType=Dem	8
+	dust	dust	NOUN	NN	Number=Sing	6
+
+	# ANAPHER:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2
+	hope	hope	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	this	this	PRON	DT	Number=Sing|PronType=Dem	5
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5
+	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	2
+	somewhere	somewhere	ADV	RB	None	5
+	.	.	PUNCT	.	None	2
+
+
+# KOREFERENZPAAR 109:
+	# ANTEZEDENS:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3
+	will	will	AUX	MD	VerbForm=Fin	3
+	use	use	VERB	VB	VerbForm=Inf	0
+	this	this	DET	DT	Number=Sing|PronType=Dem	5
+	dust	dust	NOUN	NN	Number=Sing	3
+	,	,	PUNCT	,	None	8
+	and	and	CCONJ	CC	None	8
+	study	study	VERB	VB	VerbForm=Inf	3
+	this	this	DET	DT	Number=Sing|PronType=Dem	10
+	tapestry	tapestry	NOUN	NN	Number=Sing	8
+	.	.	PUNCT	.	None	3
+
+	# ANAPHER:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5
+	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5
+	not	not	PART	RB	None	5
+	been	be	AUX	VBN	Tense=Past|VerbForm=Part	5
+	pious	pious	ADJ	JJ	Degree=Pos	0
+	,	,	PUNCT	,	None	12
+	and	and	CCONJ	CC	None	12
+	for	for	ADP	IN	None	9
+	that	that	PRON	DT	Number=Sing|PronType=Dem	12
+	,	,	PUNCT	,	None	12
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	12
+	apologize	apologize	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5
+	.	.	PUNCT	.	None	5
+
+
+# KOREFERENZPAAR 110:
+	# ANTEZEDENS:
+	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4
+	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4
+	the	the	DET	DT	Definite=Def|PronType=Art	4
+	Gods	Gods	PROPN	NNPS	Number=Plur	0
+	who	who	PRON	WP	PronType=Rel	6
+	saw	see	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4
+	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	6
+	worthy	worthy	ADJ	JJ	Degree=Pos	6
+	of	of	SCONJ	IN	None	10
+	looking	look	VERB	VBG	VerbForm=Ger	8
+	after	after	ADP	IN	None	13
+	this	this	DET	DT	Number=Sing|PronType=Dem	13
+	land	land	NOUN	NN	Number=Sing	10
+	,	,	PUNCT	,	None	16
+	to	to	PART	TO	None	16
+	guide	guide	VERB	VB	VerbForm=Inf	10
+	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	16
+	and	and	CCONJ	CC	None	19
+	help	help	VERB	VB	VerbForm=Inf	16
+	those	that	PRON	DT	Number=Plur|PronType=Dem	19
+	who	who	PRON	WP	PronType=Rel	22
+	ask	ask	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	20
+	for	for	ADP	IN	None	24
+	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	22
+	but	but	CCONJ	CC	None	29
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	29
+	ca	can	AUX	MD	VerbForm=Fin	29
+	nt	not	PART	RB	None	29
+	help	help	VERB	VB	VerbForm=Inf	4
+	those	that	PRON	DT	Number=Plur|PronType=Dem	29
+	who	who	PRON	WP	PronType=Rel	34
+	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	34
+	not	not	PART	RB	None	34
+	seek	seek	VERB	VB	VerbForm=Inf	30
+	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	34
+	and	and	CCONJ	CC	None	38
+	so	so	ADV	RB	None	38
+	maegor	maegor	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	29
+	the	the	DET	DT	Definite=Def|PronType=Art	40
+	cruel	cruel	ADJ	JJ	Degree=Pos	41
+	brought	bring	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	38
+	sorrow	sorrow	NOUN	NN	Number=Sing	41
+	to	to	ADP	IN	None	45
+	this	this	DET	DT	Number=Sing|PronType=Dem	45
+	land	land	NOUN	NN	Number=Sing	41
+	some	some	DET	DT	None	47
+	time	time	NOUN	NN	Number=Sing	48
+	ago	ago	ADV	RB	None	41
+	.	.	PUNCT	.	None	4
+
+	# ANAPHER:
+	Please	please	INTJ	UH	None	2
+	save	save	VERB	VB	Mood=Imp|VerbForm=Fin	0
+	the	the	DET	DT	Definite=Def|PronType=Art	4
+	people	people	NOUN	NNS	Number=Plur	2
+	of	of	ADP	IN	None	7
+	this	this	DET	DT	Number=Sing|PronType=Dem	7
+	land	land	NOUN	NN	Number=Sing	4
+	and	and	CCONJ	CC	None	9
+	stop	stop	VERB	VB	Mood=Imp|VerbForm=Fin	2
+	this	this	DET	DT	Number=Sing|PronType=Dem	11
+	darkness	darkness	NOUN	NN	Number=Sing	9
+	that	that	PRON	WDT	PronType=Rel	14
+	will	will	AUX	MD	VerbForm=Fin	14
+	come	come	VERB	VB	VerbForm=Inf	11
+	of	of	ADP	IN	None	17
+	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	17
+	hier	hier	NOUN	NN	Number=Sing	14
+
+
+# KOREFERENZPAAR 111:
+	# ANTEZEDENS:
+	Any	any	DET	DT	None	2
+	way	way	NOUN	NN	Number=Sing	0
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5
+	could	could	AUX	MD	VerbForm=Fin	5
+	prove	prove	VERB	VB	VerbForm=Inf	2
+	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	7
+	innocence	innocence	NOUN	NN	Number=Sing	5
+	?	?	PUNCT	.	None	2
+
+	# ANAPHER:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3
+	could	could	AUX	MD	VerbForm=Fin	3
+	testify	testify	VERB	VB	VerbForm=Inf	0
+	to	to	ADP	IN	None	7
+	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	7
+	good	good	ADJ	JJ	Degree=Pos	7
+	behaviour	behaviour	NOUN	NN	Number=Sing	3
+	,	,	PUNCT	,	None	13
+	but	but	CCONJ	CC	None	13
+	that	that	PRON	DT	Number=Sing|PronType=Dem	13
+	might	might	AUX	MD	VerbForm=Fin	13
+	not	not	PART	RB	None	13
+	account	account	VERB	VB	VerbForm=Inf	3
+	for	for	ADP	IN	None	15
+	much	much	ADJ	JJ	Degree=Pos	13
+	if	if	SCONJ	IN	None	20
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	20
+	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	20
+	nt	not	PART	RB	None	20
+	have	have	VERB	VB	VerbForm=Inf	13
+	proof	proof	NOUN	NN	Number=Sing	20
+	.	.	PUNCT	.	None	3
+
+
+# KOREFERENZPAAR 112:
+	# ANTEZEDENS:
+	That	that	PRON	DT	Number=Sing|PronType=Dem	5
+	would	would	AUX	MD	VerbForm=Fin	5
+	be	be	AUX	VB	VerbForm=Inf	5
+	a	a	DET	DT	Definite=Ind|PronType=Art	5
+	violation	violation	NOUN	NN	Number=Sing	0
+	of	of	ADP	IN	None	8
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	8
+	duty	duty	NOUN	NN	Number=Sing	5
+	,	,	PUNCT	,	None	23
+	so	so	ADV	RB	None	23
+	as	as	ADV	RB	None	12
+	much	much	ADV	RB	None	23
+	as	as	SCONJ	IN	None	15
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	15
+	sympathize	sympathize	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12
+	with	with	ADP	IN	None	18
+	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	18
+	plight	plight	NOUN	NN	Number=Sing	15
+	,	,	PUNCT	,	None	23
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	23
+	can	can	AUX	MD	VerbForm=Fin	23
+	not	not	PART	RB	None	23
+	aid	aid	VERB	VB	VerbForm=Inf	5
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	23
+	in	in	ADP	IN	None	27
+	that	that	DET	DT	Number=Sing|PronType=Dem	27
+	fashion	fashion	NOUN	NN	Number=Sing	23
+	.	.	PUNCT	.	None	5
+
+	# ANAPHER:
+	That	that	PRON	DT	Number=Sing|PronType=Dem	5
+	would	would	AUX	MD	VerbForm=Fin	5
+	be	be	AUX	VB	VerbForm=Inf	5
+	a	a	DET	DT	Definite=Ind|PronType=Art	5
+	violation	violation	NOUN	NN	Number=Sing	0
+	of	of	ADP	IN	None	8
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	8
+	duty	duty	NOUN	NN	Number=Sing	5
+	,	,	PUNCT	,	None	23
+	so	so	ADV	RB	None	23
+	as	as	ADV	RB	None	12
+	much	much	ADV	RB	None	23
+	as	as	SCONJ	IN	None	15
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	15
+	sympathize	sympathize	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12
+	with	with	ADP	IN	None	18
+	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	18
+	plight	plight	NOUN	NN	Number=Sing	15
+	,	,	PUNCT	,	None	23
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	23
+	can	can	AUX	MD	VerbForm=Fin	23
+	not	not	PART	RB	None	23
+	aid	aid	VERB	VB	VerbForm=Inf	5
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	23
+	in	in	ADP	IN	None	27
+	that	that	DET	DT	Number=Sing|PronType=Dem	27
+	fashion	fashion	NOUN	NN	Number=Sing	23
+	.	.	PUNCT	.	None	5
+
+
+# KOREFERENZPAAR 113:
+	# ANTEZEDENS:
+	Although	although	SCONJ	IN	None	11
+	....	....	PUNCT	,	None	11
+	if	if	SCONJ	IN	None	5
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5
+	help	help	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11
+	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	5
+	leave	leave	VERB	VB	VerbForm=Inf	5
+	,	,	PUNCT	,	None	11
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11
+	can	can	AUX	MD	VerbForm=Fin	11
+	pay	pay	VERB	VB	VerbForm=Inf	0
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	11
+	handsomely	handsomely	ADV	RB	None	11
+	for	for	ADP	IN	None	16
+	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	16
+	troubles	trouble	NOUN	NNS	Number=Plur	11
+	...	...	PUNCT	.	None	11
+
+	# ANAPHER:
+	That	that	PRON	DT	Number=Sing|PronType=Dem	5
+	would	would	AUX	MD	VerbForm=Fin	5
+	be	be	AUX	VB	VerbForm=Inf	5
+	a	a	DET	DT	Definite=Ind|PronType=Art	5
+	violation	violation	NOUN	NN	Number=Sing	0
+	of	of	ADP	IN	None	8
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	8
+	duty	duty	NOUN	NN	Number=Sing	5
+	,	,	PUNCT	,	None	23
+	so	so	ADV	RB	None	23
+	as	as	ADV	RB	None	12
+	much	much	ADV	RB	None	23
+	as	as	SCONJ	IN	None	15
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	15
+	sympathize	sympathize	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12
+	with	with	ADP	IN	None	18
+	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	18
+	plight	plight	NOUN	NN	Number=Sing	15
+	,	,	PUNCT	,	None	23
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	23
+	can	can	AUX	MD	VerbForm=Fin	23
+	not	not	PART	RB	None	23
+	aid	aid	VERB	VB	VerbForm=Inf	5
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	23
+	in	in	ADP	IN	None	27
+	that	that	DET	DT	Number=Sing|PronType=Dem	27
+	fashion	fashion	NOUN	NN	Number=Sing	23
+	.	.	PUNCT	.	None	5
+
+
+# KOREFERENZPAAR 114:
+	# ANTEZEDENS:
+	That	that	PRON	DT	Number=Sing|PronType=Dem	5
+	would	would	AUX	MD	VerbForm=Fin	5
+	be	be	AUX	VB	VerbForm=Inf	5
+	a	a	DET	DT	Definite=Ind|PronType=Art	5
+	violation	violation	NOUN	NN	Number=Sing	0
+	of	of	ADP	IN	None	8
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	8
+	duty	duty	NOUN	NN	Number=Sing	5
+	,	,	PUNCT	,	None	23
+	so	so	ADV	RB	None	23
+	as	as	ADV	RB	None	12
+	much	much	ADV	RB	None	23
+	as	as	SCONJ	IN	None	15
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	15
+	sympathize	sympathize	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12
+	with	with	ADP	IN	None	18
+	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	18
+	plight	plight	NOUN	NN	Number=Sing	15
+	,	,	PUNCT	,	None	23
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	23
+	can	can	AUX	MD	VerbForm=Fin	23
+	not	not	PART	RB	None	23
+	aid	aid	VERB	VB	VerbForm=Inf	5
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	23
+	in	in	ADP	IN	None	27
+	that	that	DET	DT	Number=Sing|PronType=Dem	27
+	fashion	fashion	NOUN	NN	Number=Sing	23
+	.	.	PUNCT	.	None	5
+
+	# ANAPHER:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3
+	could	could	AUX	MD	VerbForm=Fin	3
+	send	send	VERB	VB	VerbForm=Inf	0
+	a	a	DET	DT	Definite=Ind|PronType=Art	5
+	message	message	NOUN	NN	Number=Sing	3
+	though	though	ADV	RB	None	3
+	-	-	PUNCT	,	None	3
+	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3
+	there	there	PRON	EX	None	8
+	anyone	anyone	PRON	NN	Number=Sing	8
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	13
+	could	could	AUX	MD	VerbForm=Fin	13
+	think	think	VERB	VB	VerbForm=Inf	10
+	of	of	ADP	IN	None	15
+	that	that	PRON	DT	Number=Sing|PronType=Dem	17
+	could	could	AUX	MD	VerbForm=Fin	17
+	investigate	investigate	VERB	VB	VerbForm=Inf	13
+	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	19
+	claim	claim	NOUN	NN	Number=Sing	17
+	?	?	PUNCT	.	None	3
+
+
+# KOREFERENZPAAR 115:
+	# ANTEZEDENS:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3
+	will	will	AUX	MD	VerbForm=Fin	3
+	give	give	VERB	VB	VerbForm=Inf	0
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	3
+	one	one	NUM	CD	NumType=Card	3
+	if	if	SCONJ	IN	None	8
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8
+	get	get	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3
+	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	8
+	onto	onto	ADP	IN	None	11
+	one	one	NUM	CD	NumType=Card	8
+	of	of	ADP	IN	None	14
+	those	that	DET	DT	Number=Plur|PronType=Dem	14
+	ships	ship	NOUN	NNS	Number=Plur	11
+	.	.	PUNCT	.	None	3
+
+	# ANAPHER:
+	Look	look	VERB	VB	Mood=Imp|VerbForm=Fin	0
+	lad	lad	NOUN	NN	Number=Sing	1
+	,	,	PUNCT	,	None	1
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6
+	would	would	AUX	MD	VerbForm=Fin	6
+	love	love	VERB	VB	VerbForm=Inf	1
+	to	to	PART	TO	None	8
+	help	help	VERB	VB	VerbForm=Inf	6
+	-	-	PUNCT	,	None	1
+	but	but	CCONJ	CC	None	16
+	if	if	SCONJ	IN	None	13
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13
+	do	do	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16
+	,	,	PUNCT	,	None	16
+	that	that	PRON	DT	Number=Sing|PronType=Dem	16
+	means	mean	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1
+	the	the	DET	DT	Definite=Def|PronType=Art	18
+	head	head	NOUN	NN	Number=Sing	16
+	of	of	ADP	IN	None	20
+	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	18
+	and	and	CCONJ	CC	None	23
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	23
+	family	family	NOUN	NN	Number=Sing	20
+	.	.	PUNCT	.	None	1
+
+
+# KOREFERENZPAAR 116:
+	# ANTEZEDENS:
+	There	there	PRON	EX	None	2
+	s	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0
+	no	no	DET	DT	None	4
+	way	way	NOUN	NN	Number=Sing	2
+	that	that	PRON	WDT	PronType=Rel	7
+	will	will	AUX	MD	VerbForm=Fin	7
+	work	work	VERB	VB	VerbForm=Inf	4
+	out	out	ADP	RP	None	7
+	...	...	PUNCT	,	None	2
+	now	now	ADV	RB	None	2
+	,	,	PUNCT	,	None	12
+	leave	leave	VERB	VB	VerbForm=Fin	2
+	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	12
+	alone	alone	ADV	RB	None	12
+	,	,	PUNCT	,	None	2
+	as	as	SCONJ	IN	None	21
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	19
+	only	only	ADJ	JJ	Degree=Pos	19
+	option	option	NOUN	NN	Number=Sing	21
+	now	now	ADV	RB	None	21
+	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2
+	to	to	PART	TO	None	23
+	slit	slit	VERB	VB	VerbForm=Inf	21
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	26
+	own	own	ADJ	JJ	Degree=Pos	26
+	throat	throat	NOUN	NN	Number=Sing	23
+	before	before	SCONJ	IN	None	30
+	the	the	DET	DT	Definite=Def|PronType=Art	29
+	Duchess	Duchess	PROPN	NNP	Number=Sing	30
+	gets	get	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23
+	here	here	ADV	RB	PronType=Dem	30
+	.	.	PUNCT	.	None	2
+
+	# ANAPHER:
+	There	there	PRON	EX	None	2
+	s	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0
+	no	no	DET	DT	None	4
+	way	way	NOUN	NN	Number=Sing	2
+	that	that	PRON	WDT	PronType=Rel	7
+	will	will	AUX	MD	VerbForm=Fin	7
+	work	work	VERB	VB	VerbForm=Inf	4
+	out	out	ADP	RP	None	7
+	...	...	PUNCT	,	None	2
+	now	now	ADV	RB	None	2
+	,	,	PUNCT	,	None	12
+	leave	leave	VERB	VB	VerbForm=Fin	2
+	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	12
+	alone	alone	ADV	RB	None	12
+	,	,	PUNCT	,	None	2
+	as	as	SCONJ	IN	None	21
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	19
+	only	only	ADJ	JJ	Degree=Pos	19
+	option	option	NOUN	NN	Number=Sing	21
+	now	now	ADV	RB	None	21
+	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2
+	to	to	PART	TO	None	23
+	slit	slit	VERB	VB	VerbForm=Inf	21
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	26
+	own	own	ADJ	JJ	Degree=Pos	26
+	throat	throat	NOUN	NN	Number=Sing	23
+	before	before	SCONJ	IN	None	30
+	the	the	DET	DT	Definite=Def|PronType=Art	29
+	Duchess	Duchess	PROPN	NNP	Number=Sing	30
+	gets	get	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23
+	here	here	ADV	RB	PronType=Dem	30
+	.	.	PUNCT	.	None	2
+
+
+# KOREFERENZPAAR 117:
+	# ANTEZEDENS:
+	If	if	SCONJ	IN	None	3
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3
+	get	get	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16
+	someone	someone	PRON	NN	Number=Sing	3
+	to	to	PART	TO	None	6
+	break	break	VERB	VB	VerbForm=Inf	4
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	6
+	out	out	ADP	RP	None	6
+	and	and	CCONJ	CC	None	10
+	tie	tie	VERB	VB	VerbForm=Inf	6
+	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	10
+	up	up	ADP	RP	None	10
+	,	,	PUNCT	,	None	16
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	16
+	can	can	AUX	MD	VerbForm=Fin	16
+	have	have	VERB	VB	VerbForm=Inf	0
+	freedom	freedom	NOUN	NN	Number=Sing	16
+	and	and	CCONJ	CC	None	22
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	20
+	honour	honour	NOUN	NN	Number=Sing	17
+	can	can	AUX	MD	VerbForm=Fin	22
+	remain	remain	VERB	VB	VerbForm=Inf	16
+	intact	intact	ADJ	JJ	Degree=Pos	22
+	.	.	PUNCT	.	None	16
+
+	# ANAPHER:
+	There	there	PRON	EX	None	2
+	s	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0
+	no	no	DET	DT	None	4
+	way	way	NOUN	NN	Number=Sing	2
+	that	that	PRON	WDT	PronType=Rel	7
+	will	will	AUX	MD	VerbForm=Fin	7
+	work	work	VERB	VB	VerbForm=Inf	4
+	out	out	ADP	RP	None	7
+	...	...	PUNCT	,	None	2
+	now	now	ADV	RB	None	2
+	,	,	PUNCT	,	None	12
+	leave	leave	VERB	VB	VerbForm=Fin	2
+	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	12
+	alone	alone	ADV	RB	None	12
+	,	,	PUNCT	,	None	2
+	as	as	SCONJ	IN	None	21
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	19
+	only	only	ADJ	JJ	Degree=Pos	19
+	option	option	NOUN	NN	Number=Sing	21
+	now	now	ADV	RB	None	21
+	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2
+	to	to	PART	TO	None	23
+	slit	slit	VERB	VB	VerbForm=Inf	21
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	26
+	own	own	ADJ	JJ	Degree=Pos	26
+	throat	throat	NOUN	NN	Number=Sing	23
+	before	before	SCONJ	IN	None	30
+	the	the	DET	DT	Definite=Def|PronType=Art	29
+	Duchess	Duchess	PROPN	NNP	Number=Sing	30
+	gets	get	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23
+	here	here	ADV	RB	PronType=Dem	30
+	.	.	PUNCT	.	None	2
+
+
+# KOREFERENZPAAR 118:
+	# ANTEZEDENS:
+	Look	look	VERB	VB	Mood=Imp|VerbForm=Fin	0
+	lad	lad	NOUN	NN	Number=Sing	1
+	,	,	PUNCT	,	None	1
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6
+	would	would	AUX	MD	VerbForm=Fin	6
+	love	love	VERB	VB	VerbForm=Inf	1
+	to	to	PART	TO	None	8
+	help	help	VERB	VB	VerbForm=Inf	6
+	-	-	PUNCT	,	None	1
+	but	but	CCONJ	CC	None	16
+	if	if	SCONJ	IN	None	13
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13
+	do	do	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16
+	,	,	PUNCT	,	None	16
+	that	that	PRON	DT	Number=Sing|PronType=Dem	16
+	means	mean	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1
+	the	the	DET	DT	Definite=Def|PronType=Art	18
+	head	head	NOUN	NN	Number=Sing	16
+	of	of	ADP	IN	None	20
+	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	18
+	and	and	CCONJ	CC	None	23
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	23
+	family	family	NOUN	NN	Number=Sing	20
+	.	.	PUNCT	.	None	1
+
+	# ANAPHER:
+	There	there	PRON	EX	None	2
+	s	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0
+	no	no	DET	DT	None	4
+	way	way	NOUN	NN	Number=Sing	2
+	that	that	PRON	WDT	PronType=Rel	7
+	will	will	AUX	MD	VerbForm=Fin	7
+	work	work	VERB	VB	VerbForm=Inf	4
+	out	out	ADP	RP	None	7
+	...	...	PUNCT	,	None	2
+	now	now	ADV	RB	None	2
+	,	,	PUNCT	,	None	12
+	leave	leave	VERB	VB	VerbForm=Fin	2
+	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	12
+	alone	alone	ADV	RB	None	12
+	,	,	PUNCT	,	None	2
+	as	as	SCONJ	IN	None	21
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	19
+	only	only	ADJ	JJ	Degree=Pos	19
+	option	option	NOUN	NN	Number=Sing	21
+	now	now	ADV	RB	None	21
+	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2
+	to	to	PART	TO	None	23
+	slit	slit	VERB	VB	VerbForm=Inf	21
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	26
+	own	own	ADJ	JJ	Degree=Pos	26
+	throat	throat	NOUN	NN	Number=Sing	23
+	before	before	SCONJ	IN	None	30
+	the	the	DET	DT	Definite=Def|PronType=Art	29
+	Duchess	Duchess	PROPN	NNP	Number=Sing	30
+	gets	get	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23
+	here	here	ADV	RB	PronType=Dem	30
+	.	.	PUNCT	.	None	2
+
+
+# KOREFERENZPAAR 119:
+	# ANTEZEDENS:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4
+	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4
+	nt	not	PART	RB	None	4
+	think	think	VERB	VB	VerbForm=Inf	0
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7
+	truly	truly	ADV	RB	None	7
+	understand	understand	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Inf	4
+	the	the	DET	DT	Definite=Def|PronType=Art	9
+	situation	situation	NOUN	NN	Number=Sing	7
+	...	...	PUNCT	,	None	4
+	these	this	DET	DT	Number=Plur|PronType=Dem	12
+	men	man	NOUN	NNS	Number=Plur	15
+	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	15
+	very	very	ADV	RB	None	15
+	important	important	ADJ	JJ	Degree=Pos	4
+	to	to	ADP	IN	None	18
+	the	the	DET	DT	Definite=Def|PronType=Art	18
+	Duchess	Duchess	PROPN	NNP	Number=Sing	15
+	!	!	PUNCT	.	None	4
+
+	# ANAPHER:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3
+	will	will	AUX	MD	VerbForm=Fin	3
+	perish	perish	VERB	VB	VerbForm=Inf	0
+	within	within	ADP	IN	None	6
+	these	this	DET	DT	Number=Plur|PronType=Dem	6
+	walls	wall	NOUN	NNS	Number=Plur	3
+	,	,	PUNCT	,	None	12
+	and	and	CCONJ	CC	None	12
+	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12
+	will	will	AUX	MD	VerbForm=Fin	12
+	likely	likely	ADV	RB	None	12
+	make	make	VERB	VB	VerbForm=Inf	3
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	14
+	death	death	NOUN	NN	Number=Sing	12
+	a	a	DET	DT	Definite=Ind|PronType=Art	20
+	rather	rather	ADV	RB	None	17
+	painful	painful	ADJ	JJ	Degree=Pos	20
+	and	and	CCONJ	CC	None	19
+	gruesome	gruesome	ADJ	JJ	Degree=Pos	17
+	one	one	NOUN	NN	Number=Sing	12
+	at	at	ADP	IN	None	22
+	that	that	PRON	DT	Number=Sing|PronType=Dem	20
+	!	!	PUNCT	.	None	3
+
+
+# KOREFERENZPAAR 120:
+	# ANTEZEDENS:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3
+	will	will	AUX	MD	VerbForm=Fin	3
+	perish	perish	VERB	VB	VerbForm=Inf	0
+	within	within	ADP	IN	None	6
+	these	this	DET	DT	Number=Plur|PronType=Dem	6
+	walls	wall	NOUN	NNS	Number=Plur	3
+	,	,	PUNCT	,	None	12
+	and	and	CCONJ	CC	None	12
+	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12
+	will	will	AUX	MD	VerbForm=Fin	12
+	likely	likely	ADV	RB	None	12
+	make	make	VERB	VB	VerbForm=Inf	3
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	14
+	death	death	NOUN	NN	Number=Sing	12
+	a	a	DET	DT	Definite=Ind|PronType=Art	20
+	rather	rather	ADV	RB	None	17
+	painful	painful	ADJ	JJ	Degree=Pos	20
+	and	and	CCONJ	CC	None	19
+	gruesome	gruesome	ADJ	JJ	Degree=Pos	17
+	one	one	NOUN	NN	Number=Sing	12
+	at	at	ADP	IN	None	22
+	that	that	PRON	DT	Number=Sing|PronType=Dem	20
+	!	!	PUNCT	.	None	3
+
+	# ANAPHER:
+	This	this	PRON	DT	Number=Sing|PronType=Dem	5
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5
+	only	only	ADJ	JJ	Degree=Pos	5
+	choice	choice	NOUN	NN	Number=Sing	0
+	!	!	PUNCT	.	None	5
+
+
+# KOREFERENZPAAR 121:
+	# ANTEZEDENS:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4
+	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4
+	nt	not	PART	RB	None	4
+	think	think	VERB	VB	VerbForm=Inf	0
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7
+	truly	truly	ADV	RB	None	7
+	understand	understand	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Inf	4
+	the	the	DET	DT	Definite=Def|PronType=Art	9
+	situation	situation	NOUN	NN	Number=Sing	7
+	...	...	PUNCT	,	None	4
+	these	this	DET	DT	Number=Plur|PronType=Dem	12
+	men	man	NOUN	NNS	Number=Plur	15
+	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	15
+	very	very	ADV	RB	None	15
+	important	important	ADJ	JJ	Degree=Pos	4
+	to	to	ADP	IN	None	18
+	the	the	DET	DT	Definite=Def|PronType=Art	18
+	Duchess	Duchess	PROPN	NNP	Number=Sing	15
+	!	!	PUNCT	.	None	4
+
+	# ANAPHER:
+	This	this	PRON	DT	Number=Sing|PronType=Dem	5
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5
+	only	only	ADJ	JJ	Degree=Pos	5
+	choice	choice	NOUN	NN	Number=Sing	0
+	!	!	PUNCT	.	None	5
+
+
+# KOREFERENZPAAR 122:
+	# ANTEZEDENS:
+	What	what	PRON	WP	PronType=Int	3
+	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3
+	led	lead	VERB	VBN	Tense=Past|VerbForm=Part	0
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	3
+	to	to	PART	TO	None	6
+	sleep	sleep	VERB	VB	VerbForm=Inf	3
+	in	in	ADP	IN	None	9
+	the	the	DET	DT	Definite=Def|PronType=Art	9
+	shadow	shadow	NOUN	NN	Number=Sing	6
+	of	of	ADP	IN	None	12
+	the	the	DET	DT	Definite=Def|PronType=Art	12
+	church	church	NOUN	NN	Number=Sing	9
+	rather	rather	ADV	RB	None	15
+	than	than	ADP	IN	None	13
+	bask	bask	VERB	VB	VerbForm=Inf	6
+	in	in	ADP	IN	None	18
+	the	the	DET	DT	Definite=Def|PronType=Art	18
+	glory	glory	NOUN	NN	Number=Sing	15
+	of	of	ADP	IN	None	21
+	His	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	21
+	light	light	NOUN	NN	Number=Sing	18
+	?	?	PUNCT	.	None	3
+
+	# ANAPHER:
+	Well	well	INTJ	UH	None	5
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5
+	ve	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5
+	been	be	AUX	VBN	Tense=Past|VerbForm=Part	5
+	shooed	shooe	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0
+	out	out	ADP	RP	None	5
+	by	by	ADP	IN	None	8
+	priests	priest	NOUN	NNS	Number=Plur	5
+	for	for	SCONJ	IN	None	11
+	being	be	AUX	VBG	VerbForm=Ger	11
+	homeless	homeless	ADJ	JJ	Degree=Pos	5
+	and	and	CCONJ	CC	None	17
+	that	that	PRON	DT	Number=Sing|PronType=Dem	17
+	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17
+	nt	not	PART	RB	None	17
+	exactly	exactly	ADV	RB	None	17
+	make	make	VERB	VB	VerbForm=Inf	5
+	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	17
+	feel	feel	VERB	VB	VerbForm=Inf	17
+	warm	warm	ADJ	JJ	Degree=Pos	19
+	and	and	CCONJ	CC	None	22
+	welcome	welcome	ADJ	JJ	Degree=Pos	20
+	.	.	PUNCT	.	None	5
+
+
+# KOREFERENZPAAR 123:
+	# ANTEZEDENS:
+	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2
+	bitterness	bitterness	NOUN	NN	Number=Sing	5
+	will	will	AUX	MD	VerbForm=Fin	5
+	only	only	ADV	RB	None	5
+	haunt	haunt	VERB	VB	VerbForm=Inf	0
+	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	7
+	soul	soul	NOUN	NN	Number=Sing	5
+	and	and	CCONJ	CC	None	9
+	do	do	VERB	VB	VerbForm=Inf	5
+	nothing	nothing	PRON	NN	Number=Sing	9
+	to	to	PART	TO	None	12
+	change	change	VERB	VB	VerbForm=Inf	10
+	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	14
+	ways	way	NOUN	NNS	Number=Plur	12
+	.	.	PUNCT	.	None	5
+
+	# ANAPHER:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2
+	suppose	suppose	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	that	that	PRON	DT	Number=Sing|PronType=Dem	4
+	seems	seem	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2
+	like	like	ADP	IN	None	8
+	a	a	DET	DT	Definite=Ind|PronType=Art	8
+	sincere	sincere	ADJ	JJ	Degree=Pos	8
+	apology	apology	NOUN	NN	Number=Sing	4
+	.	.	PUNCT	.	None	2
+
+
+# KOREFERENZPAAR 124:
+	# ANTEZEDENS:
+	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2
+	bitterness	bitterness	NOUN	NN	Number=Sing	5
+	will	will	AUX	MD	VerbForm=Fin	5
+	only	only	ADV	RB	None	5
+	haunt	haunt	VERB	VB	VerbForm=Inf	0
+	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	7
+	soul	soul	NOUN	NN	Number=Sing	5
+	and	and	CCONJ	CC	None	9
+	do	do	VERB	VB	VerbForm=Inf	5
+	nothing	nothing	PRON	NN	Number=Sing	9
+	to	to	PART	TO	None	12
+	change	change	VERB	VB	VerbForm=Inf	10
+	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	14
+	ways	way	NOUN	NNS	Number=Plur	12
+	.	.	PUNCT	.	None	5
+
+	# ANAPHER:
+	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4
+	really	really	ADV	RB	None	4
+	sad	sad	ADJ	JJ	Degree=Pos	0
+	to	to	PART	TO	None	6
+	see	see	VERB	VB	VerbForm=Inf	4
+	so	so	ADV	RB	None	8
+	many	many	ADJ	JJ	Degree=Pos	12
+	corrupt	corrupt	ADJ	JJ	Degree=Pos	12
+	,	,	PUNCT	,	None	12
+	awful	awful	ADJ	JJ	Degree=Pos	12
+	priests	priest	NOUN	NNS	Number=Plur	6
+	that	that	PRON	WDT	PronType=Rel	15
+	just	just	ADV	RB	None	15
+	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12
+	to	to	PART	TO	None	17
+	squeeze	squeeze	VERB	VB	VerbForm=Inf	15
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	17
+	for	for	ADP	IN	None	22
+	all	all	DET	PDT	None	22
+	the	the	DET	DT	Definite=Def|PronType=Art	22
+	coin	coin	NOUN	NN	Number=Sing	17
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	25
+	ve	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	25
+	got	get	VERB	VBN	Tense=Past|VerbForm=Part	22
+	.	.	PUNCT	.	None	4
+
+
+# KOREFERENZPAAR 125:
+	# ANTEZEDENS:
+	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3
+	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3
+	isolated	isolate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0
+	here	here	ADV	RB	PronType=Dem	3
+	from	from	ADP	IN	None	8
+	the	the	DET	DT	Definite=Def|PronType=Art	8
+	encroaching	encroach	VERB	VBG	VerbForm=Ger	8
+	greed	greed	NOUN	NN	Number=Sing	3
+	,	,	PUNCT	,	None	12
+	but	but	CCONJ	CC	None	12
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	12
+	fear	fear	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3
+	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15
+	may	may	AUX	MD	VerbForm=Fin	15
+	overtake	overtake	VERB	VB	VerbForm=Inf	12
+	the	the	DET	DT	Definite=Def|PronType=Art	17
+	church	church	NOUN	NN	Number=Sing	15
+	soon	soon	ADV	RB	Degree=Pos	15
+	and	and	CCONJ	CC	None	23
+	schism	schism	NOUN	NN	Number=Sing	23
+	will	will	AUX	MD	VerbForm=Fin	23
+	soon	soon	ADV	RB	Degree=Pos	23
+	follow	follow	VERB	VB	VerbForm=Inf	15
+	.	.	PUNCT	.	None	3
+
+	# ANAPHER:
+	But	but	CCONJ	CC	None	2
+	enough	enough	ADJ	JJ	Degree=Pos	0
+	of	of	ADP	IN	None	4
+	that	that	PRON	DT	Number=Sing|PronType=Dem	2
+	!	!	PUNCT	.	None	2
+
+
+# KOREFERENZPAAR 126:
+	# ANTEZEDENS:
+	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3
+	will	will	AUX	MD	VerbForm=Fin	3
+	bathe	bathe	VERB	VB	VerbForm=Inf	0
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	3
+	and	and	CCONJ	CC	None	6
+	get	get	VERB	VB	VerbForm=Inf	3
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	6
+	new	new	ADJ	JJ	Degree=Pos	9
+	clothes	clothes	NOUN	NNS	Number=Plur	6
+	!	!	PUNCT	.	None	3
+
+	# ANAPHER:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4
+	shall	shall	AUX	MD	VerbForm=Fin	4
+	even	even	ADV	RB	None	4
+	seek	seek	VERB	VB	VerbForm=Inf	0
+	out	out	ADP	RP	None	4
+	those	that	PRON	DT	Number=Plur|PronType=Dem	4
+	that	that	PRON	WDT	PronType=Rel	9
+	might	might	AUX	MD	VerbForm=Fin	9
+	hire	hire	VERB	VB	VerbForm=Inf	6
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	9
+	from	from	ADP	IN	None	14
+	amongst	amongst	ADP	IN	None	14
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	14
+	flock	flock	NOUN	NN	Number=Sing	9
+	.	.	PUNCT	.	None	4
+
+
+# KOREFERENZPAAR 127:
+	# ANTEZEDENS:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3
+	only	only	ADV	RB	None	3
+	ask	ask	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	that	that	PRON	DT	Number=Sing|PronType=Dem	3
+	in	in	ADP	IN	None	6
+	exchange	exchange	NOUN	NN	Number=Sing	3
+	,	,	PUNCT	,	None	3
+	when	when	SCONJ	WRB	PronType=Int	11
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11
+	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11
+	back	back	ADV	RB	None	17
+	on	on	ADP	IN	None	14
+	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	14
+	feet	foot	NOUN	NNS	Number=Plur	11
+	,	,	PUNCT	,	None	17
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	17
+	donate	donate	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3
+	clothes	clothes	NOUN	NNS	Number=Plur	17
+	to	to	ADP	IN	None	21
+	the	the	DET	DT	Definite=Def|PronType=Art	21
+	church	church	NOUN	NN	Number=Sing	17
+	so	so	SCONJ	IN	None	26
+	that	that	SCONJ	IN	None	22
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	26
+	may	may	AUX	MD	VerbForm=Fin	26
+	help	help	VERB	VB	VerbForm=Inf	17
+	another	another	DET	DT	None	26
+	.	.	PUNCT	.	None	3
+
+	# ANAPHER:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3
+	only	only	ADV	RB	None	3
+	ask	ask	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	that	that	PRON	DT	Number=Sing|PronType=Dem	3
+	in	in	ADP	IN	None	6
+	exchange	exchange	NOUN	NN	Number=Sing	3
+	,	,	PUNCT	,	None	3
+	when	when	SCONJ	WRB	PronType=Int	11
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11
+	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11
+	back	back	ADV	RB	None	17
+	on	on	ADP	IN	None	14
+	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	14
+	feet	foot	NOUN	NNS	Number=Plur	11
+	,	,	PUNCT	,	None	17
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	17
+	donate	donate	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3
+	clothes	clothes	NOUN	NNS	Number=Plur	17
+	to	to	ADP	IN	None	21
+	the	the	DET	DT	Definite=Def|PronType=Art	21
+	church	church	NOUN	NN	Number=Sing	17
+	so	so	SCONJ	IN	None	26
+	that	that	SCONJ	IN	None	22
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	26
+	may	may	AUX	MD	VerbForm=Fin	26
+	help	help	VERB	VB	VerbForm=Inf	17
+	another	another	DET	DT	None	26
+	.	.	PUNCT	.	None	3
+
+
+# KOREFERENZPAAR 128:
+	# ANTEZEDENS:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4
+	shall	shall	AUX	MD	VerbForm=Fin	4
+	even	even	ADV	RB	None	4
+	seek	seek	VERB	VB	VerbForm=Inf	0
+	out	out	ADP	RP	None	4
+	those	that	PRON	DT	Number=Plur|PronType=Dem	4
+	that	that	PRON	WDT	PronType=Rel	9
+	might	might	AUX	MD	VerbForm=Fin	9
+	hire	hire	VERB	VB	VerbForm=Inf	6
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	9
+	from	from	ADP	IN	None	14
+	amongst	amongst	ADP	IN	None	14
+	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	14
+	flock	flock	NOUN	NN	Number=Sing	9
+	.	.	PUNCT	.	None	4
+
+	# ANAPHER:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3
+	only	only	ADV	RB	None	3
+	ask	ask	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	that	that	PRON	DT	Number=Sing|PronType=Dem	3
+	in	in	ADP	IN	None	6
+	exchange	exchange	NOUN	NN	Number=Sing	3
+	,	,	PUNCT	,	None	3
+	when	when	SCONJ	WRB	PronType=Int	11
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11
+	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11
+	back	back	ADV	RB	None	17
+	on	on	ADP	IN	None	14
+	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	14
+	feet	foot	NOUN	NNS	Number=Plur	11
+	,	,	PUNCT	,	None	17
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	17
+	donate	donate	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3
+	clothes	clothes	NOUN	NNS	Number=Plur	17
+	to	to	ADP	IN	None	21
+	the	the	DET	DT	Definite=Def|PronType=Art	21
+	church	church	NOUN	NN	Number=Sing	17
+	so	so	SCONJ	IN	None	26
+	that	that	SCONJ	IN	None	22
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	26
+	may	may	AUX	MD	VerbForm=Fin	26
+	help	help	VERB	VB	VerbForm=Inf	17
+	another	another	DET	DT	None	26
+	.	.	PUNCT	.	None	3
+
+
+# KOREFERENZPAAR 129:
+	# ANTEZEDENS:
+	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3
+	will	will	AUX	MD	VerbForm=Fin	3
+	bathe	bathe	VERB	VB	VerbForm=Inf	0
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	3
+	and	and	CCONJ	CC	None	6
+	get	get	VERB	VB	VerbForm=Inf	3
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	6
+	new	new	ADJ	JJ	Degree=Pos	9
+	clothes	clothes	NOUN	NNS	Number=Plur	6
+	!	!	PUNCT	.	None	3
+
+	# ANAPHER:
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3
+	only	only	ADV	RB	None	3
+	ask	ask	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0
+	that	that	PRON	DT	Number=Sing|PronType=Dem	3
+	in	in	ADP	IN	None	6
+	exchange	exchange	NOUN	NN	Number=Sing	3
+	,	,	PUNCT	,	None	3
+	when	when	SCONJ	WRB	PronType=Int	11
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11
+	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11
+	back	back	ADV	RB	None	17
+	on	on	ADP	IN	None	14
+	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	14
+	feet	foot	NOUN	NNS	Number=Plur	11
+	,	,	PUNCT	,	None	17
+	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	17
+	donate	donate	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3
+	clothes	clothes	NOUN	NNS	Number=Plur	17
+	to	to	ADP	IN	None	21
+	the	the	DET	DT	Definite=Def|PronType=Art	21
+	church	church	NOUN	NN	Number=Sing	17
+	so	so	SCONJ	IN	None	26
+	that	that	SCONJ	IN	None	22
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	26
+	may	may	AUX	MD	VerbForm=Fin	26
+	help	help	VERB	VB	VerbForm=Inf	17
+	another	another	DET	DT	None	26
+	.	.	PUNCT	.	None	3
+
+
+# KOREFERENZPAAR 130:
+	# ANTEZEDENS:
+	After	after	ADP	IN	None	2
+	all	all	DET	DT	None	12
+	,	,	PUNCT	,	None	12
+	the	the	DET	DT	Definite=Def|PronType=Art	5
+	clothes	clothes	NOUN	NNS	Number=Plur	12
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8
+	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8
+	about	about	ADJ	JJ	Degree=Pos	5
+	to	to	PART	TO	None	10
+	give	give	VERB	VB	VerbForm=Inf	8
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	10
+	came	come	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0
+	from	from	ADP	IN	None	14
+	one	one	NUM	CD	NumType=Card	12
+	that	that	PRON	WDT	PronType=Rel	20
+	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20
+	once	once	ADV	RB	NumType=Mult	20
+	in	in	ADP	IN	None	20
+	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	20
+	position	position	NOUN	NN	Number=Sing	14
+	and	and	CCONJ	CC	None	22
+	wished	wish	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	12
+	to	to	PART	TO	None	24
+	help	help	VERB	VB	VerbForm=Inf	22
+	the	the	DET	DT	Definite=Def|PronType=Art	28
+	next	next	ADJ	JJ	Degree=Pos	28
+	poor	poor	ADJ	JJ	Degree=Pos	28
+	soul	soul	NOUN	NN	Number=Sing	24
+	that	that	PRON	WDT	PronType=Rel	30
+	found	find	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	28
+	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	32
+	way	way	NOUN	NN	Number=Sing	30
+	to	to	ADP	IN	None	35
+	this	this	DET	DT	Number=Sing|PronType=Dem	35
+	church	church	NOUN	NN	Number=Sing	30
+	.	.	PUNCT	.	None	12
+
+	# ANAPHER:
+	After	after	ADP	IN	None	2
+	all	all	DET	DT	None	12
+	,	,	PUNCT	,	None	12
+	the	the	DET	DT	Definite=Def|PronType=Art	5
+	clothes	clothes	NOUN	NNS	Number=Plur	12
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8
+	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8
+	about	about	ADJ	JJ	Degree=Pos	5
+	to	to	PART	TO	None	10
+	give	give	VERB	VB	VerbForm=Inf	8
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	10
+	came	come	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0
+	from	from	ADP	IN	None	14
+	one	one	NUM	CD	NumType=Card	12
+	that	that	PRON	WDT	PronType=Rel	20
+	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20
+	once	once	ADV	RB	NumType=Mult	20
+	in	in	ADP	IN	None	20
+	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	20
+	position	position	NOUN	NN	Number=Sing	14
+	and	and	CCONJ	CC	None	22
+	wished	wish	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	12
+	to	to	PART	TO	None	24
+	help	help	VERB	VB	VerbForm=Inf	22
+	the	the	DET	DT	Definite=Def|PronType=Art	28
+	next	next	ADJ	JJ	Degree=Pos	28
+	poor	poor	ADJ	JJ	Degree=Pos	28
+	soul	soul	NOUN	NN	Number=Sing	24
+	that	that	PRON	WDT	PronType=Rel	30
+	found	find	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	28
+	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	32
+	way	way	NOUN	NN	Number=Sing	30
+	to	to	ADP	IN	None	35
+	this	this	DET	DT	Number=Sing|PronType=Dem	35
+	church	church	NOUN	NN	Number=Sing	30
+	.	.	PUNCT	.	None	12
+
+
+# KOREFERENZPAAR 131:
+	# ANTEZEDENS:
+	After	after	ADP	IN	None	2
+	all	all	DET	DT	None	12
+	,	,	PUNCT	,	None	12
+	the	the	DET	DT	Definite=Def|PronType=Art	5
+	clothes	clothes	NOUN	NNS	Number=Plur	12
+	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8
+	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8
+	about	about	ADJ	JJ	Degree=Pos	5
+	to	to	PART	TO	None	10
+	give	give	VERB	VB	VerbForm=Inf	8
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	10
+	came	come	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0
+	from	from	ADP	IN	None	14
+	one	one	NUM	CD	NumType=Card	12
+	that	that	PRON	WDT	PronType=Rel	20
+	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20
+	once	once	ADV	RB	NumType=Mult	20
+	in	in	ADP	IN	None	20
+	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	20
+	position	position	NOUN	NN	Number=Sing	14
+	and	and	CCONJ	CC	None	22
+	wished	wish	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	12
+	to	to	PART	TO	None	24
+	help	help	VERB	VB	VerbForm=Inf	22
+	the	the	DET	DT	Definite=Def|PronType=Art	28
+	next	next	ADJ	JJ	Degree=Pos	28
+	poor	poor	ADJ	JJ	Degree=Pos	28
+	soul	soul	NOUN	NN	Number=Sing	24
+	that	that	PRON	WDT	PronType=Rel	30
+	found	find	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	28
+	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	32
+	way	way	NOUN	NN	Number=Sing	30
+	to	to	ADP	IN	None	35
+	this	this	DET	DT	Number=Sing|PronType=Dem	35
+	church	church	NOUN	NN	Number=Sing	30
+	.	.	PUNCT	.	None	12
+
+	# ANAPHER:
+	Of	of	ADV	RB	None	10
+	course	course	ADV	RB	None	1
+	,	,	PUNCT	,	None	10
+	sir	sir	INTJ	UH	None	10
+	,	,	PUNCT	,	None	10
+	that	that	PRON	DT	Number=Sing|PronType=Dem	10
+	would	would	AUX	MD	VerbForm=Fin	10
+	be	be	AUX	VB	VerbForm=Inf	10
+	very	very	ADV	RB	None	10
+	generous	generous	ADJ	JJ	Degree=Pos	0
+	of	of	ADP	IN	None	12
+	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	10
+	!	!	PUNCT	.	None	10
+
+
+# KOREFERENZPAAR 132:
+	# ANTEZEDENS:
+	This	this	PRON	DT	Number=Sing|PronType=Dem	4
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4
+	not	not	PART	RB	None	4
+	extraordinary	extraordinary	ADJ	JJ	Degree=Pos	0
+	,	,	PUNCT	,	None	16
+	but	but	CCONJ	CC	None	16
+	how	how	SCONJ	WRB	PronType=Int	16
+	all	all	DET	DT	None	16
+	that	that	PRON	WDT	PronType=Rel	11
+	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11
+	filled	fill	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8
+	with	with	ADP	IN	None	14
+	Gods	Gods	PROPN	NNPS	Number=Plur	14
+	Love	Love	PROPN	NNP	Number=Sing	11
+	should	should	AUX	MD	VerbForm=Fin	16
+	act	act	VERB	VB	VerbForm=Inf	4
+	.	.	PUNCT	.	None	4
+
+	# ANAPHER:
+	This	this	PRON	DT	Number=Sing|PronType=Dem	4
+	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4
+	not	not	PART	RB	None	4
+	extraordinary	extraordinary	ADJ	JJ	Degree=Pos	0
+	,	,	PUNCT	,	None	16
+	but	but	CCONJ	CC	None	16
+	how	how	SCONJ	WRB	PronType=Int	16
+	all	all	DET	DT	None	16
+	that	that	PRON	WDT	PronType=Rel	11
+	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11
+	filled	fill	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8
+	with	with	ADP	IN	None	14
+	Gods	Gods	PROPN	NNPS	Number=Plur	14
+	Love	Love	PROPN	NNP	Number=Sing	11
+	should	should	AUX	MD	VerbForm=Fin	16
+	act	act	VERB	VB	VerbForm=Inf	4
+	.	.	PUNCT	.	None	4
+
+
