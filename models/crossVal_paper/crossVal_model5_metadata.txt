@@ -1,0 +1,26 @@
+# METADATEN ZU MODELL crossVal_paper/crossVal_model5
+
+# VERWENDETE TRAININGSDATEN
+development/light_dev.txt
+development/Persuasion_dev.txt
+development/RST_DTreeBank_dev.txt
+development/Switchboard_3_dev.txt
+
+# DATEN ZU TRAININGSVORGANG
+classes	[0. 1.]
+class_weights	{0: 0.5657976412166357, 1: 4.2995283018867925}
+intercept/bias term	-2.574562607726539
+n_iterations	391
+n_features	10
+
+# VERWENDETE FEATURES UND IHRE GEWICHTUNG
+form=that	0.5135315107454769
+sent_dist	0.256937363746783
+tok_dist	-0.030015112399796744
+anaph_pron	3.0699385796891443
+len_ante	-0.0008138989144465194
+lexical_overlap	-1.1436619379574027
+part_of_shell_noun	-2.061653212180081
+ante_inf_verb	0.5601978452450717
+form=it	-1.0141662229001784
+form=this	0.49392001781861916

@@ -1,0 +1,32 @@
+# METADATEN ZU MODELL fullExp_paper/fullExp_model
+
+# VERWENDETE TRAININGSDATEN
+development/AMI_dev.txt
+development/light_dev.txt
+development/Persuasion_dev.txt
+development/RST_DTreeBank_dev.txt
+development/Switchboard_3_dev.txt
+training/Gnome_Subset2.txt
+training/Pear_stories.txt
+training/RST_DTreeBank_train.txt
+training/Trains_91.txt
+training/Trains_93.txt
+
+# DATEN ZU TRAININGSVORGANG
+classes	[0. 1.]
+class_weights	{0: 0.5500052416395849, 1: 5.499475890985325}
+intercept/bias term	-3.483508029094647
+n_iterations	456
+n_features	10
+
+# VERWENDETE FEATURES UND IHRE GEWICHTUNG
+form=this	0.7860679419129255
+sent_dist	0.5009184310847249
+tok_dist	-0.041668089082209175
+anaph_pron	3.1645493155383018
+len_ante	0.009285599953565484
+lexical_overlap	-1.0617451322436626
+part_of_shell_noun	-0.9909943693924637
+ante_inf_verb	0.8962056193754647
+form=that	0.7083541914671118
+form=it	-1.4694124980288843
