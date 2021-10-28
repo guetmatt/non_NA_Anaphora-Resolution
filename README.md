@@ -19,6 +19,9 @@ Es sind insgesamt drei Dateien vorhanden.
 - `stanza_preprocessing.py` - Funktionen für die Vorverarbeitung der Datensätze durch Annotationsschritte mit Stanza. Nicht für die Verwendung durch einen User ausgelegt.
 - `classifier_use.py` - Enthält die Funktionen des Klassifizierers, die für die Verwendung des Users ausgelegt sind. Durch diese Datei werden die nachfolgend erläuterten Funktionen verfügbar.
 
+### Hinweis
+- in der hier vorliegenden Version des Programms fehlen die Verzeichnisse `data` und `data_annotated`, die für das Einlesen von Test- und Trainingsdatensätzen notwendig sind. Die Datensätze können aus datenschutzrechtlichen Gründen nicht öffentlich zur Verfügung gestellt werden.
+
 
 ## Funktionen von `classifier_use.py`
 
